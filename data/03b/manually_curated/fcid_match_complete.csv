@@ -1,0 +1,1064 @@
+Main.food.description,Food Description,ingred_clean,fcid_clean,Ingredient code,Similarity,correct,WWEIA Food Code
+"Crackers, wheat, reduced fat","Crackers, wheat, reduced fat",Crackers wheat reduced fat,Crackers wheat reduced fat,18950,1,,
+"Crackers, milk","Crackers, milk",Crackers milk,Crackers milk,18223,1,,
+"Strudel, apple","Strudel, apple",Strudel apple,Strudel apple,18354,1,,
+"Crackers, saltines, fat-free, low-sodium","Crackers, saltine, fat free, low sodium",Crackers saltine fat free low sodium,Crackers saltine fat free low sodium,18457,1,,
+"Pretzels, soft, unsalted","Pretzels, soft, unsalted",Pretzels soft unsalted,Pretzels soft unsalted,25024,1,,
+"Cream puff, eclair, custard or cream filled, iced","Cream puff, eclair, custard or cream filled, not iced",Cream puff eclair custard cream filled iced,Cream puff eclair custard cream filled iced,18969,1,,
+"Bread, potato","Bread, potato",Bread potato,Bread potato,18971,1,,
+"Bread, cheese","Bread, cheese",Bread cheese,Bread cheese,18972,1,,
+"Focaccia, Italian flatbread, plain","Focaccia, Italian flatbread, plain",Focaccia Italian flatbread plain,Focaccia Italian flatbread plain,18973,1,,
+Fruit syrup,Fruit syrup,Fruit syrup,Fruit syrup,19018,1,,
+Chewing gum,"Chewing gum, NFS",Chewing gum,Chewing gum,19163,1,,
+"Turkey and pork sausage, fresh, bulk, patty or link, cooked","Turkey and pork sausage, fresh, bulk, patty or link, cooked",Turkey pork sausage fresh bulk patty link cooked,Turkey pork sausage fresh bulk patty link cooked,42173,1,,
+"Bratwurst, pork, cooked","Bratwurst, pork, cooked",Bratwurst pork cooked,Bratwurst pork cooked,7013,1,,
+"Creamy dressing, made with sour cream and/or buttermilk and oil, reduced calorie","Creamy dressing, made with sour cream and/or buttermilk and oil, reduced calorie",Creamy dressing made sour cream andor buttermilk oil reduced calorie,Creamy dressing made sour cream andor buttermilk oil reduced calorie,42116,1,,
+"Bologna, beef","Bologna, beef",Bologna beef,Bologna beef,7007,1,,
+Blood sausage,Blood sausage,Blood sausage,Blood sausage,7005,1,,
+"Ice creams, chocolate, light, no sugar added","Light ice cream, no sugar added, chocolate",Ice cream chocolate light sugar,Light ice cream sugar chocolate,19265,1,,
+"Crackers, water biscuits","Crackers, water biscuits",Crackers water biscuit,Crackers water biscuit,28327,1,,
+"Bread, wheat, sprouted","Bread, sprouted wheat",Bread wheat sprouted,Bread sprouted wheat,28316,1,,
+"Bread, cinnamon","Bread, cinnamon",Bread cinnamon,Bread cinnamon,28315,1,,
+"Sauce, worcestershire",Worcestershire sauce,Sauce worcestershire,Worcestershire sauce,6971,1,,
+"Cookie, butter or sugar, with chocolate icing or filling","Cookie, butter or sugar, with chocolate icing or filling",Cookie butter sugar chocolate icing filling,Cookie butter sugar chocolate icing filling,28293,1,,
+"Cookie, with peanut butter filling, chocolate-coated","Cookie, with peanut butter filling, chocolate-coated",Cookie peanut butter filling chocolate coated,Cookie peanut butter filling chocolate coated,28290,1,,
+"Cookie, vanilla with caramel, coconut, and chocolate coating","Cookie, vanilla with caramel, coconut, and chocolate coating",Cookie vanilla caramel coconut chocolate coating,Cookie vanilla caramel coconut chocolate coating,28289,1,,
+"Split pea with ham soup, canned, reduced sodium, prepared with water or ready-to-serve","Split pea and ham soup, canned, reduced sodium, prepared with water or ready-to-serve",Split pea ham soup canned reduced sodium prepared water ready serve,Split pea ham soup canned reduced sodium prepared water ready serve,6193,1,,
+"Split pea soup, canned, reduced sodium, prepared with water or ready-to serve","Split pea soup, canned, reduced sodium, prepared with water or ready-to-serve",Split pea soup canned reduced sodium prepared water ready serve,Split pea soup canned reduced sodium prepared water ready serve,6192,1,,
+"Sauce, barbecue",Barbecue sauce,Sauce barbecue,Barbecue sauce,6150,1,,
+"Soup, bean & ham, canned, reduced sodium, prepared with water or ready-to-serve","Bean and ham soup, canned, reduced sodium, prepared with water or ready-to-serve",Soup bean ham canned reduced sodium prepared water ready serve,Bean ham soup canned reduced sodium prepared water ready serve,6190,1,,
+"Soup, chicken noodle, reduced sodium, canned, ready-to-serve","Chicken noodle soup, canned, reduced sodium, ready-to-serve",Soup chicken noodle reduced sodium canned ready serve,Chicken noodle soup canned reduced sodium ready serve,27044,1,,
+"Ravioli, meat-filled, with tomato sauce or meat sauce, canned","Ravioli, meat-filled, with tomato sauce or meat sauce, canned",Ravioli meat filled tomato sauce meat sauce canned,Ravioli meat filled tomato sauce meat sauce canned,22900,1,,
+Potato salad with egg,Potato salad with egg,Potato salad egg,Potato salad egg,22971,1,,
+"Danish pastry, cheese","Danish pastry, with cheese",Danish pastry cheese,Danish pastry cheese,18245,1,,
+"Soup, minestrone, canned, reduced sodium, ready-to-serve","Minestrone soup, canned, reduced sodium, ready-to-serve",Soup minestrone canned reduced sodium ready serve,Minestrone soup canned reduced sodium ready serve,6177,1,,
+"Soybean, curd cheese",Soybean curd cheese,Soybean curd cheese,Soybean curd cheese,43299,1,,
+"Chicken, meatless, breaded, fried","Chicken, meatless, breaded, fried",Chicken meatless breaded fried,Chicken meatless breaded fried,43410,1,,
+"Bread, oatmeal","Bread, oatmeal",Bread oatmeal,Bread oatmeal,18039,1,,
+"Bread, pumpernickel","Bread, pumpernickel",Bread pumpernickel,Bread pumpernickel,18044,1,,
+"Chicken, meatless","Chicken, meatless, NFS",Chicken meatless,Chicken meatless,43128,1,,
+Clif Z bar,Clif Bar,Clif Z bar,Clif Bar,3000,1,,
+"Nutritional supplement for people with diabetes, liquid","Nutritional supplement for people with diabetes, liquid",Nutritional supplement for people diabetes liquid,Nutritional supplement for people diabetes liquid,1250,1,,
+"Bread, rye","Bread, rye",Bread rye,Bread rye,18060,1,,
+"Ice cream cone, chocolate covered, with nuts, flavors other than chocolate","Ice cream cone, chocolate covered, with nuts, flavors other than chocolate",Ice cream cone chocolate covered nut flavor other than chocolate,Ice cream cone chocolate covered nut flavor other than chocolate,1240,1,,
+"Ice cream, bar or stick, chocolate covered","Ice cream bar or stick, chocolate covered",Ice cream bar stick chocolate covered,Ice cream bar stick chocolate covered,1237,1,,
+"Chocolate-flavored drink, whey and milk based","Chocolate-flavored drink, whey- and milk-based",Chocolate flavored drink whey milk based,Chocolate flavored drink whey milk based,43369,1,,
+"Cranberry-apple juice drink, low calorie, with vitamin C added","Cranberry-apple juice drink, low calorie, with vitamin C added",Cranberry apple juice drink low calorie C,Cranberry apple juice drink low calorie C,43404,1,,
+"Bacon bits, meatless","Bacon bits, meatless",Bacon bit meatless,Bacon bit meatless,43212,1,,
+"Bread, pita, whole-wheat","Bread, pita, whole wheat, 100%",Bread pita whole wheat,Bread pita whole wheat,18042,1,,
+Milk and cereal bar,Milk 'n Cereal bar,Milk cereal bar,Milk n Cereal bar,8510,1,,
+"Soup, clam chowder, new england, reduced sodium, canned, ready-to-serve","Clam chowder, New England, canned, reduced sodium, ready-to-serve",Soup clam chowder new england reduced sodium canned ready serve,Clam chowder New England canned reduced sodium ready serve,27043,0.984,,
+"Salad dressing, blue or roquefort cheese, low calorie","Blue or roquefort cheese dressing, low-calorie",Salad dressing blue roquefort cheese low calorie,Blue roquefort cheese dressing low calorie,43020,0.978,,
+"Creamy dressing, made with sour cream and/or buttermilk and oil, reduced calorie, fat-free","Creamy dressing, made with sour cream and/or buttermilk and oil, reduced calorie",Creamy dressing made sour cream andor buttermilk oil reduced calorie fat free,Creamy dressing made sour cream andor buttermilk oil reduced calorie,42157,0.978,,
+"Imitation cheese, american or cheddar, low cholesterol","Imitation cheese, American or cheddar type, low cholesterol",Imitation cheese american cheddar low cholesterol,Imitation cheese American cheddar type low cholesterol,42117,0.974,,
+"Crackers, sandwich-type, peanut butter filled, reduced fat","Cracker, sandwich-type, peanut butter filled, reduced fat",Crackers sandwich type peanut butter filled reduced fat,Cracker sandwich type peanut butter filled reduced fat,28314,0.973,,
+"Salad dressing, caesar, low calorie","Caesar dressing, low-calorie",Salad dressing caesar low calorie,Caesar dressing low calorie,43021,0.967,,
+"Cookies, marshmallow, with rice cereal and chocolate chips","Cookie, marshmallow, with rice cereal and chocolate chips",Cookies marshmallow rice cereal chocolate chip,Cookie marshmallow rice cereal chocolate chip,28330,0.967,,
+"Soup, chicken broth, low sodium, canned","Chicken broth, canned, low sodium",Soup chicken broth low sodium canned,Chicken broth canned low sodium,6970,0.958,,
+"Rhubarb, frozen, cooked, with sugar","Rhubarb, frozen, with sugar",Rhubarb frozen cooked sugar,Rhubarb frozen sugar,9310,0.958,,
+"Cookies, shortbread, reduced fat","Cookie, shortbread, reduced fat",Cookies shortbread reduced fat,Cookie shortbread reduced fat,28310,0.958,,
+"Cookies, oatmeal sandwich, with creme filling","Cookie, oatmeal sandwich, with creme filling",Cookies oatmeal sandwich creme filling,Cookie oatmeal sandwich creme filling,28300,0.958,,
+"Cookies, gingersnaps","Cookie, gingersnaps",Cookies gingersnap,Cookie gingersnap,18172,0.956,,
+"Crackers, whole-wheat, reduced fat","Cracker, 100% whole wheat, reduced fat",Crackers whole wheat reduced fat,Cracker whole wheat reduced fat,18949,0.956,,
+"Breakfast tart, low fat",Breakfast tart,Breakfast tart low fat,Breakfast tart,18459,0.953,,
+"Raspberries, frozen, red, sweetened","Raspberries, frozen, NS as to added sweetener",Raspberries frozen red sweetened,Raspberries frozen sweetener,9306,0.952,,
+"Rolls, pumpernickel","Roll, pumpernickel",Rolls pumpernickel,Roll pumpernickel,43441,0.949,,
+"Sauce, steak, tomato based","Steak sauce, tomato-base",Sauce steak tomato based,Steak sauce tomato base,27048,0.949,,
+"Toppings, butterscotch or caramel","Topping, butterscotch or caramel",Toppings butterscotch caramel,Topping butterscotch caramel,19364,0.947,,
+"Crackers, cheese, low sodium","Cracker, cheese, low sodium",Crackers cheese low sodium,Cracker cheese low sodium,18434,0.945,,
+"Dressing, honey mustard, fat-free",Honey mustard dressing,Dressing honey mustard fat free,Honey mustard dressing,4706,0.943,,
+"Cookies, chocolate wafers","Cookie, chocolate wafer",Cookies chocolate wafer,Cookie chocolate wafer,18157,0.942,,
+"Bologna, beef, low fat","Bologna, beef",Bologna beef low fat,Bologna beef,42161,0.942,,
+"Salad dressing, coleslaw",Coleslaw dressing,Salad dressing coleslaw,Coleslaw dressing,43016,0.941,,
+"Crackers, cheese, reduced fat","Cracker, cheese, reduced fat",Crackers cheese reduced fat,Cracker cheese reduced fat,18965,0.94,,
+"Crackers, whole-wheat","Cracker, 100% whole wheat",Crackers whole wheat,Cracker whole wheat,18235,0.939,,
+"Candy, honey-combed, with peanut butter",Honey-combed hard candy with peanut butter,Candy honey combed peanut butter,Honey combed hard candy peanut butter,19025,0.938,,
+"Cookies, fortune","Cookie, fortune",Cookies fortune,Cookie fortune,18171,0.937,,
+"Salad dressing, russian dressing, low calorie","Russian dressing, low-calorie",Salad dressing russian dressing low calorie,Russian dressing low calorie,4022,0.937,,
+"Candies, TOBLERONE, milk chocolate with honey and almond nougat","Toblerone, milk chocolate with honey and almond nougat",Candies TOBLERONE milk chocolate honey almond nougat,Toblerone milk chocolate honey almond nougat,19001,0.935,,
+"Muffins, oat bran","Muffin, oat bran",Muffins oat bran,Muffin oat bran,18283,0.935,,
+"Cookies, chocolate, made with rice cereal","Cookie, chocolate, made with rice cereal",Cookies chocolate made rice cereal,Cookie chocolate made rice cereal,28329,0.935,,
+"Gelatin desserts, dry mix",Gelatin dessert,Gelatin dessert dry mix,Gelatin dessert,19172,0.934,,
+"Salad dressing, russian dressing",Russian dressing,Salad dressing russian dressing,Russian dressing,4015,0.933,,
+"Salad dressing, honey mustard dressing, reduced calorie","Honey mustard dressing, reduced calorie",Salad dressing honey mustard dressing reduced calorie,Honey mustard dressing reduced calorie,4686,0.932,,
+"Cereals ready-to-eat, chocolate-flavored frosted puffed corn",Chocolate flavored frosted puffed corn cereal,Cereals ready eat chocolate flavored frosted puffed corn,Chocolate flavored frosted puffed corn cereal,8204,0.931,,
+"Cookies, molasses","Cookie, molasses",Cookies molasses,Cookie molasses,18177,0.93,,
+Zwieback,Zwieback toast,Zwieback,Zwieback toast,3217,0.928,,
+"English muffins, wheat","Muffin, English, wheat bran",English muffin wheat,Muffin English wheat bran,18264,0.928,,
+"Frankfurter, meatless","Frankfurter or hot dog, meatless",Frankfurter meatless,Frankfurter hot dog meatless,43130,0.927,,
+"Soup, tomato, dry, mix, prepared with water","Tomato soup, prepared with water",Soup tomato dry mix prepared water,Tomato soup prepared water,6498,0.925,,
+"Salad dressing, bacon and tomato",Bacon and tomato dressing,Salad dressing bacon tomato,Bacon tomato dressing,43331,0.925,,
+"Dumpling, potato- or cheese-filled, frozen","Dumpling, potato- or cheese-filled",Dumpling potato cheese filled frozen,Dumpling potato cheese filled,32025,0.923,,
+"Sausage, Vienna, canned, chicken, beef, pork","Vienna sausage, chicken, canned",Sausage Vienna canned chicken beef pork,Vienna sausage chicken canned,7083,0.922,,
+"Meatballs, meatless","Meatball, meatless",Meatballs meatless,Meatball meatless,43132,0.922,,
+"Ice creams, chocolate","Ice cream, rich, chocolate",Ice cream chocolate,Ice cream rich chocolate,19270,0.921,,
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S RICE KRISPIES TREATS Cereal","Rice Krispies Treats Cereal, Kellogg's",Cereals ready eat KELLOGG KELLOGGS RICE KRISPIES TREATS Cereal,Rice Krispies Treats Cereal Kelloggs,8288,0.92,,
+"Turnover, filled with egg, meat and cheese, frozen","Turnover, filled with egg, meat and cheese",Turnover filled egg meat cheese frozen,Turnover filled egg meat cheese,32028,0.92,,
+"Light ice cream, Creamsicle","Light ice cream, creamsicle or dreamsicle (formerly ice milk)",Light ice cream Creamsicle,Light ice cream creamsicle dreamsicle formerly ice milk,1302,0.919,,
+"Snack, Pretzel, hard chocolate coated","Pretzel, hard, chocolate-coated",Snack Pretzel hard chocolate coated,Pretzel hard chocolate coated,25060,0.918,,
+"Salad dressing, blue or roquefort cheese dressing, fat-free",Blue or roquefort cheese dressing,Salad dressing blue roquefort cheese dressing fat free,Blue roquefort cheese dressing,42192,0.917,,
+"Cereals ready-to-eat, KELLOGG'S, Reduced Sugar Frosted Flakes Cereal","Reduced Sugar Frosted Flakes Cereal, Kellogg's",Cereals ready eat KELLOGGS Reduced Sugar Frosted Flakes Cereal,Reduced Sugar Frosted Flakes Cereal Kelloggs,8469,0.915,,
+Chocolate-flavored hazelnut spread,"Topping, chocolate flavored hazelnut spread",Chocolate flavored hazelnut spread,Topping chocolate flavored hazelnut spread,19125,0.915,,
+"Ice creams, vanilla","Pie, vanilla cream",Ice cream vanilla,Pie vanilla cream,19095,0.914,,
+"Yogurt parfait, lowfat, with fruit and granola",Fruit and lowfat yogurt parfait,Yogurt parfait lowfat fruit granola,Fruit lowfat yogurt parfait,21463,0.914,,
+"Salad dressing, caesar, fat-free",Caesar dressing,Salad dressing caesar fat free,Caesar dressing,4705,0.911,,
+"Mortadella, beef, pork",Mortadella,Mortadella beef pork,Mortadella,7050,0.908,,
+"Cabbage, kimchi","Cabbage, Kimchi (Kim Chee) style",Cabbage kimchi,Cabbage Kimchi Kim Chee style,11118,0.908,,
+"Fast foods, griddle cake sandwich, egg, cheese, and sausage","Egg, cheese, and sausage griddle cake sandwich",Fast food griddle cake sandwich egg cheese sausage,Egg cheese sausage griddle cake sandwich,21305,0.907,,
+"Snack, BALANCE, original bar",Balance Original Bar,Snack BALANCE original bar,Balance Original Bar,25068,0.907,,
+"Salad dressing, french dressing, fat-free",French dressing,Salad dressing french dressing fat free,French dressing,4367,0.906,,
+"Frankfurter, meat and poultry, low fat","Frankfurter or hot dog, meat and poultry",Frankfurter meat poultry low fat,Frankfurter hot dog meat poultry,42280,0.905,,
+"Cereals ready-to-eat, MALT-O-MEAL, TOOTIE FRUITIES",Malt-O-meal Tootie Fruities,Cereals ready eat MALT O MEAL TOOTIE FRUITIES,Malt O meal Tootie Fruities,8349,0.903,,
+"Ravioli, cheese-filled, canned","Ravioli, cheese-filled, with tomato sauce, canned",Ravioli cheese filled canned,Ravioli cheese filled tomato sauce canned,22899,0.903,,
+"Fast foods, griddle cake sandwich, egg, cheese, and bacon","Egg, cheese, and bacon griddle cake sandwich",Fast food griddle cake sandwich egg cheese bacon,Egg cheese bacon griddle cake sandwich,21307,0.903,,
+"Fast foods, griddle cake sandwich, sausage",Sausage griddle cake sandwich,Fast food griddle cake sandwich sausage,Sausage griddle cake sandwich,21306,0.899,,
+Rice crackers,"Crackers, rice",Rice cracker,Crackers rice,25071,0.898,,
+"Cereals ready-to-eat, frosted oat cereal with marshmallows",Frosted oat cereal with marshmallows,Cereals ready eat frosted oat cereal marshmallow,Frosted oat cereal marshmallow,42236,0.897,,
+"Fast foods, english muffin, with egg, cheese, and sausage","Egg, cheese, and sausage on English muffin",Fast food english muffin egg cheese sausage,Egg cheese sausage on English muffin,21022,0.897,,
+"Bread stuffing, bread, dry mix",Bread stuffing,Bread stuffing bread dry mix,Bread stuffing,18081,0.897,,
+"Cookies, fig bars","Cookie, fig bar",Cookies fig bar,Cookie fig bar,18170,0.896,,
+"Salad dressing, mayonnaise-type, light",Mayonnaise-type salad dressing,Salad dressing mayonnaise type light,Mayonnaise type salad dressing,4709,0.896,,
+"Salami, cooked, turkey",Turkey salami,Salami cooked turkey,Turkey salami,7070,0.895,,
+"Fast foods, english muffin, with cheese and sausage",Sausage and cheese on English muffin,Fast food english muffin cheese sausage,Sausage cheese on English muffin,21020,0.894,,
+"Toppings, marshmallow cream","Topping, marshmallow",Toppings marshmallow cream,Topping marshmallow,19365,0.893,,
+"Sauce, teriyaki, ready-to-serve, reduced sodium","Teriyaki sauce, reduced sodium",Sauce teriyaki ready serve reduced sodium,Teriyaki sauce reduced sodium,6189,0.893,,
+"Cereals ready-to-eat, MALT-O-MEAL, MARSHMALLOW MATEYS",Malt-O-Meal Marshmallow Mateys,Cereals ready eat MALT O MEAL MARSHMALLOW MATEYS,Malt O Meal Marshmallow Mateys,8138,0.893,,
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S SPECIAL K, Cinnamon Pecan","Special K Cinnamon Pecan, Kellogg's",Cereals ready eat KELLOGG KELLOGGS SPECIAL K Cinnamon Pecan,Special K Cinnamon Pecan Kelloggs,8602,0.891,,
+"Soup, chicken noodle, dry, mix",Chicken noodle soup,Soup chicken noodle dry mix,Chicken noodle soup,6128,0.891,,
+"Ice cream bar, covered with chocolate and nuts","Ice cream cone, chocolate covered, with nuts, chocolate ice cream",Ice cream bar covered chocolate nut,Ice cream cone chocolate covered nut chocolate ice cream,1300,0.891,,
+"Fruit juice drink, greater than 3% fruit juice, high vitamin C and added thiamin","Fruit juice drink, with thiamin (vitamin B1) and high vitamin C",Fruit juice drink greater than fruit juice C thiamin,Fruit juice drink thiamin B1 C,14648,0.89,,
+"Crackers, matzo, plain","Crackers, matzo",Crackers matzo plain,Crackers matzo,18217,0.89,,
+"Gelatins, dry powder, unsweetened","Gelatin powder, sweetened, dry",Gelatins dry powder unsweetened,Gelatin powder sweetened dry,19177,0.89,,
+"Ice cream, light, soft serve, chocolate","Ice cream, soft serve, chocolate",Ice cream light soft serve chocolate,Ice cream soft serve chocolate,1263,0.886,,
+"Butter replacement, without fat, powder","Butter replacement, fat-free powder",Butter replacement without fat powder,Butter replacement fat free powder,43214,0.884,,
+"Knackwurst, knockwurst, pork, beef",Knockwurst,Knackwurst knockwurst pork beef,Knockwurst,7038,0.884,,
+"Garlic bread, frozen","Bread, garlic",Garlic bread frozen,Bread garlic,18963,0.883,,
+"Snacks, granola bar, with coconut, chocolate coated","Granola bar, with coconut, chocolate-coated",Snacks granola bar coconut chocolate coated,Granola bar coconut chocolate coated,42272,0.882,,
+"Milk, chocolate, lowfat, with added vitamin A and vitamin D","Milk, chocolate, lowfat milk-based",Milk chocolate lowfat,Milk chocolate lowfat milk based,1104,0.881,,
+"Tomato and vegetable juice, low sodium","Tomato juice, low sodium",Tomato vegetable juice low sodium,Tomato juice low sodium,43365,0.881,,
+"Fruit cocktail, canned, heavy syrup, drained","Fruit cocktail, cooked or canned, in heavy syrup",Fruit cocktail canned heavy syrup drained,Fruit cocktail cooked canned heavy syrup,9351,0.88,,
+"Cereals ready-to-eat, MALT-O-MEAL, Fruity DYNO-BITES",Malt-O-Meal Fruity Dyno-Bites,Cereals ready eat MALT O MEAL Fruity DYNO BITES,Malt O Meal Fruity Dyno Bites,8501,0.879,,
+"Crackers, multigrain","Cracker, multigrain, salt free",Crackers multigrain,Cracker multigrain salt free,28292,0.878,,
+"Oil, flaxseed, cold pressed",Flaxseed oil,Oil flaxseed cold pressed,Flaxseed oil,42231,0.877,,
+"Snacks, potato chips, white, restructured, baked","White potato, chips, restructured, baked",Snacks potato chip white restructured baked,White potato chip restructured baked,42283,0.876,,
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S FROSTED RICE KRISPIES","Frosted Rice Krispies, Kellogg's",Cereals ready eat KELLOGG KELLOGGS FROSTED RICE KRISPIES,Frosted Rice Krispies Kelloggs,8032,0.875,,
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S HONEY CRUNCH CORN FLAKES","Honey Crunch Corn Flakes, Kellogg's",Cereals ready eat KELLOGG KELLOGGS HONEY CRUNCH CORN FLAKES,Honey Crunch Corn Flakes Kelloggs,8309,0.874,,
+"Cereals ready-to-eat, HEALTH VALLEY, FIBER 7 Flakes","Fiber 7 Flakes, Health Valley",Cereals ready eat HEALTH VALLEY FIBER 7 Flakes,Fiber 7 Flakes Health Valley,8290,0.874,,
+"Salisbury steak with gravy, frozen","Salisbury steak with gravy, macaroni and cheese (frozen meal)",Salisbury steak gravy frozen,Salisbury steak gravy macaroni cheese frozen meal,32031,0.873,,
+"Candies, milk chocolate, with almonds",M&M's Almond Chocolate Candies,Candies milk chocolate almond,MMs Almond Chocolate Candies,19132,0.873,,
+"Strawberries, frozen, sweetened, sliced","Strawberries, frozen, NS as to added sweetener",Strawberries frozen sweetened sliced,Strawberries frozen sweetener,9320,0.872,,
+"Pie, peach","Pie, peach, fried pie",Pie peach,Pie peach fried pie,18323,0.87,,
+"Cookies, chocolate sandwich, with extra creme filling","Cookie, chocolate, sandwich, with extra filling",Cookies chocolate sandwich extra creme filling,Cookie chocolate sandwich extra filling,18168,0.87,,
+"Cookies, marshmallow, chocolate-coated (includes marshmallow pies)","Pie, chocolate-marshmallow",Cookies marshmallow chocolate coated includes marshmallow pie,Pie chocolate marshmallow,18176,0.87,n,53208000
+"Crackers, whole-wheat, low salt","Crackers, saltine, whole wheat",Crackers whole wheat low salt,Crackers saltine whole wheat,18429,0.868,,
+"Cereals ready-to-eat, POST, GREAT GRAINS, Raisin, Date & Pecan","Great Grains, Raisin, Date, and Pecan Whole Grain Cereal, Post",Cereals ready eat POST GREAT GRAINS Raisin Date Pecan,Great Grains Raisin Date Pecan Whole Grain Cereal Post,42265,0.868,,
+"Snacks, granola bar, QUAKER, chewy, 90 Calorie Bar",Quaker Chewy 90 Calorie Granola Bar,Snacks granola bar QUAKER chewy 90 Calorie Bar,Quaker Chewy 90 Calorie Granola Bar,25052,0.867,,
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S RICE KRISPIES","Rice Krispies, Kellogg's",Cereals ready eat KELLOGG KELLOGGS RICE KRISPIES,Rice Krispies Kelloggs,8065,0.866,,
+"Peanut butter, smooth, vitamin and mineral fortified","Peanut butter, vitamin and mineral fortified",Peanut butter smooth mineral fortified,Peanut butter mineral fortified,16155,0.866,,
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S, RAISIN BRAN CRUNCH","Raisin Bran Crunch, Kellogg's",Cereals ready eat KELLOGG KELLOGGS RAISIN BRAN CRUNCH,Raisin Bran Crunch Kelloggs,8380,0.866,,
+"Cereals ready-to-eat, OAT BRAN FLAKES, HEALTH VALLEY","Oat Bran Flakes, Health Valley",Cereals ready eat OAT BRAN FLAKES HEALTH VALLEY,Oat Bran Flakes Health Valley,43495,0.865,,
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S FROSTED FLAKES","Frosted Flakes, Kellogg's",Cereals ready eat KELLOGG KELLOGGS FROSTED FLAKES,Frosted Flakes Kelloggs,8069,0.864,,
+"Fast foods, hush puppies",Hush puppy,Fast food hush puppy,Hush puppy,21129,0.864,,
+"Salad dressing, thousand island dressing, reduced fat",Thousand Island dressing,Salad dressing thousand island dressing reduced fat,Thousand Island dressing,4023,0.863,,
+"Ice creams, chocolate, light","Light ice cream, no sugar added, chocolate",Ice cream chocolate light,Light ice cream sugar chocolate,19114,0.862,,
+"Salami, dry or hard, pork, beef","Salami, dry or hard",Salami dry hard pork beef,Salami dry hard,7072,0.862,,
+"Fast foods, taco with chicken, lettuce and cheese, soft","Soft taco with chicken, cheese, and lettuce",Fast food taco chicken lettuce cheese soft,Soft taco chicken cheese lettuce,21487,0.861,,
+"Soup, beef stroganoff, canned, chunky style, ready-to-serve","Beef stroganoff soup, chunky style",Soup beef stroganoff canned chunky style ready serve,Beef stroganoff soup chunky style,6980,0.861,,
+"Cereals ready-to-eat, POST, Honey Nut Shredded Wheat","Honey Nut Shredded Wheat, Post",Cereals ready eat POST Honey Nut Shredded Wheat,Honey Nut Shredded Wheat Post,8081,0.86,,
+"Fast foods, submarine sandwich, steak and cheese on white bread with cheese, lettuce and tomato","Steak and cheese submarine sandwich, with lettuce and tomato",Fast food submarine sandwich steak cheese on white bread cheese lettuce tomato,Steak cheese submarine sandwich lettuce tomato,21160,0.86,,
+"Peppers, hot pickled, canned","Peppers, pickled",Peppers hot pickled canned,Peppers pickled,31034,0.86,,
+"Candies, chocolate covered, caramel with nuts","Caramel with nuts, chocolate covered",Candies chocolate covered caramel nut,Caramel nut chocolate covered,43031,0.86,,
+"Ice creams, vanilla, rich","Pie, vanilla cream",Ice cream vanilla rich,Pie vanilla cream,19089,0.859,,
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S RAISIN BRAN","Raisin Bran, Kellogg's",Cereals ready eat KELLOGG KELLOGGS RAISIN BRAN,Raisin Bran Kelloggs,8060,0.859,,
+"Fast foods, submarine sandwich, roast beef on white bread with lettuce and tomato","Roast beef submarine sandwich, with lettuce, tomato and spread",Fast food submarine sandwich roast beef on white bread lettuce tomato,Roast beef submarine sandwich lettuce tomato spread,21125,0.857,,
+"Cereals ready-to-eat, QUAKER, CAP'N CRUNCH'S PEANUT BUTTER CRUNCH",Cap'n Crunch's Peanut Butter Crunch,Cereals ready eat QUAKER CAPN CRUNCHS PEANUT BUTTER CRUNCH,Capn Crunchs Peanut Butter Crunch,8012,0.857,,
+"Cookies, vanilla wafers, lower fat","Cookie, vanilla wafer",Cookies vanilla wafer lower fat,Cookie vanilla wafer,18212,0.856,,
+"Cookies, graham crackers, chocolate-coated","Cookie bar, with chocolate, nuts, and graham crackers",Cookies graham cracker chocolate coated,Cookie bar chocolate nut graham cracker,18174,0.856,,
+"Fast foods, biscuit, with egg, cheese, and bacon","Egg, cheese, and bacon on biscuit",Fast food biscuit egg cheese bacon,Egg cheese bacon on biscuit,21007,0.855,,
+"Turnover, meat- and cheese-filled, tomato-based sauce, reduced fat, frozen","Turnover, meat- and cheese-filled, tomato-based sauce",Turnover meat cheese filled tomato based sauce reduced fat frozen,Turnover meat cheese filled tomato based sauce,32027,0.854,,
+"Fast foods, taco with beef, cheese and lettuce, soft","Soft taco with beef, cheese, and lettuce",Fast food taco beef cheese lettuce soft,Soft taco beef cheese lettuce,21486,0.853,,
+"Bagels, wheat","Bagel, wheat",Bagels wheat,Bagel wheat,18968,0.853,,
+"Salad dressing, mayonnaise, regular","Mayonnaise, regular",Salad dressing mayonnaise regular,Mayonnaise regular,4025,0.852,,
+"Bread stuffing, cornbread, dry mix, prepared",Cornbread stuffing,Bread stuffing cornbread dry mix prepared,Cornbread stuffing,18085,0.851,,
+"Salad dressing, green goddess, regular",Green Goddess dressing,Salad dressing green goddess regular,Green Goddess dressing,43017,0.849,,
+"Cookies, vanilla wafers, higher fat","Cookie, vanilla wafer",Cookies vanilla wafer higher fat,Cookie vanilla wafer,18213,0.848,,
+"Fast foods, biscuit, with sausage",Sausage on biscuit,Fast food biscuit sausage,Sausage on biscuit,21009,0.846,,
+"Ice creams, vanilla, fat free","Pie, vanilla cream",Ice cream vanilla fat free,Pie vanilla cream,19867,0.843,,
+"Soup, cream of chicken, dry, mix, prepared with water","Chicken or turkey soup, cream of, prepared with water",Soup cream of chicken dry mix prepared water,Chicken turkey soup cream of prepared water,6483,0.843,,
+"Croissants, cheese","Croissant, cheese",Croissants cheese,Croissant cheese,18241,0.843,,
+"Vermicelli, made from soy","Vermicelli, made from soybeans",Vermicelli made from soy,Vermicelli made from soybean,43114,0.842,,
+"Candies, marshmallows",Marshmallow,Candies marshmallow,Marshmallow,19116,0.841,,
+"Fruit juice drink, greater than 3% juice, high vitamin C","Fruit juice drink, with high vitamin C",Fruit juice drink greater than juice C,Fruit juice drink C,14651,0.841,,
+"Candies, fudge, vanilla with nuts","Fudge, vanilla, with nuts",Candies fudge vanilla nut,Fudge vanilla nut,19104,0.841,,
+"Salad dressing, caesar dressing, regular",Caesar dressing,Salad dressing caesar dressing regular,Caesar dressing,43015,0.841,,
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S Corn Flakes","Corn flakes, Kellogg's",Cereals ready eat KELLOGG KELLOGGS Corn Flakes,Corn flake Kelloggs,8020,0.84,,
+"Fast foods, biscuit, with egg and bacon",Egg and bacon on biscuit,Fast food biscuit egg bacon,Egg bacon on biscuit,21003,0.84,,
+"Sandwich spread, pork, beef",Sandwich spread,Sandwich spread pork beef,Sandwich spread,7073,0.84,,
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S SPECIAL K",Kellogg's Special K bar,Cereals ready eat KELLOGG KELLOGGS SPECIAL K,Kelloggs Special K bar,8067,0.839,n,57344000
+"Snacks, popcorn, home-prepared, oil-popped, unsalted","Popcorn, popped in oil, unsalted",Snacks popcorn home prepared oil popped unsalted,Popcorn popped oil unsalted,42259,0.838,,
+"Sauce, cocktail, ready-to-serve",Cocktail sauce,Sauce cocktail ready serve,Cocktail sauce,27051,0.838,,
+"Salad Dressing, coleslaw dressing, reduced fat",Coleslaw dressing,Salad Dressing coleslaw dressing reduced fat,Coleslaw dressing,42230,0.837,,
+"Snacks, candy bits, yogurt covered with vitamin C","Yogurt covered fruit snacks candy, with added vitamin C",Snacks candy bit yogurt covered C,Yogurt covered fruit snack candy C,25043,0.836,,
+"Apricots, canned, heavy syrup, drained","Apricot, cooked or canned, in heavy syrup",Apricots canned heavy syrup drained,Apricot cooked canned heavy syrup,9357,0.835,,
+"Turkey ham, sliced, extra lean, prepackaged or deli-sliced","Turkey ham, sliced, extra lean, prepackaged or deli, luncheon meat",Turkey ham sliced extra lean prepackaged deli sliced,Turkey ham sliced extra lean prepackaged deli luncheon meat,42128,0.835,,
+"Sauce, teriyaki, ready-to-serve",Teriyaki sauce,Sauce teriyaki ready serve,Teriyaki sauce,6112,0.834,,
+"Candies, coconut bar, not chocolate covered","Coconut candy, chocolate covered",Candies coconut bar chocolate covered,Coconut candy chocolate covered,19922,0.833,n,91706400
+"Fast foods, burrito, with beans, cheese, and beef","Burrito with beef and cheese, no beans",Fast food burrito bean cheese beef,Burrito beef cheese bean,21064,0.833,n,58100120
+"Cake, pudding-type, yellow, dry mix","Cake, yellow, pudding-type mix (oil, eggs, and water added to dry mix), NS as to icing",Cake pudding type yellow dry mix,Cake yellow pudding type mix oil egg water dry mix icing,18142,0.833,,
+"Cheese puffs and twists, corn based, baked, low fat","Salty snacks, corn based puffs and twists, cheese puffs and twists, lowfat",Cheese puff twist corn based baked low fat,Salty snack corn based puff twist cheese puff twist lowfat,19434,0.833,,
+"Fast foods, submarine sandwich, cold cut on white bread with lettuce and tomato","Cold cut submarine sandwich, with cheese, lettuce, tomato, and spread",Fast food submarine sandwich cold cut on white bread lettuce tomato,Cold cut submarine sandwich cheese lettuce tomato spread,21124,0.832,,
+"Cereals ready-to-eat, Post, Waffle Crisp","Waffle Crisp, Post",Cereals ready eat Post Waffle Crisp,Waffle Crisp Post,8305,0.832,,
+"Cereals ready-to-eat, POST GREAT GRAINS Banana Nut Crunch",Banana Nut Crunch Cereal (Post),Cereals ready eat POST GREAT GRAINS Banana Nut Crunch,Banana Nut Crunch Cereal Post,42297,0.832,,
+"Salad Dressing, mayonnaise-like, fat-free","Mayonnaise-type salad dressing, fat-free",Salad Dressing mayonnaise like fat free,Mayonnaise type salad dressing fat free,42193,0.832,,
+"Bread, italian",Italian pie with meat,Bread italian,Italian pie meat,18033,0.831,n,51109010
+"Crackers, crispbread, rye","Crispbread, rye, no added fat",Crackers crispbread rye,Crispbread rye fat,18216,0.831,,
+"Salad dressing, mayonnaise type, regular, with salt",Mayonnaise-type salad dressing,Salad dressing mayonnaise type regular salt,Mayonnaise type salad dressing,4018,0.831,,
+Candied fruit,"Fruit peel, candied",Candied fruit,Fruit peel candied,9426,0.829,,
+"Fast food, biscuit",Ham on biscuit,Fast biscuit,Ham on biscuit,21142,0.828,n,52101000
+"Bread, french or vienna, whole wheat","Bread, French or Vienna",Bread french vienna whole wheat,Bread French Vienna,28318,0.828,,
+"Cereals ready-to-eat, KASHI GO LEAN CRUNCH!, Honey Almond Flax",Kashi GOLEAN Crunch Honey Almond Flax,Cereals ready eat KASHI GO LEAN CRUNCH Honey Almond Flax,Kashi GOLEAN Crunch Honey Almond Flax,8560,0.828,,
+"Salad dressing, french dressing, reduced fat",French dressing,Salad dressing french dressing reduced fat,French dressing,4020,0.828,,
+"Candies, WHATCHAMACALLIT Candy Bar",Whatchamacallit,Candies WHATCHAMACALLIT Candy Bar,Whatchamacallit,19162,0.826,,
+"Syrups, table blends, pancake, reduced-calorie","Syrup, pancake, reduced calorie",Syrups table blend pancake reduced calorie,Syrup pancake reduced calorie,19128,0.826,,
+"Bread, wheat","Bread, wheat or cracked wheat",Bread wheat,Bread wheat cracked wheat,18064,0.825,,
+"Fast foods, submarine sandwich, tuna on white bread with lettuce and tomato","Tuna salad submarine sandwich, with lettuce and tomato",Fast food submarine sandwich tuna on white bread lettuce tomato,Tuna salad submarine sandwich lettuce tomato,21126,0.825,,
+"Cereals ready-to-eat, MALT-O-MEAL, CORN BURSTS",Malt-O-Meal Corn Bursts,Cereals ready eat MALT O MEAL CORN BURSTS,Malt O Meal Corn Bursts,8083,0.824,,
+"Jams, preserves, marmalade, reduced sugar","Jams, preserves, marmalades, low sugar (all flavors)",Jams preserve marmalade reduced sugar,Jams preserve marmalade low sugar all flavor,43344,0.823,,
+"Beans, baked, canned, with pork and sweet sauce","Baked beans, with pork and sweet sauce",Beans baked canned pork sweet sauce,Baked bean pork sweet sauce,16010,0.823,,
+"Milk dessert, frozen, milk-fat free, chocolate","Milk dessert, frozen, lowfat, chocolate",Milk dessert frozen milk fat free chocolate,Milk dessert frozen lowfat chocolate,42131,0.823,,
+"Cereals ready-to-eat, MALT-O-MEAL, Frosted Flakes",Malt-O-Meal Frosted Flakes,Cereals ready eat MALT O MEAL Frosted Flakes,Malt O Meal Frosted Flakes,8409,0.822,,
+"Beef, corned beef hash, with potato, canned",Corned beef hash,Beef corned beef hash potato canned,Corned beef hash,22908,0.821,,
+"Fast foods, croissant, with egg, cheese, and ham","Croissant, cheese",Fast food croissant egg cheese ham,Croissant cheese,21013,0.821,n,58127310
+"Beverages, coffee and cocoa, instant, decaffeinated, with whitener and low calorie sweetener","Coffee and cocoa (mocha) mix, dry instant powder, with whitener and low calorie sweetener, decaffeinated",Beverages coffee cocoa instant decaffeinated whitener low calorie sweetener,Coffee cocoa mocha mix dry instant powder whitener low calorie sweetener decaffeinated,14204,0.82,,
+"Fast foods, submarine sandwich, turkey, roast beef and ham on white bread with lettuce and tomato","Roast beef submarine sandwich, with lettuce, tomato and spread",Fast food submarine sandwich turkey roast beef ham on white bread lettuce tomato,Roast beef submarine sandwich lettuce tomato spread,21153,0.818,,
+"Cereals ready-to-eat, KASHI GOOD FRIENDS",Kashi Good Friends,Cereals ready eat KASHI GOOD FRIENDS,Kashi Good Friends,8390,0.818,,
+"Ice cream cones, cake or wafer-type","Cookie, cone shell, ice cream type, wafer or cake",Ice cream cone cake wafer type,Cookie cone shell ice cream type wafer cake,18271,0.817,,
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S COCOA KRISPIES","Rice Krispies, Kellogg's",Cereals ready eat KELLOGG KELLOGGS COCOA KRISPIES,Rice Krispies Kelloggs,8014,0.817,n,57126000
+"Tortillas, ready-to-bake or -fry, whole wheat","Tortilla, whole wheat",Tortillas ready bake fry whole wheat,Tortilla whole wheat,28295,0.816,,
+"Sauce, peanut, made from peanut butter, water, soy sauce",Peanut sauce,Sauce peanut made from peanut butter water soy sauce,Peanut sauce,27059,0.816,,
+"Fast foods, biscuit, with egg and ham",Egg and ham on biscuit,Fast food biscuit egg ham,Egg ham on biscuit,21004,0.816,,
+"Cereals ready-to-eat, QUAKER, QUAKER 100% Natural Granola with Oats, Wheat, Honey, and Raisins","100 % Natural Cereal, with oats, honey and raisins, Quaker",Cereals ready eat QUAKER QUAKER Natural Granola Oats Wheat Honey Raisins,Natural Cereal oat honey raisin Quaker,8218,0.815,,
+"Candies, caramels, chocolate-flavor roll","Caramel, chocolate-flavored roll",Candies caramel chocolate flavor roll,Caramel chocolate flavored roll,19076,0.815,,
+"Soup, chicken vegetable with potato and cheese, chunky, ready-to-serve","Chicken vegetable soup with potato and cheese, chunky style",Soup chicken vegetable potato cheese chunky ready serve,Chicken vegetable soup potato cheese chunky style,6208,0.814,,
+"Beans, liquid from stewed kidney beans","Liquid from stewed kidney beans, Puerto Rican style",Beans liquid from stewed kidney bean,Liquid from stewed kidney bean Puerto Rican style,43125,0.811,,
+"Pancakes, buckwheat, dry mix, incomplete","Pancakes, buckwheat",Pancakes buckwheat dry mix incomplete,Pancakes buckwheat,18295,0.811,,
+"Scrapple, pork","Scrapple, cooked",Scrapple pork,Scrapple cooked,7951,0.811,,
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S Low Fat Granola with Raisins","Granola with Raisins, lowfat, Kellogg's",Cereals ready eat KELLOGG KELLOGGS Low Fat Granola Raisins,Granola Raisins lowfat Kelloggs,8284,0.811,,
+"Cereals ready-to-eat, KASHI GOLEAN CRUNCH!",Kashi GOLEAN Crunch,Cereals ready eat KASHI GOLEAN CRUNCH,Kashi GOLEAN Crunch,8386,0.81,,
+"Pickles, cucumber, sweet (includes bread and butter pickles)","Cucumber pickles, sweet",Pickles cucumber sweet includes bread butter pickle,Cucumber pickle sweet,11940,0.809,,
+"Plums, canned, heavy syrup, drained","Plum, cooked or canned, in heavy syrup",Plums canned heavy syrup drained,Plum cooked canned heavy syrup,9379,0.809,,
+Eggnog,"Eggnog, made with whole milk",Eggnog,Eggnog made whole milk,1057,0.809,,
+"Jams, preserves, marmalades, sweetened with fruit juice","Jams, preserves, marmalades, sweetened with fruit juice concentrates, all flavors",Jams preserve marmalade sweetened fruit juice,Jams preserve marmalade sweetened fruit juice concentrate all flavor,19920,0.808,,
+"Salad dressing, honey mustard, regular",Honey mustard dressing,Salad dressing honey mustard regular,Honey mustard dressing,4703,0.807,,
+"Fast foods, submarine sandwich, ham on white bread with lettuce and tomato","Ham and cheese submarine sandwich, with lettuce, tomato and spread",Fast food submarine sandwich ham on white bread lettuce tomato,Ham cheese submarine sandwich lettuce tomato spread,21156,0.807,,
+"Cookies, vanilla sandwich with creme filling, reduced fat","Cookie, vanilla sandwich, reduced fat",Cookies vanilla sandwich creme filling reduced fat,Cookie vanilla sandwich reduced fat,28352,0.807,,
+"Fast foods, biscuit, with ham",Ham on biscuit,Fast food biscuit ham,Ham on biscuit,21008,0.807,,
+"Snacks, KELLOGG'S, NUTRI-GRAIN Cereal Bars, fruit",Kellogg's Nutri-Grain Cereal Bar,Snacks KELLOGGS NUTRI GRAIN Cereal Bars fruit,Kelloggs Nutri Grain Cereal Bar,19441,0.806,,
+"Puddings, tapioca, ready-to-eat, fat free","Pudding, canned, tapioca, fat free",Puddings tapioca ready eat fat free,Pudding canned tapioca fat free,19234,0.805,,
+"Light Ice Cream, soft serve, blended with milk chocolate candies","Light ice cream, soft serve, blended with candy or cookies",Light Ice Cream soft serve blended milk chocolate candy,Light ice cream soft serve blended candy cooky,21412,0.804,,
+"Cereals ready-to-eat, POST, HONEY BUNCHES OF OATS, with almonds","Honey Bunches of Oats with Almonds, Post",Cereals ready eat POST HONEY BUNCHES OF OATS almond,Honey Bunches of Oats Almonds Post,42240,0.804,,
+"Vegetable and fruit juice drink, reduced calorie, with low-calorie sweetener, added vitamin C","Vegetable and fruit juice drink, low calorie, with high vitamin C",Vegetable fruit juice drink reduced calorie low calorie sweetener C,Vegetable fruit juice drink low calorie C,14633,0.804,,
+"Luncheon slices, meatless","Luncheon slice, meatless-beef, chicken, salami or turkey",Luncheon slice meatless,Luncheon slice meatless beef chicken salami turkey,43131,0.803,,
+"Cereals ready-to-eat, QUAKER, QUAKER CRUNCHY BRAN","Crunchy Corn Bran, Quaker",Cereals ready eat QUAKER QUAKER CRUNCHY BRAN,Crunchy Corn Bran Quaker,8018,0.803,,
+"Vegetable juice cocktail, canned",Tomato juice cocktail,Vegetable juice cocktail canned,Tomato juice cocktail,11578,0.803,,
+"Cookies, oatmeal, reduced fat","Cookie, oatmeal, reduced fat, with raisins",Cookies oatmeal reduced fat,Cookie oatmeal reduced fat raisin,28349,0.803,n,53233000
+"Candies, butterscotch",Butterscotch hard candy,Candies butterscotch,Butterscotch hard candy,19070,0.801,,
+"Bread, reduced-calorie, white","Bread, reduced calorie and/or high fiber, white or NFS",Bread reduced calorie white,Bread reduced calorie andor fiber white,18057,0.801,,
+"Frankfurter, beef, pork, and turkey, fat free","Frankfurter or hot dog, beef and pork",Frankfurter beef pork turkey fat free,Frankfurter hot dog beef pork,7905,0.8,,
+"Fast foods, breadstick, soft, prepared with garlic and parmesan cheese","Bread stick, soft, prepared with garlic and parmesan cheese",Fast food breadstick soft prepared garlic parmesan cheese,Bread stick soft prepared garlic parmesan cheese,21520,0.8,,
+"Cereals ready-to-eat, WEETABIX whole grain cereal",Weetabix Whole Wheat Cereal,Cereals ready eat WEETABIX whole grain cereal,Weetabix Whole Wheat Cereal,42237,0.799,,
+"Fast foods, croissant, with egg, cheese, and sausage","Croissant sandwich with sausage, egg, and cheese",Fast food croissant egg cheese sausage,Croissant sandwich sausage egg cheese,21014,0.799,,
+"Milk, canned, condensed, sweetened","Milk, condensed, sweetened, diluted",Milk canned condensed sweetened,Milk condensed sweetened diluted,1095,0.798,,
+"Bread stuffing, bread, dry mix, prepared",Bread stuffing,Bread stuffing bread dry mix prepared,Bread stuffing,18082,0.798,,
+"Cranberry juice cocktail, bottled","Cranberry juice drink or cocktail, with high vitamin C",Cranberry juice cocktail bottled,Cranberry juice drink cocktail C,14242,0.797,,
+"Candies, milk chocolate coated peanuts",M&M's Peanut Chocolate Candies,Candies milk chocolate coated peanut,MMs Peanut Chocolate Candies,19126,0.795,,
+"Fast foods, burrito, with beans and cheese","Burrito with eggs and cheese, no beans",Fast food burrito bean cheese,Burrito egg cheese bean,21061,0.793,n,58100320
+"Fruit-flavored drink, dry powdered mix, low calorie, with aspartame","Fruit flavored drink, made from powdered mix, low calorie",Fruit flavored drink dry powdered mix low calorie aspartame,Fruit flavored drink made from powdered mix low calorie,42055,0.792,,
+"Peanut spread, reduced sugar","Peanut butter, reduced sugar",Peanut spread reduced sugar,Peanut butter reduced sugar,16149,0.792,,
+"Puddings, tapioca, ready-to-eat","Pudding, canned, tapioca",Puddings tapioca ready eat,Pudding canned tapioca,19218,0.791,,
+"Crackers, wheat, regular","Crackers, wheat",Crackers wheat regular,Crackers wheat,18232,0.789,,
+"Cereals ready-to-eat, MALT-O-MEAL, COCO-ROOS",Malt-O-Meal Coco-Roos,Cereals ready eat MALT O MEAL COCO ROOS,Malt O Meal Coco Roos,8206,0.789,,
+"Pears, canned, heavy syrup, drained","Pear, cooked or canned, in heavy syrup",Pears canned heavy syrup drained,Pear cooked canned heavy syrup,9374,0.789,,
+"Cereals ready-to-eat, GENERAL MILLS, DORA THE EXPLORER",Dora the Explorer Cereal,Cereals ready eat GENERAL MILLS DORA THE EXPLORER,Dora the Explorer Cereal,8582,0.789,,
+"Fast foods, croissant, with egg, cheese, and bacon","Croissant sandwich with bacon, egg, and cheese",Fast food croissant egg cheese bacon,Croissant sandwich bacon egg cheese,21012,0.788,,
+"Cookie, chocolate, with icing or coating","Cookie, chocolate, with chocolate filling or coating, fat free",Cookie chocolate icing coating,Cookie chocolate chocolate filling coating fat free,28294,0.788,,
+"Sauce, tartar, ready-to-serve",Tartar sauce,Sauce tartar ready serve,Tartar sauce,27049,0.787,,
+"Snacks, shrimp cracker","Cracker, snack",Snacks shrimp cracker,Cracker snack,25070,0.787,,
+"Cereals ready-to-eat, POST GREAT GRAINS Cranberry Almond Crunch","Cranberry Almond Crunch, Post",Cereals ready eat POST GREAT GRAINS Cranberry Almond Crunch,Cranberry Almond Crunch Post,8544,0.786,,
+"Taco shells, baked","Taco shell, corn",Taco shell baked,Taco shell corn,18360,0.786,,
+"Snacks, KELLOGG, KELLOGG'S RICE KRISPIES TREATS Squares","Rice Krispies, Kellogg's",Snacks KELLOGG KELLOGGS RICE KRISPIES TREATS Squares,Rice Krispies Kelloggs,19438,0.786,n,57339500
+"Candies, milk chocolate",M&M's Milk Chocolate Candies (formerly M&M's Plain Chocolate Candies),Candies milk chocolate,MMs Milk Chocolate Candies formerly MMs Plain Chocolate Candies,19120,0.785,,
+"Crackers, whole grain, sandwich-type, with peanut butter filling","Cracker, sandwich-type, peanut butter filled",Crackers whole grain sandwich type peanut butter filling,Cracker sandwich type peanut butter filled,28326,0.785,,
+"Cereals ready-to-eat, QUAKER, Oatmeal Squares",Quaker Oatmeal Squares (formerly Quaker Oat Squares),Cereals ready eat QUAKER Oatmeal Squares,Quaker Oatmeal Squares formerly Quaker Oat Squares,8214,0.785,,
+"Crackers, saltines, whole wheat (includes multi-grain)","Crackers, saltine, whole wheat",Crackers saltine whole wheat includes multi grain,Crackers saltine whole wheat,18966,0.784,,
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S SPECIAL K Red Berries",Kellogg's Special K bar,Cereals ready eat KELLOGG KELLOGGS SPECIAL K Red Berries,Kelloggs Special K bar,8383,0.784,n,57344010
+"Cherries, sweet, canned, pitted, heavy syrup, drained","Cherries, sweet, cooked or canned, in heavy syrup",Cherries sweet canned pitted heavy syrup drained,Cherries sweet cooked canned heavy syrup,9367,0.784,,
+"Peanut butter, smooth, reduced fat","Peanut butter, reduced fat",Peanut butter smooth reduced fat,Peanut butter reduced fat,16150,0.783,,
+"Turnover, chicken- or turkey-, and vegetable-filled, reduced fat, frozen","Turnover, chicken- or turkey-, and vegetable-filled, lower in fat",Turnover chicken turkey vegetable filled reduced fat frozen,Turnover chicken turkey vegetable filled lower fat,32026,0.783,,
+"Cake, gingerbread, dry mix","Cake, gingerbread, without icing",Cake gingerbread dry mix,Cake gingerbread without icing,18114,0.783,,
+"Cereals ready-to-eat, KELLOGG'S SPECIAL K Chocolatey Delight",Special K Chocolatey Delight,Cereals ready eat KELLOGGS SPECIAL K Chocolatey Delight,Special K Chocolatey Delight,8584,0.782,,
+"Salad dressing, sesame seed dressing, regular",Sesame dressing,Salad dressing sesame seed dressing regular,Sesame dressing,4016,0.781,,
+"Cookies, sugar wafer, chocolate-covered","Cookie, chocolate-covered, sugar wafer, creme- or caramel-filled",Cookies sugar wafer chocolate covered,Cookie chocolate covered sugar wafer creme caramel filled,28311,0.781,,
+"Candies, MARS SNACKFOOD US, M&M's Peanut Butter Chocolate Candies",M&M's Peanut Butter Chocolate Candies,Candies MARS SNACKFOOD US MMs Peanut Butter Chocolate Candies,MMs Peanut Butter Chocolate Candies,42148,0.78,,
+"Peaches, canned, heavy syrup, drained","Peach, cooked or canned, in heavy syrup",Peaches canned heavy syrup drained,Peach cooked canned heavy syrup,9370,0.78,,
+"Granola bar, soft, milk chocolate coated, peanut butter","Granola bar with nuts, chocolate-coated",Granola bar soft milk chocolate coated peanut butter,Granola bar nut chocolate coated,42139,0.779,,
+"Cereals ready-to-eat, POST, FRUITY PEBBLES",Fruity Pebbles,Cereals ready eat POST FRUITY PEBBLES,Fruity Pebbles,8034,0.778,,
+"Sausage, egg and cheese breakfast biscuit","Egg, cheese, and sausage on biscuit",Sausage egg cheese breakfast biscuit,Egg cheese sausage on biscuit,32032,0.777,,
+"Raspberries, canned, red, heavy syrup pack, solids and liquids","Raspberries, cooked or canned, in heavy syrup",Raspberries canned red heavy syrup pack solid liquid,Raspberries cooked canned heavy syrup,9304,0.777,,
+"Breakfast bars, oats, sugar, raisins, coconut (include granola bar)","Granola bar, oats, sugar, raisins, coconut",Breakfast bar oat sugar raisin coconut include granola bar,Granola bar oat sugar raisin coconut,43100,0.776,,
+"Cookies, chocolate sandwich, with creme filling, reduced fat","Cookie, chocolate sandwich, reduced fat",Cookies chocolate sandwich creme filling reduced fat,Cookie chocolate sandwich reduced fat,28299,0.776,,
+"Syrup, fruit flavored",Fruit syrup,Syrup fruit flavored,Fruit syrup,19030,0.775,,
+"Sauce, hoisin, ready-to-serve",Hoisin sauce,Sauce hoisin ready serve,Hoisin sauce,6175,0.774,,
+"Candies, MARS SNACKFOOD US, M&M's Almond Chocolate Candies",M&M's Almond Chocolate Candies,Candies MARS SNACKFOOD US MMs Almond Chocolate Candies,MMs Almond Chocolate Candies,42227,0.773,,
+"Water, with corn syrup and/or sugar and low calorie sweetener, fruit flavored","Water, fruit flavored, sweetened, with high fructose corn syrup and low calorie sweetener",Water corn syrup andor sugar low calorie sweetener fruit flavored,Water fruit flavored sweetened fructose corn syrup low calorie sweetener,14637,0.773,,
+"Sandwich spread, meatless",Sandwich spread,Sandwich spread meatless,Sandwich spread,43135,0.772,,
+"Cookies, sugar wafer, with creme filling, sugar free","Cookie, sugar wafer",Cookies sugar wafer creme filling sugar free,Cookie sugar wafer,18202,0.772,,
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S Low Fat Granola without Raisins","Granola with Raisins, lowfat, Kellogg's",Cereals ready eat KELLOGG KELLOGGS Low Fat Granola without Raisins,Granola Raisins lowfat Kelloggs,8189,0.771,,
+"Candies, REESE'S Peanut Butter Cups",Reese's Peanut Butter Cup,Candies REESES Peanut Butter Cups,Reeses Peanut Butter Cup,19150,0.771,,
+"Croutons, seasoned",Croutons,Croutons seasoned,Croutons,18243,0.769,,
+"Snacks, granola bar, GENERAL MILLS, NATURE VALLEY, CHEWY TRAIL MIX",Nature Valley Chewy Trail Mix Granola Bar,Snacks granola bar GENERAL MILLS NATURE VALLEY CHEWY TRAIL MIX,Nature Valley Chewy Trail Mix Granola Bar,25055,0.769,,
+"Biscuits, plain or buttermilk, refrigerated dough, lower fat, baked","Biscuit, baking powder or buttermilk type, made from refrigerated dough",Biscuits plain buttermilk refrigerated dough lower fat baked,Biscuit baking powder buttermilk type made from refrigerated dough,18013,0.769,,
+"Ice creams, vanilla, light","Pie, vanilla cream",Ice cream vanilla light,Pie vanilla cream,19088,0.768,,
+"Biscuits, plain or buttermilk, refrigerated dough, lower fat","Biscuit, baking powder or buttermilk type, made from refrigerated dough",Biscuits plain buttermilk refrigerated dough lower fat,Biscuit baking powder buttermilk type made from refrigerated dough,18012,0.768,,
+"Pizza, meat and vegetable topping, regular crust, frozen, cooked","Pizza with meat and vegetables, regular crust",Pizza meat vegetable topping regular crust frozen cooked,Pizza meat vegetable regular crust,21226,0.768,,
+"Snacks, granola bar, KASHI TLC Bar, chewy, mixed flavors",Kashi TLC Chewy Granola Bar,Snacks granola bar KASHI TLC Bar chewy mixed flavor,Kashi TLC Chewy Granola Bar,25033,0.768,,
+"Cookies, vanilla sandwich with creme filling","Cookie, vanilla sandwich",Cookies vanilla sandwich creme filling,Cookie vanilla sandwich,18210,0.768,,
+"Cookies, ladyfingers, with lemon juice and rind","Cookie, ladyfinger",Cookies ladyfinger lemon juice rind,Cookie ladyfinger,18175,0.767,,
+"Bread, reduced-calorie, wheat","Bread, wheat or cracked wheat, reduced calorie and/or high fiber",Bread reduced calorie wheat,Bread wheat cracked wheat reduced calorie andor fiber,18055,0.766,,
+"Candies, MARS SNACKFOOD US, M&M's Peanut Chocolate Candies",M&M's Peanut Chocolate Candies,Candies MARS SNACKFOOD US MMs Peanut Chocolate Candies,MMs Peanut Chocolate Candies,19140,0.766,,
+"Gravy, mushroom, dry, powder","Gravy, mushroom",Gravy mushroom dry powder,Gravy mushroom,6122,0.766,,
+"Cereals ready-to-eat, granola, homemade","Granola, homemade",Cereals ready eat granola homemade,Granola homemade,8037,0.766,,
+"Pickles, cucumber, sweet, low sodium (includes bread and butter pickles)","Cucumber pickles, sweet",Pickles cucumber sweet low sodium includes bread butter pickle,Cucumber pickle sweet,11948,0.766,,
+"Cereals ready-to-eat, KASHI HEART TO HEART, Honey Toasted Oat",Kashi Heart to Heart,Cereals ready eat KASHI HEART TO HEART Honey Toasted Oat,Kashi Heart Heart,8387,0.766,,
+"Biscuits, plain or buttermilk, refrigerated dough, higher fat, baked","Biscuit, baking powder or buttermilk type, made from refrigerated dough",Biscuits plain buttermilk refrigerated dough higher fat baked,Biscuit baking powder buttermilk type made from refrigerated dough,18015,0.766,,
+"Pickle and pimiento loaf, pork","Luncheon loaf (olive, pickle, or pimiento)",Pickle pimiento loaf pork,Luncheon loaf olive pickle pimiento,7058,0.765,,
+"Cereals ready-to-eat, ALPEN",Alpen,Cereals ready eat ALPEN,Alpen,43218,0.765,,
+"Gelatin desserts, dry mix, prepared with water",Gelatin dessert,Gelatin dessert dry mix prepared water,Gelatin dessert,19173,0.764,,
+"Cereals ready-to-eat, KASHI GOLEAN","Kashi cereal, NS as to ready to eat or cooked",Cereals ready eat KASHI GOLEAN,Kashi cereal ready eat cooked,8393,0.763,,
+"Fast Foods, biscuit, with egg and sausage",Egg and sausage on biscuit,Fast Foods biscuit egg sausage,Egg sausage on biscuit,21005,0.763,,
+"Fast foods, submarine sandwich, turkey breast on white bread with lettuce and tomato","Turkey submarine sandwich, with cheese, lettuce, tomato and spread",Fast food submarine sandwich turkey breast on white bread lettuce tomato,Turkey submarine sandwich cheese lettuce tomato spread,21155,0.762,,
+"Crackers, melba toast, plain",Melba toast,Crackers melba toast plain,Melba toast,18220,0.762,,
+"Candies, Tamarind",Tamarind candy,Candies Tamarind,Tamarind candy,19921,0.762,,
+"Tortillas, ready-to-bake or -fry, corn","Tortilla, corn",Tortillas ready bake fry corn,Tortilla corn,18363,0.762,,
+"Salad dressing, KRAFT Mayo Fat Free Mayonnaise Dressing","Mayonnaise-type salad dressing, fat-free",Salad dressing KRAFT Mayo Fat Free Mayonnaise Dressing,Mayonnaise type salad dressing fat free,4013,0.761,,
+"Bread, white wheat","Bread, white",Bread white wheat,Bread white,18967,0.761,,
+"Crackers, standard snack-type, sandwich, with peanut butter filling","Cracker, sandwich-type, peanut butter filled",Crackers standard snack type sandwich peanut butter filling,Cracker sandwich type peanut butter filled,18231,0.761,,
+"Cereals ready-to-eat, POST, ALPHA-BITS",Alpha-Bits,Cereals ready eat POST ALPHA BITS,Alpha Bits,8002,0.758,,
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S ALL-BRAN BRAN BUDS","All-Bran Bran Buds, Kellogg's (formerly Bran Buds)",Cereals ready eat KELLOGG KELLOGGS ALL BRAN BRAN BUDS,All Bran Bran Buds Kelloggs formerly Bran Buds,8005,0.757,,
+"Fast foods, submarine sandwich, oven roasted chicken on white bread with lettuce and tomato","Roast beef submarine sandwich, with lettuce, tomato and spread",Fast food submarine sandwich oven roasted chicken on white bread lettuce tomato,Roast beef submarine sandwich lettuce tomato spread,21154,0.756,,
+"Cereals ready-to-eat, POST, HONEY BUNCHES OF OATS with vanilla bunches","Honey Bunches of Oats with Vanilla Clusters, Post",Cereals ready eat POST HONEY BUNCHES OF OATS vanilla bunch,Honey Bunches of Oats Vanilla Clusters Post,8633,0.756,,
+"Candies, REESE'S PIECES Candy",Reese's Pieces,Candies REESES PIECES Candy,Reeses Pieces,19151,0.756,,
+"Cereals ready-to-eat, KELLOGG'S, SPECIAL K Vanilla Almond",Special K Vanilla Almond,Cereals ready eat KELLOGGS SPECIAL K Vanilla Almond,Special K Vanilla Almond,8543,0.756,,
+"Fast foods, submarine sandwich, bacon, lettuce, and tomato on white bread","Chicken submarine sandwich, with lettuce, tomato, and spread",Fast food submarine sandwich bacon lettuce tomato on white bread,Chicken submarine sandwich lettuce tomato spread,21162,0.755,n,27520150
+"Cereals ready-to-eat, POST, COCOA PEBBLES",Cocoa Pebbles,Cereals ready eat POST COCOA PEBBLES,Cocoa Pebbles,8015,0.755,,
+"Salad dressing, blue or roquefort cheese dressing, commercial, regular",Blue or roquefort cheese dressing,Salad dressing blue roquefort cheese dressing commercial regular,Blue roquefort cheese dressing,4539,0.754,,
+"Cereals ready-to-eat, UNCLE SAM CEREAL",Uncle Sam Cereal (formerly Uncle Sam's Hi Fiber Cereal),Cereals ready eat UNCLE SAM CEREAL,Uncle Sam Cereal formerly Uncle Sams Hi Fiber Cereal,8435,0.754,,
+"Beverages, fruit juice drink, reduced sugar, with vitamin E added","Fruit juice drink, reduced sugar, with vitamin E",Beverages fruit juice drink reduced sugar E,Fruit juice drink reduced sugar E,14636,0.754,,
+"Pie, banana cream, prepared from recipe","Pie, banana cream",Pie banana cream prepared from recipe,Pie banana cream,18304,0.753,,
+"Blueberries, canned, light syrup, drained","Blueberries, cooked or canned, in heavy syrup",Blueberries canned light syrup drained,Blueberries cooked canned heavy syrup,9352,0.753,,
+"Ice cream sandwich, vanilla, light, no sugar added","Ice cream sandwich, made with light, no sugar added ice cream",Ice cream sandwich vanilla light sugar,Ice cream sandwich made light sugar ice cream,1242,0.753,,
+"Snacks, fruit leather, rolls",Fruit leather and fruit snacks candy,Snacks fruit leather roll,Fruit leather fruit snack candy,19014,0.752,,
+"Fast Food, Pizza Chain, 14"" pizza, pepperoni topping, regular crust","Pizza with pepperoni, regular crust",Fast Food Pizza Chain 14 pizza pepperoni topping regular crust,Pizza pepperoni regular crust,21302,0.751,,
+"Salad dressing, mayonnaise, imitation, soybean","Mayonnaise, imitation",Salad dressing mayonnaise imitation soybean,Mayonnaise imitation,4027,0.751,,
+"Syrups, table blends, pancake, with 2% maple",Maple and corn and/or cane pancake syrup blends (formerly Corn and maple syrup (2% maple)),Syrups table blend pancake maple,Maple corn andor cane pancake syrup blend formerly Corn maple syrup maple,19360,0.751,,
+"Fast Foods, grilled chicken filet sandwich, with lettuce, tomato and spread","Chicken fillet, broiled, sandwich with lettuce, tomato, and spread",Fast Foods grilled chicken filet sandwich lettuce tomato spread,Chicken fillet broiled sandwich lettuce tomato spread,21490,0.751,,
+"Cereals ready-to-eat, POST SELECTS Maple Pecan Crunch","Maple Pecan Crunch Cereal, Post",Cereals ready eat POST SELECTS Maple Pecan Crunch,Maple Pecan Crunch Cereal Post,8554,0.75,,
+"Taquitos, frozen, chicken and cheese, oven-heated",Taquitos with chicken,Taquitos frozen chicken cheese oven heated,Taquitos chicken,32006,0.749,,
+"Soup, onion, dry, mix, prepared with water","Pea soup, prepared with water",Soup onion dry mix prepared water,Pea soup prepared water,6494,0.747,n,75608100
+"Vegetables, mixed, canned, drained solids","Pear, cooked or canned, drained solids",Vegetables mixed canned drained solid,Pear cooked canned drained solid,11581,0.746,n,75311000
+"Cookies, chocolate chip sandwich, with creme filling","Cookie, chocolate chip sandwich",Cookies chocolate chip sandwich creme filling,Cookie chocolate chip sandwich,28328,0.745,,
+"Pineapple, canned, heavy syrup pack, solids and liquids","Pineapple, cooked or canned, in heavy syrup",Pineapple canned heavy syrup pack solid liquid,Pineapple cooked canned heavy syrup,9270,0.744,,
+"Fast foods, quesadilla, with chicken",Quesadilla with meat and cheese,Fast food quesadilla chicken,Quesadilla meat cheese,21488,0.744,,
+"Cereals ready-to-eat, MALT-O-MEAL, Raisin Bran Cereal","Cereal, ready-to-eat, NFS",Cereals ready eat MALT O MEAL Raisin Bran Cereal,Cereal ready eat,8484,0.744,n,57329000
+"Cereals ready-to-eat, GENERAL MILLS, CHOCOLATE LUCKY CHARMS",Chocolate Lucky Charms,Cereals ready eat GENERAL MILLS CHOCOLATE LUCKY CHARMS,Chocolate Lucky Charms,8513,0.744,,
+"Croissants, butter",Croissant,Croissants butter,Croissant,18239,0.743,,
+"Candies, sugar-coated almonds","Almonds, sugar-coated",Candies sugar coated almond,Almonds sugar coated,19858,0.743,,
+"Soup, chunky vegetable, reduced sodium, canned, ready-to-serve","Bean soup with vegetables and rice, canned, reduced sodium, prepared with water or ready-to-serve",Soup chunky vegetable reduced sodium canned ready serve,Bean soup vegetable rice canned reduced sodium prepared water ready serve,27060,0.742,n,75649010
+"Candies, white chocolate","Chocolate, white",Candies white chocolate,Chocolate white,19087,0.742,,
+"Syrups, table blends, pancake","Pancake syrup, NFS",Syrups table blend pancake,Pancake syrup,19129,0.742,,
+"Rolls, dinner, whole-wheat","Roll, whole wheat, 100%",Rolls dinner whole wheat,Roll whole wheat,18348,0.741,,
+"Cereals ready-to-eat, QUAKER, Low Fat 100% Natural Granola with Raisins","100% Natural Cereal, with raisins and dates, Quaker",Cereals ready eat QUAKER Low Fat Natural Granola Raisins,Natural Cereal raisin date Quaker,8220,0.741,n,57321500
+"Fast foods, roast beef sandwich, plain",Roast beef sandwich,Fast food roast beef sandwich plain,Roast beef sandwich,21121,0.74,,
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S SPECIAL K Blueberry",Kellogg's Special K bar,Cereals ready eat KELLOGG KELLOGGS SPECIAL K Blueberry,Kelloggs Special K bar,8603,0.74,n,57344010
+"Pizza, cheese topping, regular crust, frozen, cooked","Pizza, cheese, regular crust",Pizza cheese topping regular crust frozen cooked,Pizza cheese regular crust,21224,0.739,,
+"Fast foods, english muffin, with egg, cheese, and canadian bacon","Egg, cheese, and bacon on English muffin",Fast food english muffin egg cheese canadian bacon,Egg cheese bacon on English muffin,21021,0.739,,
+"Bologna, meat and poultry","Bologna, NFS",Bologna meat poultry,Bologna,7971,0.738,,
+"Pizza, meat and vegetable topping, rising crust, frozen, cooked",Topping from meat and vegetable pizza,Pizza meat vegetable topping rising crust frozen cooked,Topping from meat vegetable pizza,21227,0.737,n,58106725
+"Pie, fried pies, fruit","Pie, NFS",Pie fried pie fruit,Pie,18319,0.737,,
+"Pineapple, canned, light syrup pack, solids and liquids","Pineapple, cooked or canned, in light syrup",Pineapple canned light syrup pack solid liquid,Pineapple cooked canned light syrup,9269,0.736,,
+"Cake, pudding-type, chocolate, dry mix","Pudding pops, chocolate",Cake pudding type chocolate dry mix,Pudding pop chocolate,18097,0.736,n,53105900
+"Cereals ready-to-eat, KELLOGG, SPECIAL K, Fruit & Yogurt",Special K Fruit & Yogurt,Cereals ready eat KELLOGG SPECIAL K Fruit Yogurt,Special K Fruit Yogurt,8531,0.735,,
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S ALL-BRAN COMPLETE Wheat Flakes","Complete Wheat Bran Flakes, Kellogg's (formerly 40% Bran Flakes)",Cereals ready eat KELLOGG KELLOGGS ALL BRAN COMPLETE Wheat Flakes,Complete Wheat Bran Flakes Kelloggs formerly 40 Bran Flakes,8028,0.735,,
+"Candies, milk chocolate, with rice cereal","Milk chocolate candy, with cereal",Candies milk chocolate rice cereal,Milk chocolate candy cereal,19134,0.734,,
+"Cereals ready-to-eat, GENERAL MILLS, APPLE CINNAMON CHEERIOS",Apple Cinnamon Cheerios,Cereals ready eat GENERAL MILLS APPLE CINNAMON CHEERIOS,Apple Cinnamon Cheerios,8263,0.734,,
+"Soup, clam chowder, manhattan style, canned, chunky, ready-to-serve","Clam chowder, Manhattan",Soup clam chowder manhattan style canned chunky ready serve,Clam chowder Manhattan,6027,0.734,,
+"Pancakes, whole wheat, dry mix, incomplete","Pancakes, whole wheat",Pancakes whole wheat dry mix incomplete,Pancakes whole wheat,28324,0.734,,
+"Peaches, frozen, sliced, sweetened","Peach, frozen, NS as to added sweetener",Peaches frozen sliced sweetened,Peach frozen sweetener,9250,0.733,,
+"Pizza, cheese topping, thin crust, frozen, cooked",Topping from cheese pizza,Pizza cheese topping thin crust frozen cooked,Topping from cheese pizza,21505,0.733,n,58106220
+"Soup, beef barley, ready to serve",Barley soup,Soup beef barley ready serve,Barley soup,27062,0.732,n,75651030
+"Cereals ready-to-eat, POST Raisin Bran Cereal","Cereal, ready-to-eat, NFS",Cereals ready eat POST Raisin Bran Cereal,Cereal ready eat,8061,0.732,n,57331000
+"Puddings, chocolate, ready-to-eat","Pudding, chocolate, ready-to-eat, NS as to from dry mix or canned",Puddings chocolate ready eat,Pudding chocolate ready eat from dry mix canned,19183,0.732,,
+"Puddings, chocolate, dry mix, regular, prepared with whole milk","Pudding, chocolate, prepared from dry mix, milk added",Puddings chocolate dry mix regular prepared whole milk,Pudding chocolate prepared from dry mix milk,19189,0.73,,
+"Fast Food, Pizza Chain, 14"" pizza, meat and vegetable topping, regular crust","Pizza with meat and vegetables, regular crust",Fast Food Pizza Chain 14 pizza meat vegetable topping regular crust,Pizza meat vegetable regular crust,21304,0.73,,
+"Cereals, CREAM OF WHEAT, instant, dry","Wheat, cream of, cooked, instant, fat not added in cooking",Cereals CREAM OF WHEAT instant dry,Wheat cream of cooked instant fat,8106,0.729,,
+"Turnover, cheese-filled, tomato-based sauce, frozen, unprepared","Turnover, meat- and cheese-filled, tomato-based sauce",Turnover cheese filled tomato based sauce frozen unprepared,Turnover meat cheese filled tomato based sauce,32015,0.728,n,58116310
+"Snacks, granola bars, soft, uncoated, chocolate chip","Granola bar, chocolate-coated, NFS",Snacks granola bar soft uncoated chocolate chip,Granola bar chocolate coated,19404,0.728,,
+"Fruit-flavored drink, powder, with high vitamin C with other added vitamins, low calorie","Fruit flavored drink, made from powdered mix, low calorie",Fruit flavored drink powder C other vitamin low calorie,Fruit flavored drink made from powdered mix low calorie,43345,0.728,,
+"Salad dressing, poppyseed, creamy",Poppy seed dressing,Salad dressing poppyseed creamy,Poppy seed dressing,4704,0.727,,
+"Cookies, peanut butter sandwich, regular",Peanut butter sandwich,Cookies peanut butter sandwich regular,Peanut butter sandwich,18190,0.727,n,53234000
+"Snacks, granola bars, soft, coated, milk chocolate coating, peanut butter","Granola bar, oats, nuts, coated with non-chocolate coating",Snacks granola bar soft coated milk chocolate coating peanut butter,Granola bar oat nut coated non chocolate coating,19026,0.726,n,53544220
+"Soup, vegetable broth, ready to serve","Vegetable soup, prepared with water or ready-to-serve",Soup vegetable broth ready serve,Vegetable soup prepared water ready serve,6700,0.726,,
+"Fast Food, Pizza Chain, 14"" pizza, pepperoni topping, thin crust","Pizza with pepperoni, thin crust",Fast Food Pizza Chain 14 pizza pepperoni topping thin crust,Pizza pepperoni thin crust,21485,0.725,,
+"Fast foods, french toast sticks","French toast sticks, plain",Fast food french toast stick,French toast stick plain,21024,0.724,,
+"Cereals ready-to-eat, POST SELECTS Blueberry Morning","Blueberry Morning, Post",Cereals ready eat POST SELECTS Blueberry Morning,Blueberry Morning Post,8192,0.724,,
+"Candies, NESTLE, BUTTERFINGER Bar",Butterfinger,Candies NESTLE BUTTERFINGER Bar,Butterfinger,19069,0.723,,
+"Cereals ready-to-eat, POST, HONEY BUNCHES OF OATS, pecan bunches",Honey Bunches of Oats,Cereals ready eat POST HONEY BUNCHES OF OATS pecan bunch,Honey Bunches of Oats,8655,0.722,,
+"Fast Food, Pizza Chain, 14"" pizza, pepperoni topping, thick crust","Pizza with pepperoni, thick crust",Fast Food Pizza Chain 14 pizza pepperoni topping thick crust,Pizza pepperoni thick crust,21303,0.722,,
+"Cranberry juice blend, 100% juice, bottled, with added vitamin C and calcium","Fruit juice blend, with cranberry, 100% juice",Cranberry juice blend juice bottled C calcium,Fruit juice blend cranberry juice,9522,0.72,,
+"Syrups, table blends, pancake, with butter",Buttered blends syrup,Syrups table blend pancake butter,Buttered blend syrup,19113,0.72,,
+"Soup, chunky chicken noodle, canned, ready-to-serve","Chicken noodle soup, chunky style",Soup chunky chicken noodle canned ready serve,Chicken noodle soup chunky style,6018,0.72,,
+"Soup, cream of mushroom, canned, condensed, reduced sodium","Mushroom soup, cream of, canned, reduced sodium, NS as to made with milk or water",Soup cream of mushroom canned condensed reduced sodium,Mushroom soup cream of canned reduced sodium made milk water,6182,0.72,,
+"Soup, chicken and vegetable, canned, ready-to-serve","Vegetable chicken rice soup, prepared with water or ready-to-serve",Soup chicken vegetable canned ready serve,Vegetable chicken rice soup prepared water ready serve,6024,0.72,n,28340110
+"Cookies, raisin, soft-type","Cookie, raisin",Cookies raisin soft type,Cookie raisin,18191,0.719,,
+"Snacks, pretzels, hard, plain, salted","Pretzel, hard, unsalted",Snacks pretzel hard plain salted,Pretzel hard unsalted,19047,0.719,,
+"Formulated bar, ZONE PERFECT CLASSIC CRUNCH BAR, mixed flavors",Zone Perfect Classic Crunch nutrition bar,Formulated bar ZONE PERFECT CLASSIC CRUNCH BAR mixed flavor,Zone Perfect Classic Crunch nutrition bar,25031,0.719,,
+"Maraschino cherries, canned, drained","Cherries, maraschino",Maraschino cherry canned drained,Cherries maraschino,9328,0.718,,
+"Cookies, coconut macaroon","Cookie, coconut",Cookies coconut macaroon,Cookie coconut,28309,0.716,,
+"Candies, MARS SNACKFOOD US, TWIX chocolate fudge cookie bars",TWIX Chocolate Fudge Cookie Bars,Candies MARS SNACKFOOD US TWIX chocolate fudge cookie bar,TWIX Chocolate Fudge Cookie Bars,42183,0.716,,
+"Candies, MARS SNACKFOOD US, TWIX Peanut Butter Cookie Bars",TWIX Peanut Butter Cookie Bars,Candies MARS SNACKFOOD US TWIX Peanut Butter Cookie Bars,TWIX Peanut Butter Cookie Bars,19161,0.714,,
+"Puddings, chocolate, ready-to-eat, fat free","Pudding, canned, chocolate, fat free",Puddings chocolate ready eat fat free,Pudding canned chocolate fat free,19235,0.714,,
+"Crackers, gluten-free, multi-seeded and multigrain","Cracker, multigrain, salt free",Crackers gluten free multi seeded multigrain,Cracker multigrain salt free,28345,0.713,,
+"Cereals ready-to-eat, MALT-O-MEAL, Cocoa DYNO-BITES",Malt-O-Meal Fruity Dyno-Bites,Cereals ready eat MALT O MEAL Cocoa DYNO BITES,Malt O Meal Fruity Dyno Bites,8495,0.713,,
+"Cereals ready-to-eat, GENERAL MILLS, BERRY BERRY KIX",Berry Berry Kix,Cereals ready eat GENERAL MILLS BERRY BERRY KIX,Berry Berry Kix,8274,0.713,,
+"Cereals ready-to-eat, QUAKER, HONEY GRAHAM OH!S","Oh's, Honey Graham",Cereals ready eat QUAKER HONEY GRAHAM OHS,Ohs Honey Graham,8211,0.713,,
+"Snacks, tortilla chips, low fat, unsalted","Salty snacks, corn or cornmeal base, tortilla chips, unsalted",Snacks tortilla chip low fat unsalted,Salty snack corn cornmeal base tortilla chip unsalted,19833,0.712,,
+"Cereals ready-to-eat, POST, GRAPE-NUTS Cereal","Cereal, ready-to-eat, NFS",Cereals ready eat POST GRAPE NUTS Cereal,Cereal ready eat,8038,0.712,n,57230000
+"Cereals ready-to-eat, QUAKER, CAP'N CRUNCH with CRUNCHBERRIES",Cap'n Crunch's Crunch Berries,Cereals ready eat QUAKER CAPN CRUNCH CRUNCHBERRIES,Capn Crunchs Crunch Berries,8011,0.711,,
+"Pie, vanilla cream, prepared from recipe","Pie, vanilla cream",Pie vanilla cream prepared from recipe,Pie vanilla cream,18328,0.711,,
+"Fast Food, Pizza Chain, 14"" pizza, cheese topping, regular crust","Pizza, cheese, regular crust",Fast Food Pizza Chain 14 pizza cheese topping regular crust,Pizza cheese regular crust,21299,0.711,,
+"Cereals ready-to-eat, QUAKER, 100% Natural Granola, Oats, Wheat and Honey","100 % Natural Cereal, with oats, honey and raisins, Quaker",Cereals ready eat QUAKER Natural Granola Oats Wheat Honey,Natural Cereal oat honey raisin Quaker,8054,0.711,,
+"Soup, beef broth or bouillon, powder, dry","Vegetable broth, bouillon",Soup beef broth bouillon powder dry,Vegetable broth bouillon,6075,0.711,,
+"Bread, roll, Mexican, bollilo","Roll, Mexican, bolillo",Bread roll Mexican bollilo,Roll Mexican bolillo,28288,0.71,,
+"Lasagna, cheese, frozen, prepared",Lasagna with cheese and sauce (diet frozen meal),Lasagna cheese frozen prepared,Lasagna cheese sauce diet frozen meal,22910,0.709,,
+"Sauce, enchilada, red, mild, ready to serve","Enchilada sauce, red",Sauce enchilada red mild ready serve,Enchilada sauce red,27063,0.707,,
+"Cereals ready-to-eat, GENERAL MILLS, LUCKY CHARMS",Lucky Charms,Cereals ready eat GENERAL MILLS LUCKY CHARMS,Lucky Charms,8050,0.707,,
+"Snacks, granola bar, fruit-filled, nonfat","Granola bar, nonfat",Snacks granola bar fruit filled nonfat,Granola bar nonfat,19435,0.707,n,53540400
+"Strawberries, canned, heavy syrup pack, solids and liquids","Strawberries, cooked or canned, in syrup",Strawberries canned heavy syrup pack solid liquid,Strawberries cooked canned syrup,9317,0.707,,
+"Crackers, standard snack-type, sandwich, with cheese filling","Crackers, sandwich-type, NFS",Crackers standard snack type sandwich cheese filling,Crackers sandwich type,18230,0.706,n,54328200
+"Candies, sweet chocolate","Chocolate, sweet or dark",Candies sweet chocolate,Chocolate sweet dark,19081,0.705,,
+"Candies, fruit snacks, with high vitamin C","Fruit snacks candy, with high vitamin C",Candies fruit snack C,Fruit snack candy C,19919,0.704,,
+"Soup, beef and vegetables, canned, ready-to-serve","Vegetable beef soup with rice, prepared with water or ready-to-serve",Soup beef vegetable canned ready serve,Vegetable beef soup rice prepared water ready serve,6749,0.704,,
+"Pizza, cheese topping, rising crust, frozen, cooked","Pizza, cheese, regular crust",Pizza cheese topping rising crust frozen cooked,Topping from cheese pizza,21225,0.703,,
+"Cookies, graham crackers, plain or honey, lowfat","Crackers, graham, lowfat",Cookies graham cracker plain honey lowfat,Crackers graham lowfat,28302,0.703,,
+"Bread, egg","Roll, egg bread",Bread egg,Roll egg bread,18027,0.703,,
+"Cereals ready-to-eat, KASHI, ORGANIC PROMISE Autumn Wheat",Kashi Autumn Wheat,Cereals ready eat KASHI ORGANIC PROMISE Autumn Wheat,Kashi Autumn Wheat,8462,0.702,,
+"Frozen novelties, ice cream type, chocolate or caramel covered, with nuts","Caramel with nuts, chocolate covered",Frozen novelty ice cream type chocolate caramel covered nut,Caramel nut chocolate covered,43506,0.702,n,13120760
+"Cereals ready-to-eat, MALT-O-MEAL, CINNAMON TOASTERS",Malt-O-Meal Apple and Cinnamon Toasty O's,Cereals ready eat MALT O MEAL CINNAMON TOASTERS,Malt O Meal Apple Cinnamon Toasty Os,8494,0.702,,
+"Frankfurter, low sodium","Frankfurter or hot dog, low salt",Frankfurter low sodium,Frankfurter hot dog low salt,43507,0.702,,
+"Puddings, rice, ready-to-eat","Pudding, rice",Puddings rice ready eat,Pudding rice,19193,0.701,,
+"Syrups, chocolate, fudge-type","Chocolate syrup, thin type",Syrups chocolate fudge type,Chocolate syrup thin type,19348,0.701,,
+"Snacks, granola bar, QUAKER, DIPPS, all flavors",Quaker Chewy Dipps Granola Bar,Snacks granola bar QUAKER DIPPS all flavor,Quaker Chewy Dipps Granola Bar,25056,0.701,,
+"Cereals ready-to-eat, FAMILIA",Familia,Cereals ready eat FAMILIA,Familia,43241,0.7,,
+"Soup, clam chowder, new england, canned, prepared with equal volume water","Clam chowder, New England, prepared with water",Soup clam chowder new england canned prepared equal volume water,Clam chowder New England prepared water,6430,0.7,,
+"Sauce, sweet and sour, ready-to-serve",Sweet and sour sauce,Sauce sweet sour ready serve,Sweet sour sauce,27050,0.7,,
+"Cereals ready-to-eat, QUAKER, QUAKER OAT LIFE, plain",Quaker Oat Bran Cereal,Cereals ready eat QUAKER QUAKER OAT LIFE plain,Quaker Oat Bran Cereal,8049,0.699,,
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S CORN POPS","Corn flakes, Kellogg's",Cereals ready eat KELLOGG KELLOGGS CORN POPS,Corn flake Kelloggs,8068,0.699,n,57347000
+"Soup, minestrone, canned, chunky, ready-to-serve","Minestrone soup, canned, reduced sodium, ready-to-serve",Soup minestrone canned chunky ready serve,Minestrone soup canned reduced sodium ready serve,6039,0.699,,
+"Ice cream, lowfat, no sugar added, cone, added peanuts and chocolate sauce","Ice cream, no sugar added, chocolate",Ice cream lowfat sugar cone peanut chocolate sauce,Ice cream sugar chocolate,1306,0.698,,
+"Taquitos, frozen, beef and cheese, oven-heated",Taquitos with meat,Taquitos frozen beef cheese oven heated,Taquitos meat,32007,0.698,,
+"Snacks, granola bar, GENERAL MILLS, NATURE VALLEY, with yogurt coating",Nature Valley Chewy Granola Bar with Yogurt Coating,Snacks granola bar GENERAL MILLS NATURE VALLEY yogurt coating,Nature Valley Chewy Granola Bar Yogurt Coating,25054,0.698,,
+"Cereals ready-to-eat, GENERAL MILLS, GOLDEN GRAHAMS",Golden Grahams,Cereals ready eat GENERAL MILLS GOLDEN GRAHAMS,Golden Grahams,8035,0.697,,
+"Soup, chunky vegetable, canned, ready-to-serve","Vegetable soup, chunky style",Soup chunky vegetable canned ready serve,Vegetable soup chunky style,6067,0.697,,
+"Candies, peanut bar",M&M's Peanut Chocolate Candies,Candies peanut bar,MMs Peanut Chocolate Candies,19147,0.697,n,91732000
+"Puddings, coconut cream, dry mix, instant","Pudding, coconut",Puddings coconut cream dry mix instant,Pudding coconut,19322,0.697,,
+"Cereals ready-to-eat, QUAKER, QUAKER Puffed Rice",Quaker Oat Bran Cereal,Cereals ready eat QUAKER QUAKER Puffed Rice,Quaker Oat Bran Cereal,8066,0.697,n,57306100
+"Light Ice Cream, soft serve, blended with cookie pieces","Light ice cream, soft serve, blended with candy or cookies",Light Ice Cream soft serve blended cookie piece,Light ice cream soft serve blended candy cooky,21413,0.696,,
+"Milk, chocolate, lowfat, reduced sugar","Milk, chocolate, reduced fat milk-based, 2% (formerly ""lowfat"")",Milk chocolate lowfat reduced sugar,Milk chocolate reduced fat milk based formerly lowfat,1305,0.696,,
+"Candies, peanut brittle, prepared-from-recipe",Peanut brittle,Candies peanut brittle prepared from recipe,Peanut brittle,19148,0.695,,
+"Cereals, oats, instant, fortified, plain, dry","Oatmeal, fortified, cooked, instant, fat not added in cooking",Cereals oat instant fortified plain dry,Oatmeal fortified cooked instant fat,8122,0.695,,
+"Soup, ramen noodle, dry, any flavor, reduced fat, reduced sodium","Soup, mostly noodles, reduced fat, reduced sodium",Soup ramen noodle dry any flavor reduced fat reduced sodium,Soup mostly noodle reduced fat reduced sodium,27035,0.694,,
+"Bread, cornbread, dry mix, prepared with 2% milk, 80% margarine, and eggs","Cornbread, prepared from mix",Bread cornbread dry mix prepared milk 80 margarine egg,Cornbread prepared from mix,18023,0.694,,
+"Cereals ready-to-eat, QUAKER, KING VITAMAN",King Vitaman,Cereals ready eat QUAKER KING VITAMAN,King Vitaman,8047,0.694,,
+"Fast foods, cheeseburger; double, regular patty; double decker bun with condiments and special sauce","Double cheeseburger (2 patties), plain, on double-decker bun",Fast food cheeseburger double regular patty double decker bun condiment special sauce,Double cheeseburger patty plain on double decker bun,21400,0.694,n,27510300
+"Crackers, cheese, regular","Cracker, cheese",Crackers cheese regular,Cracker cheese,18214,0.694,,
+"Snacks, pretzels, hard, plain, made with enriched flour, unsalted","Pretzel, hard, unsalted",Snacks pretzel hard plain made enriched flour unsalted,Pretzel hard unsalted,19814,0.693,,
+"Cereals ready-to-eat, GENERAL MILLS, COUNT CHOCULA",Count Chocula,Cereals ready eat GENERAL MILLS COUNT CHOCULA,Count Chocula,8270,0.692,,
+"Corn, sweet, yellow, canned, cream style, regular pack","Corn, yellow, from canned, cream style",Corn sweet yellow canned cream style regular pack,Corn yellow from canned cream style,11174,0.692,,
+"Cereals ready-to-eat, GENERAL MILLS, Berry Burst CHEERIOS, Triple Berry",Berry Burst Cheerios,Cereals ready eat GENERAL MILLS Berry Burst CHEERIOS Triple Berry,Berry Burst Cheerios,8239,0.692,,
+"Fruit juice smoothie, NAKED JUICE, strawberry banana",Strawberry-banana-orange juice,Fruit juice smoothie NAKED JUICE strawberry banana,Strawberry banana orange juice,9531,0.691,,
+"Candies, MARS SNACKFOOD US, M&M's Milk Chocolate Candies",M&M's Milk Chocolate Candies (formerly M&M's Plain Chocolate Candies),Candies MARS SNACKFOOD US MMs Milk Chocolate Candies,MMs Milk Chocolate Candies formerly MMs Plain Chocolate Candies,19141,0.691,,
+Poultry salad sandwich spread,Sandwich spread,Poultry salad sandwich spread,Sandwich spread,7067,0.691,,
+Jams and preserves,"Jam, preserves, all flavors",Jams preserve,Jam preserve all flavor,19297,0.69,,
+"Puddings, coconut cream, dry mix, regular","Pudding, coconut",Puddings coconut cream dry mix regular,Pudding coconut,19324,0.69,,
+"Toppings, strawberry","Pie, strawberry cream",Toppings strawberry,Pie strawberry cream,19137,0.689,n,91304030
+"Bread, french or vienna, toasted (includes sourdough)","Bread, French or Vienna, toasted",Bread french vienna toasted includes sourdough,Bread French Vienna toasted,18030,0.689,,
+"Cereals ready-to-eat, QUAKER, Christmas Crunch",Cap'n Crunch's Christmas Crunch,Cereals ready eat QUAKER Christmas Crunch,Capn Crunchs Christmas Crunch,8550,0.688,,
+"Cookies, chocolate cream covered biscuit sticks","Ice cream bar or stick, chocolate covered",Cookies chocolate cream covered biscuit stick,Ice cream bar stick chocolate covered,28350,0.688,n,53209010
+"Frankfurter, meat and poultry, unheated","Frankfurter or hot dog, meat and poultry",Frankfurter meat poultry unheated,Frankfurter hot dog meat poultry,7962,0.687,,
+"Waffles, whole wheat, lowfat, frozen, ready-to-heat","Waffle, 100% whole wheat or 100% whole grain",Waffles whole wheat lowfat frozen ready heat,Waffle whole wheat whole grain,28304,0.686,,
+"Soup, clam chowder, new england, canned, prepared with equal volume low fat (2%) milk","Clam chowder, New England, prepared with milk",Soup clam chowder new england canned prepared equal volume low fat milk,Clam chowder New England prepared milk,6230,0.686,,
+"Soup, stock, fish, home-prepared","Fish stock, home recipe",Soup stock fish home prepared,Fish stock home recipe,6174,0.686,,
+"Cereals ready-to-eat, GENERAL MILLS, CINNAMON TOAST CRUNCH",Cinnamon Toast Crunch,Cereals ready eat GENERAL MILLS CINNAMON TOAST CRUNCH,Cinnamon Toast Crunch,8272,0.686,,
+"Soup, vegetarian vegetable, canned, prepared with equal volume water","Vegetarian vegetable soup, prepared with water",Soup vegetarian vegetable canned prepared equal volume water,Vegetarian vegetable soup prepared water,6468,0.685,,
+"Cake, cherry fudge with chocolate frosting","Fudge, chocolate",Cake cherry fudge chocolate frosting,Fudge chocolate,18095,0.684,n,53102800
+"Snacks, granola bar, GENERAL MILLS NATURE VALLEY, SWEET&SALTY NUT, peanut",Nature Valley Sweet and Salty Nut Granola Bar,Snacks granola bar GENERAL MILLS NATURE VALLEY SWEETSALTY NUT peanut,Nature Valley Sweet Salty Nut Granola Bar,25053,0.683,,
+"Dip, salsa con queso, cheese and salsa- medium","Salsa, NFS",Dip salsa con queso cheese salsa medium,Salsa,27052,0.683,n,14620150
+"Chili con carne with beans, canned entree","Chili con carne, NS as to beans",Chili con carne bean canned entree,Chili con carne bean,22904,0.682,n,27111410
+"Fast Food, Pizza Chain, 14"" pizza, cheese topping, thick crust",Topping from cheese pizza,Fast Food Pizza Chain 14 pizza cheese topping thick crust,Topping from cheese pizza,21300,0.682,n,58106205
+"Cereals ready-to-eat, GENERAL MILLS, Cinnamon CHEX","Cinnamon Grahams, General Mills",Cereals ready eat GENERAL MILLS Cinnamon CHEX,Cinnamon Grahams General Mills,8595,0.681,,
+"Sherbet, orange",Ice cream with sherbet,Sherbet orange,Ice cream sherbet,19097,0.681,n,13150000
+"Soup, chicken broth or bouillon, dry, prepared with water","Vegetable broth, bouillon",Soup chicken broth bouillon dry prepared water,Vegetable broth bouillon,6480,0.681,n,28340110
+"Cookies, chocolate sandwich, with creme filling, regular","Cookie, chocolate, sandwich, with extra filling",Cookies chocolate sandwich creme filling regular,Cookie chocolate sandwich extra filling,18166,0.679,,
+"Cereals, whole wheat hot natural cereal, dry","Whole wheat cereal, cooked, NS as to fat added in cooking",Cereals whole wheat hot natural cereal dry,Whole wheat cereal cooked fat,8144,0.678,,
+"Cake, snack cakes, not chocolate, with icing or filling, low-fat, with added fiber","Cake, cupcake, chocolate, with icing or filling",Cake snack cake chocolate icing filling low fat fiber,Cake cupcake chocolate icing filling,28297,0.678,n,53109200
+"Ice creams, vanilla, light, no sugar added","Pie, vanilla cream",Ice cream vanilla light sugar,Pie vanilla cream,19260,0.678,,
+"Crackers, cheese, whole grain","Crackers, whole wheat and bran",Crackers cheese whole grain,Crackers whole wheat bran,28303,0.678,,
+"Candies, MARS SNACKFOOD US, 3 MUSKETEERS Bar",3 MUSKETEERS Bar,Candies MARS SNACKFOOD US MUSKETEERS Bar,MUSKETEERS Bar,19159,0.678,,
+"Fast Food, Pizza Chain, 14"" pizza, cheese topping, thin crust","Pizza, cheese, thin crust",Fast Food Pizza Chain 14 pizza cheese topping thin crust,Pizza cheese thin crust,21301,0.677,,
+"Cereals, QUAKER, QUAKER MultiGrain Oatmeal, dry",Quaker Oat Bran Cereal,Cereals QUAKER QUAKER MultiGrain Oatmeal dry,Quaker Oat Bran Cereal,8200,0.676,n,56203610
+"Soup, cream of chicken, canned, condensed, reduced sodium","Chicken or turkey soup, cream of, canned, reduced sodium, made with milk",Soup cream of chicken canned condensed reduced sodium,Chicken turkey soup cream of canned reduced sodium made milk,6955,0.676,,
+"Cereals ready-to-eat, QUAKER, QUAKER Puffed Wheat",Quaker Oat Bran Cereal,Cereals ready eat QUAKER QUAKER Puffed Wheat,Quaker Oat Bran Cereal,8146,0.676,n,57306120
+"Syrups, sugar free",Sugar (white) and water syrup,Syrups sugar free,Sugar white water syrup,43026,0.675,n,91351010
+"Lasagna with meat & sauce, frozen entree",Lasagna with cheese and meat sauce (diet frozen meal),Lasagna meat sauce frozen entree,Lasagna cheese meat sauce diet frozen meal,22916,0.675,,
+"Gravy, meat or poultry, low sodium, prepared","Gravy, poultry",Gravy meat poultry low sodium prepared,Gravy poultry,6977,0.675,,
+"Candies, chocolate covered, low sugar or low calorie","Dietetic or low calorie candy, chocolate covered",Candies chocolate covered low sugar low calorie,Dietetic low calorie candy chocolate covered,43059,0.674,,
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S CRISPIX","Rice Krispies Treats Cereal, Kellogg's",Cereals ready eat KELLOGG KELLOGGS CRISPIX,Rice Krispies Treats Cereal Kelloggs,8259,0.674,n,57148000
+"Beverages, Fruit flavored drink, less than 3% juice, not fortified with vitamin C","Fruit-flavored drink, vitamin and mineral fortified",Beverages Fruit flavored drink le than juice fortified C,Fruit flavored drink mineral fortified,14645,0.674,,
+"Fast foods, grilled chicken, bacon and tomato club sandwich, with cheese, lettuce, and mayonnaise","Bacon, chicken, and tomato club sandwich, with cheese, lettuce and spread",Fast food grilled chicken bacon tomato club sandwich cheese lettuce mayonnaise,Bacon chicken tomato club sandwich cheese lettuce spread,21461,0.674,,
+"Cookies, sugar wafers with creme filling, regular","Cookie, sugar wafer",Cookies sugar wafer creme filling regular,Cookie sugar wafer,18209,0.674,,
+"Candies, milk chocolate coated coffee beans","Toffee, chocolate-coated, with nuts",Candies milk chocolate coated coffee bean,Toffee chocolate coated nut,19279,0.673,n,91703600
+"Cereals ready-to-eat, GENERAL MILLS, FRANKENBERRY",Frankenberry,Cereals ready eat GENERAL MILLS FRANKENBERRY,Frankenberry,8268,0.673,,
+"Pepperoni, beef and pork, sliced",Pepperoni,Pepperoni beef pork sliced,Pepperoni,7057,0.673,,
+"Candies, fudge, vanilla, prepared-from-recipe","Fudge, vanilla",Candies fudge vanilla prepared from recipe,Fudge vanilla,19103,0.672,,
+"Cereals ready-to-eat, wheat germ, toasted, plain","Wheat germ, plain",Cereals ready eat wheat germ toasted plain,Wheat germ plain,8084,0.672,,
+"Cereals ready-to-eat, POST, GOLDEN CRISP",Golden Crisp (Formerly called Super Golden Crisp),Cereals ready eat POST GOLDEN CRISP,Golden Crisp Formerly called Super Golden Crisp,8073,0.672,,
+"Pie, lemon meringue, commercially prepared","Pie, lemon meringue",Pie lemon meringue commercially prepared,Pie lemon meringue,18320,0.671,,
+"Salad dressing, home recipe, vinegar and oil",Pasta or macaroni salad with oil and vinegar-type dressing,Salad dressing home recipe vinegar oil,Pasta macaroni salad oil vinegar type dressing,4135,0.671,n,83106000
+Tofu yogurt,Soy yogurt,Tofu yogurt,Soy yogurt,43476,0.671,,
+"Candies, NESTLE, BUTTERFINGER Crisp",Butterfinger,Candies NESTLE BUTTERFINGER Crisp,Butterfinger,19913,0.67,,
+"Salad dressing, thousand island, commercial, regular",Thousand Island dressing,Salad dressing thousand island commercial regular,Thousand Island dressing,4017,0.67,,
+"Crackers, saltines, low salt (includes oyster, soda, soup)","Crackers, saltine",Crackers saltine low salt includes oyster soda soup,Crackers saltine,18425,0.67,,
+"Cereals ready-to-eat, QUAKER, CAP'N CRUNCH",Cap'n Crunch,Cereals ready eat QUAKER CAPN CRUNCH,Capn Crunch,8010,0.668,,
+"Cereals ready-to-eat, POST Bran Flakes","Oat Flakes, Post",Cereals ready eat POST Bran Flakes,Oat Flakes Post,8029,0.667,,
+"Sauce, duck, ready-to-serve",Duck sauce,Sauce duck ready serve,Duck sauce,27046,0.667,,
+"Snacks, granola bar, chewy, reduced sugar, all flavors","Granola bar, oats, reduced sugar",Snacks granola bar chewy reduced sugar all flavor,Granola bar oat reduced sugar,25035,0.666,,
+"Cereals ready-to-eat, POST, GRAPE-NUTS Flakes",Grape-Nut Flakes,Cereals ready eat POST GRAPE NUTS Flakes,Grape Nut Flakes,8039,0.666,,
+"Fast foods, potato, mashed","White potato, mashed, NFS",Fast food potato mashed,White potato mashed,21139,0.666,,
+"Macaroni and Cheese, canned entree","Macaroni or noodles with cheese, canned",Macaroni Cheese canned entree,Macaroni noodle cheese canned,22247,0.665,,
+"Cereals ready-to-eat, POST, GREAT GRAINS Crunchy Pecan Cereal","Cereal, ready-to-eat, NFS",Cereals ready eat POST GREAT GRAINS Crunchy Pecan Cereal,Cereal ready eat,42261,0.665,n,57231250
+"Pears, canned, heavy syrup pack, solids and liquids","Pear, cooked or canned, in heavy syrup",Pears canned heavy syrup pack solid liquid,Pear cooked canned heavy syrup,9257,0.665,,
+"Rolls, dinner, sweet","Roll, sweet",Rolls dinner sweet,Roll sweet,28348,0.665,,
+"Cookies, Marie biscuit",Ham on biscuit,Cookies Marie biscuit,Ham on biscuit,28351,0.664,n,53203500
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S HONEY SMACKS","Honey Smacks, Kellogg's (formerly Smacks; Honey Smacks)",Cereals ready eat KELLOGG KELLOGGS HONEY SMACKS,Honey Smacks Kelloggs formerly Smacks Honey Smacks,8071,0.664,,
+"Cereals, CREAM OF RICE, dry","Cereal, NFS",Cereals CREAM OF RICE dry,Cereal,8100,0.663,n,57340000
+"Cereals ready-to-eat, GENERAL MILLS, Fruity CHEERIOS",Fruity Cheerios,Cereals ready eat GENERAL MILLS Fruity CHEERIOS,Fruity Cheerios,8583,0.663,,
+"Crackers, standard snack-type, regular","Cracker, snack",Crackers standard snack type regular,Cracker snack,18229,0.663,,
+"Peaches, canned, heavy syrup pack, solids and liquids","Peach, cooked or canned, in heavy syrup",Peaches canned heavy syrup pack solid liquid,Peach cooked canned heavy syrup,9241,0.662,,
+"Syrup, NESTLE, chocolate","Chocolate syrup, thin type",Syrup NESTLE chocolate,Chocolate syrup thin type,19924,0.661,,
+"Cereals ready-to-eat, GENERAL MILLS, HONEY NUT CHEERIOS",Honey Nut Cheerios,Cereals ready eat GENERAL MILLS HONEY NUT CHEERIOS,Honey Nut Cheerios,8045,0.66,,
+"Soup, beef broth or bouillon canned, ready-to-serve","Vegetable broth, bouillon",Soup beef broth bouillon canned ready serve,Vegetable broth bouillon,6008,0.66,n,28310110
+"Snacks, tortilla chips, plain, white corn, salted","Salty snacks, corn or cornmeal base, tortilla chips, unsalted",Snacks tortilla chip plain white corn salted,Salty snack corn cornmeal base tortilla chip unsalted,19056,0.66,,
+Rice and Wheat cereal bar,"Whole wheat cereal, wheat and barley, cooked, fat not added in cooking",Rice Wheat cereal bar,Whole wheat cereal wheat barley cooked fat,8546,0.66,n,53540700
+"Snacks, corn-based, extruded, puffs or twists, cheese-flavor","Salty snacks, corn based puffs and twists, cheese puffs and twists, lowfat",Snacks corn based extruded puff twist cheese flavor,Salty snack corn based puff twist cheese puff twist lowfat,19008,0.66,,
+"Snacks, vegetable chips, made from garden vegetables",Vegetable chips,Snacks vegetable chip made from garden vegetable,Vegetable chip,25040,0.66,,
+"Cinnamon buns, frosted (includes honey buns)","Roll, sweet, cinnamon bun, frosted",Cinnamon bun frosted includes honey bun,Roll sweet cinnamon bun frosted,18964,0.66,,
+"Fast foods, submarine sandwich, meatball marinara on white bread",Meatball and spaghetti sauce submarine sandwich,Fast food submarine sandwich meatball marinara on white bread,Meatball spaghetti sauce submarine sandwich,21158,0.659,,
+"Rolls, hamburger or hot dog, wheat/cracked wheat","Roll, wheat or cracked wheat",Rolls hamburger hot dog wheatcracked wheat,Roll wheat cracked wheat,28312,0.659,,
+"Corn, sweet, white, canned, cream style, regular pack","Corn, white, from canned, cream style",Corn sweet white canned cream style regular pack,Corn white from canned cream style,11906,0.658,,
+"Beverages, milk beverage, reduced fat, flavored and sweetened, Ready-to-drink,  added calcium, vitamin A and vitamin D",Rice beverage,Beverages milk beverage reduced fat flavored sweetened Ready drink calcium,Rice beverage,14634,0.658,n,11519000
+"Milk, canned, evaporated, nonfat, with added vitamin A and vitamin D","Milk, evaporated, 2% fat, undiluted",Milk canned evaporated nonfat,Milk evaporated fat undiluted,1097,0.657,n,11212000
+"Soup, tomato, canned, condensed, reduced sodium","Tomato soup, canned, reduced sodium, prepared with milk",Soup tomato canned condensed reduced sodium,Tomato soup canned reduced sodium prepared milk,6956,0.657,n,74602200
+"Cereals ready-to-eat, GENERAL MILLS, FROSTED CHEERIOS",Frosted Cheerios,Cereals ready eat GENERAL MILLS FROSTED CHEERIOS,Frosted Cheerios,8267,0.657,,
+"Toaster Pastries, fruit, frosted (include apples, blueberry, cherry, strawberry)","Pie, berry, not blackberry, blueberry, boysenberry, huckleberry, raspberry, or strawberry; one crust",Toaster Pastries fruit frosted include apple blueberry cherry strawberry,Pie berry blackberry blueberry boysenberry huckleberry raspberry strawberry one crust,18938,0.656,n,52320110
+"Salad dressing, italian dressing, commercial, reduced fat","Italian dressing, reduced calorie",Salad dressing italian dressing commercial reduced fat,Italian dressing reduced calorie,4021,0.656,,
+"Snacks, granola bars, soft, almond, confectioners coating",Soft fruit confections,Snacks granola bar soft almond confectioner coating,Soft fruit confection,25038,0.655,n,53544230
+"Potato chips, without salt, reduced fat","White potato, chips, reduced fat",Potato chip without salt reduced fat,White potato chip reduced fat,19823,0.655,,
+"Biscuits, plain or buttermilk, dry mix","Biscuit, baking powder or buttermilk type, made from mix",Biscuits plain buttermilk dry mix,Biscuit baking powder buttermilk type made from mix,18010,0.653,,
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S CRACKLIN' OAT BRAN","Raisin Bran, Kellogg's",Cereals ready eat KELLOGG KELLOGGS CRACKLIN OAT BRAN,Raisin Bran Kelloggs,8023,0.652,n,57143000
+"Candies, sweet chocolate coated fondant",Chocolate candy with fondant and caramel,Candies sweet chocolate coated fondant,Chocolate candy fondant caramel,19083,0.652,n,91707010
+"Beverages, vegetable and fruit juice blend, 100% juice, with added vitamins A, C, E","Fruit juice blend, 100% juice",Beverages vegetable fruit juice blend juice vitamin C E,Fruit juice blend juice,14635,0.652,,
+"Salad dressing, french dressing, commercial, regular",French dressing,Salad dressing french dressing commercial regular,French dressing,4120,0.652,,
+"Candies, carob, unsweetened","Cherries, sweet, cooked or canned, NS as to sweetened or unsweetened; sweetened, NS as to type of sweete",Candies carob unsweetened,Cherries sweet cooked canned sweetened unsweetened sweetened type of sweete,19071,0.652,n,44201000
+"Fast foods, breakfast burrito, with egg, cheese, and sausage","Breakfast bar, NFS",Fast food breakfast burrito egg cheese sausage,Breakfast bar,21519,0.651,n,32202000
+"Snacks, fruit leather, pieces",Fruit leather and fruit snacks candy,Snacks fruit leather piece,Fruit leather fruit snack candy,19013,0.649,,
+"Cereals ready-to-eat, GENERAL MILLS, Oat Cluster CHEERIOS Crunch","Sun Crunchers Cereal, General Mills",Cereals ready eat GENERAL MILLS Oat Cluster CHEERIOS Crunch,Sun Crunchers Cereal General Mills,8637,0.649,n,57237100
+"Frozen novelties, ice type, pop, with low calorie sweetener","Ice pop, sweetened with low calorie sweetener",Frozen novelty ice type pop low calorie sweetener,Ice pop sweetened low calorie sweetener,43514,0.649,,
+"Candies, fudge, chocolate, with nuts, prepared-from-recipe","Fudge, chocolate, with nuts",Candies fudge chocolate nut prepared from recipe,Fudge chocolate nut,19101,0.648,,
+"Fast Foods, Fried Chicken, Drumstick, meat and skin with breading","Chicken, drumstick, fried, no coating, NS as to skin eaten",Fast Foods Fried Chicken Drumstick meat skin breading,Chicken drumstick fried coating skin eaten,21470,0.648,n,24147210
+"Formulated Bar, SOUTH BEACH protein bar",South Beach Living High Protein Cereal Bar,Formulated Bar SOUTH BEACH protein bar,South Beach Living High Protein Cereal Bar,25067,0.648,,
+"Soup, clam chowder, new england, canned, condensed","Clam chowder, New England, prepared with milk",Soup clam chowder new england canned condensed,Clam chowder New England prepared milk,6030,0.647,,
+"Rolls, hamburger or hot dog, whole wheat","Roll, whole wheat, 100%",Rolls hamburger hot dog whole wheat,Roll whole wheat,28313,0.647,,
+"Egg rolls, vegetable, frozen, prepared","Pizza with meat and vegetables, prepared from frozen, thick crust",Egg roll vegetable frozen prepared,Pizza meat vegetable prepared from frozen thick crust,22955,0.647,n,58110110
+"Soup, chicken broth, less/reduced sodium, ready to serve","Chicken noodle soup, canned, reduced sodium, ready-to-serve",Soup chicken broth lessreduced sodium ready serve,Chicken noodle soup canned reduced sodium ready serve,6183,0.646,,
+"Cookies, gluten-free, chocolate sandwich, with creme filling","Cookie, chocolate, sandwich, with extra filling",Cookies gluten free chocolate sandwich creme filling,Cookie chocolate sandwich extra filling,28332,0.645,,
+"Milk, canned, evaporated, with added vitamin D and without added vitamin A","Milk, evaporated, 2% fat, undiluted",Milk canned evaporated without,Milk evaporated fat undiluted,1096,0.645,n,11211000
+"Bread, multi-grain (includes whole-grain)","Bread, whole grain white",Bread multi grain includes whole grain,Bread whole grain white,28397,0.644,,
+"Cereals ready-to-eat, GENERAL MILLS, 25% Less Sugar CINNAMON TOAST CRUNCH",Cinnamon Toast Crunch Reduced Sugar,Cereals ready eat GENERAL MILLS 25 Less Sugar CINNAMON TOAST CRUNCH,Cinnamon Toast Crunch Reduced Sugar,8579,0.644,,
+"Snacks, popcorn, caramel-coated, with peanuts","Popcorn, sugar syrup or caramel-coated, with nuts",Snacks popcorn caramel coated peanut,Popcorn sugar syrup caramel coated nut,19038,0.644,,
+"Fast Food, Pizza Chain, 14"" pizza, cheese topping, stuffed crust",Topping from cheese pizza,Fast Food Pizza Chain 14 pizza cheese topping stuffed crust,Topping from cheese pizza,21511,0.643,n,58106225
+"Cereals ready-to-eat, POST, Honeycomb Cereal","Cereal, ready-to-eat, NFS",Cereals ready eat POST Honeycomb Cereal,Cereal ready eat,8046,0.643,n,57238000
+"Cake, snack cakes, creme-filled, sponge","Cake, sponge, NS as to icing",Cake snack cake creme filled sponge,Cake sponge icing,18128,0.642,n,53118200
+"Cereals ready-to-eat, KASHI, HEART TO HEART, Oat Flakes & Blueberry Clusters",Kashi Heart to Heart,Cereals ready eat KASHI HEART TO HEART Oat Flakes Blueberry Clusters,Kashi Heart Heart,8538,0.642,,
+"Soup, beef broth or bouillon, powder, prepared with water","Vegetable broth, bouillon",Soup beef broth bouillon powder prepared water,Vegetable broth bouillon,6475,0.642,n,28310110
+"Fast foods, hamburger; double, large patty; with condiments, vegetables and mayonnaise","Double hamburger (2 patties), with mayonnaise or salad dressing, on bun",Fast food hamburger double large patty condiment vegetable mayonnaise,Double hamburger patty mayonnaise salad dressing on bun,21389,0.642,n,27510670
+"Cookies, graham crackers, plain or honey (includes cinnamon)","Cracker, graham, sugar-honey coated, cinnamon crisps",Cookies graham cracker plain honey includes cinnamon,Cracker graham sugar honey coated cinnamon crisp,18173,0.641,,
+"Biscuits, plain or buttermilk, frozen, baked","Biscuit, baking powder or buttermilk type, made from mix",Biscuits plain buttermilk frozen baked,Biscuit baking powder buttermilk type made from mix,18009,0.641,,
+"Fast foods, crispy chicken, bacon, and tomato club sandwich, with cheese, lettuce, and mayonnaise","Bacon, chicken, and tomato club sandwich, with cheese, lettuce and spread",Fast food crispy chicken bacon tomato club sandwich cheese lettuce mayonnaise,Bacon chicken tomato club sandwich cheese lettuce spread,21462,0.641,,
+"Crackers, saltines (includes oyster, soda, soup)","Crackers, saltine",Crackers saltine includes oyster soda soup,Crackers saltine,18228,0.64,,
+"Soup, pea, split with ham, canned, chunky, ready-to-serve",Chunky pea and ham soup,Soup pea split ham canned chunky ready serve,Chunky pea ham soup,6050,0.639,,
+"Candies, MARS SNACKFOOD US, MILKY WAY Midnight Bar",MILKY WAY MIDNIGHT Bar (formerly MILKY WAY DARK Bar),Candies MARS SNACKFOOD US MILKY WAY Midnight Bar,MILKY WAY MIDNIGHT Bar formerly MILKY WAY DARK Bar,42196,0.639,,
+"Dip, bean, original flavor",Balance Original Bar,Dip bean original flavor,Balance Original Bar,27065,0.638,n,41205050
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S CINNABON cereal",Kellogg's Nutri-Grain Cereal Bar,Cereals ready eat KELLOGG KELLOGGS CINNABON cereal,Kelloggs Nutri Grain Cereal Bar,8588,0.638,n,57125000
+"Frozen novelties, ice cream type, vanilla ice cream, light, no sugar added, chocolate coated","Light ice cream, no sugar added, chocolate",Frozen novelty ice cream type vanilla ice cream light sugar chocolate coated,Light ice cream sugar chocolate,42074,0.637,,
+"Bread, protein (includes gluten)","Bread, high protein",Bread protein includes gluten,Bread protein,18043,0.637,,
+"Cereals ready-to-eat, QUAKER, Toasted Multigrain Crisps","Bread, multigrain, toasted",Cereals ready eat QUAKER Toasted Multigrain Crisps,Bread multigrain toasted,8216,0.637,n,57232110
+"Soup, cream of asparagus, canned, condensed","Asparagus, cooked, from canned, NS as to fat added in cooking",Soup cream of asparagus canned condensed,Asparagus cooked from canned fat,6001,0.636,n,75601000
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S ALL-BRAN Original","Raisin Bran, Kellogg's",Cereals ready eat KELLOGG KELLOGGS ALL BRAN Original,Raisin Bran Kelloggs,8001,0.636,n,57101000
+"Candies, M&M MARS 3 MUSKETEERS Truffle Crisp",3 MUSKETEERS Bar,Candies MM MARS MUSKETEERS Truffle Crisp,MUSKETEERS Bar,19914,0.636,,
+"Cereals ready-to-eat, GENERAL MILLS, Rice CHEX","Sun Crunchers Cereal, General Mills",Cereals ready eat GENERAL MILLS Rice CHEX,Sun Crunchers Cereal General Mills,8064,0.636,n,57336000
+"Candies, MARS SNACKFOOD US, TWIX Caramel Cookie Bars",TWIX Caramel Cookie Bars (formerly TWIX Cookie Bars),Candies MARS SNACKFOOD US TWIX Caramel Cookie Bars,TWIX Caramel Cookie Bars formerly TWIX Cookie Bars,19160,0.636,,
+"Cereals ready-to-eat, KASHI 7 Whole Grain Puffs","Kashi cereal, NS as to ready to eat or cooked",Cereals ready eat KASHI 7 Whole Grain Puffs,Kashi cereal ready eat cooked,8388,0.636,,
+"Baking chocolate, mexican, squares",Mexican chocolate (tablet),Baking chocolate mexican square,Mexican chocolate tablet,19124,0.636,,
+"Bread, french or vienna (includes sourdough)","Bread, French or Vienna",Bread french vienna includes sourdough,Bread French Vienna,18029,0.635,,
+"Rice cake, cracker (include hain mini rice cakes)","Rice cake, cracker-type",Rice cake cracker include hain mini rice cake,Rice cake cracker type,42204,0.634,,
+"Snacks, potato chips, made from dried potatoes, reduced fat","White potato, chips, reduced fat",Snacks potato chip made from dried potato reduced fat,White potato chip reduced fat,19045,0.634,,
+"Chicken pot pie, frozen entree, prepared",Chicken and vegetable entree with noodles (frozen meal),Chicken pot pie frozen entree prepared,Chicken vegetable entree noodle frozen meal,22906,0.634,n,27347100
+"Fast foods, egg, scrambled","Egg omelet or scrambled egg, with seafood",Fast food egg scrambled,Egg omelet scrambled egg seafood,21018,0.633,n,32105000
+"Soup, chunky beef, canned, ready-to-serve",Chunky pea and ham soup,Soup chunky beef canned ready serve,Chunky pea ham soup,6070,0.633,n,75651030
+"Candies, fudge, chocolate, prepared-from-recipe","Fudge, chocolate",Candies fudge chocolate prepared from recipe,Fudge chocolate,19100,0.632,,
+"Candies, sesame crunch",Sesame oil,Candies sesame crunch,Sesame oil,19154,0.632,n,91742010
+Vegetarian meatloaf or patties,Vegetarian meat loaf or patties (meat loaf made with meat substitute),Vegetarian meatloaf patty,Vegetarian meat loaf patty meat loaf made meat substitute,43137,0.632,,
+"Cereals ready-to-eat, KASHI Honey Sunshine","Kashi cereal, NS as to ready to eat or cooked",Cereals ready eat KASHI Honey Sunshine,Kashi cereal ready eat cooked,8610,0.631,,
+"REDUCED SODIUM: Salami, dry or hard, pork, beef","Salami, dry or hard",REDUCED SODIUM Salami dry hard pork beef,Salami dry hard,907072,0.631,,
+"Snacks, granola bar, KASHI GOLEAN, chewy, mixed flavors",Kashi GOLEAN Chewy Bars,Snacks granola bar KASHI GOLEAN chewy mixed flavor,Kashi GOLEAN Chewy Bars,25032,0.631,,
+"Cereals ready-to-eat, GENERAL MILLS, TOTAL Raisin Bran","Raisin Bran, Total",Cereals ready eat GENERAL MILLS TOTAL Raisin Bran,Raisin Bran Total,8247,0.63,,
+"Cereals, CREAM OF WHEAT, regular, 10 minute cooking, dry","Wheat, cream of, cooked, regular, NS as to fat added in cooking",Cereals CREAM OF WHEAT regular 10 minute dry,Wheat cream of cooked regular fat,8102,0.63,,
+"Candies, fondant, prepared-from-recipe",Fondant,Candies fondant prepared from recipe,Fondant,19099,0.629,,
+"Puddings, chocolate, dry mix, instant","Pudding pops, chocolate",Puddings chocolate dry mix instant,Pudding pop chocolate,19184,0.629,n,13200110
+"Cereals ready-to-eat, GENERAL MILLS, FIBER ONE Bran Cereal","Cereal, ready-to-eat, NFS",Cereals ready eat GENERAL MILLS FIBER ONE Bran Cereal,Cereal ready eat,8244,0.629,n,57206700
+"Cereals ready-to-eat, GENERAL MILLS, KIX","Sun Crunchers Cereal, General Mills",Cereals ready eat GENERAL MILLS KIX,Sun Crunchers Cereal General Mills,8048,0.629,n,57303100
+"Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, heavy syrup, solids and liquids","Fruit cocktail, cooked or canned, in heavy syrup",Fruit cocktail peach pineapple pear grape cherry canned heavy syrup solid liquid,Fruit cocktail cooked canned heavy syrup,9100,0.629,,
+"Cereals ready-to-eat, GENERAL MILLS, OATMEAL CRISP, Crunchy Almond","Sun Crunchers Cereal, General Mills",Cereals ready eat GENERAL MILLS OATMEAL CRISP Crunchy Almond,Sun Crunchers Cereal General Mills,8202,0.628,n,57316400
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S SMART START Strong Heart Antioxidants Cereal","Smart Start, Kellogg's",Cereals ready eat KELLOGG KELLOGGS SMART START Strong Heart Antioxidants Cereal,Smart Start Kelloggs,8318,0.628,,
+"Candies, milk chocolate coated raisins",M&M's Milk Chocolate Candies (formerly M&M's Plain Chocolate Candies),Candies milk chocolate coated raisin,MMs Milk Chocolate Candies formerly MMs Plain Chocolate Candies,19127,0.628,n,91739010
+"Cereals ready-to-eat, GENERAL MILLS, Corn CHEX","Sun Crunchers Cereal, General Mills",Cereals ready eat GENERAL MILLS Corn CHEX,Sun Crunchers Cereal General Mills,8019,0.627,n,57132000
+Dulce de Leche,"Milk dessert or milk candy, Puerto Rican style (Dulce de leche)",Dulce de Leche,Milk dessert milk candy Puerto Rican style Dulce de leche,1225,0.627,,
+"Soup, chicken, canned, chunky, ready-to-serve","Chicken noodle soup, chunky style",Soup chicken canned chunky ready serve,Chicken noodle soup chunky style,6015,0.626,,
+"Rolls, hamburger, whole grain white, calcium-fortified","Milk, calcium fortified, cow's, fluid, whole",Rolls hamburger whole grain white calcium fortified,Milk calcium fortified cow fluid whole,28321,0.626,n,51300050
+"Puff pastry, frozen, ready-to-bake, baked","Pastry, puff",Puff pastry frozen ready bake baked,Pastry puff,18211,0.626,,
+"Snacks, NUTRI-GRAIN FRUIT AND NUT BAR",Kellogg's Nutri-Grain Fruit and Nut Bar,Snacks NUTRI GRAIN FRUIT AND NUT BAR,Kelloggs Nutri Grain Fruit Nut Bar,25048,0.626,,
+"Soup, chicken broth, ready-to-serve","Vegetable chicken rice soup, prepared with water or ready-to-serve",Soup chicken broth ready serve,Vegetable chicken rice soup prepared water ready serve,6194,0.626,n,28340110
+"Fast foods, cheeseburger; single, large patty; plain","Cheeseburger, plain, on bun",Fast food cheeseburger single large patty plain,Cheeseburger plain on bun,21096,0.625,,
+"Gravy, turkey, canned, ready-to-serve","Turkey, canned",Gravy turkey canned ready serve,Turkey canned,6125,0.625,n,28500000
+"Cereals ready-to-eat, GENERAL MILLS, CHEERIOS, Yogurt Burst, strawberry",Yogurt Burst Cheerios,Cereals ready eat GENERAL MILLS CHEERIOS Yogurt Burst strawberry,Yogurt Burst Cheerios,8553,0.625,,
+"Peaches, spiced, canned, heavy syrup pack, solids and liquids","Peach, cooked or canned, in heavy syrup",Peaches spiced canned heavy syrup pack solid liquid,Peach cooked canned heavy syrup,9243,0.624,,
+"Fruit butters, apple","Butter, NFS",Fruit butter apple,Butter,19294,0.624,n,91403000
+"Formulated bar, high fiber, chewy, oats and chocolate",Fiber One Chewy Bar,Formulated bar fiber chewy oat chocolate,Fiber One Chewy Bar,25045,0.623,,
+"Candies, NESTLE, BABY RUTH Bar",Baby Ruth,Candies NESTLE BABY RUTH Bar,Baby Ruth,19111,0.623,,
+"Candies, caramels","Caramel, with nuts",Candies caramel,Caramel nut,19074,0.623,n,91703020
+"Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, light syrup, solids and liquids","Fruit cocktail, cooked or canned, in light syrup",Fruit cocktail peach pineapple pear grape cherry canned light syrup solid liquid,Fruit cocktail cooked canned light syrup,9099,0.622,,
+"Fast Food, Pizza Chain, 14"" pizza, sausage topping, regular crust","Pizza, cheese, regular crust",Fast Food Pizza Chain 14 pizza sausage topping regular crust,Pizza cheese regular crust,21484,0.622,n,58106625
+"Formulated bar, MARS SNACKFOOD US, SNICKERS MARATHON Protein Performance Bar, Caramel Nut Rush",Snickers Marathon Protein bar,Formulated bar MARS SNACKFOOD US SNICKERS MARATHON Protein Performance Bar Caramel Nut Rush,Snickers Marathon Protein bar,25015,0.621,,
+"Candies, confectioner's coating, peanut butter",Soft fruit confections,Candies confectioner coating peanut butter,Soft fruit confection,19086,0.621,n,91731100
+"REDUCED SODIUM: Bologna, meat and poultry","Bologna, beef, lower sodium",REDUCED SODIUM Bologna meat poultry,Bologna beef lower sodium,907971,0.619,,
+"Snacks, corn-based, extruded, onion-flavor","Snacks, onion-flavored rings",Snacks corn based extruded onion flavor,Snacks onion flavored ring,19007,0.619,,
+"Ice creams, vanilla, light, soft-serve","Pie, vanilla cream",Ice cream vanilla light soft serve,Pie vanilla cream,19096,0.617,,
+"Beverages, Fruit flavored drink containing less than 3% fruit juice, with high vitamin C","Citrus fruit juice drink, containing 40-50% juice",Beverages Fruit flavored drink containing le than fruit juice C,Citrus fruit juice drink containing 40 50 juice,14646,0.617,n,92530410
+"Fish, fish sticks, frozen, prepared","Fish, breaded, or fish sticks, with pasta, vegetable and dessert (frozen meal)",Fish fish stick frozen prepared,Fish breaded fish stick pasta vegetable dessert frozen meal,15027,0.617,n,26100210
+"Fast foods, bagel, with breakfast steak, egg, cheese, and condiments","Breakfast bar, NFS",Fast food bagel breakfast steak egg cheese condiment,Breakfast bar,21411,0.616,n,32202045
+"Doughnuts, french crullers, glazed",French cruller,Doughnuts french cruller glazed,French cruller,18253,0.615,,
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S MUESLIX",Kellogg's Nutri-Grain Cereal Bar,Cereals ready eat KELLOGG KELLOGGS MUESLIX,Kelloggs Nutri Grain Cereal Bar,8286,0.615,n,57308150
+"Potatoes, mashed, ready-to-eat","White potato, mashed, NFS",Potatoes mashed ready eat,White potato mashed,31036,0.614,,
+"Beverages, Whiskey sour mix, bottled",Whiskey sour,Beverages Whiskey sour mix bottled,Whiskey sour,14028,0.613,,
+"Cookies, shortbread, commercially prepared, plain","Cookie, shortbread",Cookies shortbread commercially prepared plain,Cookie shortbread,18192,0.612,,
+"Soup, chicken rice, canned, chunky, ready-to-serve","Chicken noodle soup, chunky style",Soup chicken rice canned chunky ready serve,Chicken noodle soup chunky style,6022,0.611,n,28340210
+"Puddings, vanilla, ready-to-eat","Pudding, with fruit and vanilla wafers",Puddings vanilla ready eat,Pudding fruit vanilla wafer,19201,0.611,n,13220110
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S PRODUCT 19",Kellogg's Nutri-Grain Cereal Bar,Cereals ready eat KELLOGG KELLOGGS PRODUCT 19,Kelloggs Nutri Grain Cereal Bar,8058,0.61,n,57325000
+"Rolls, french","Roll, French or Vienna",Rolls french,Roll French Vienna,18349,0.61,,
+"Restaurant, Latino, pupusas con queso (pupusas, cheese)","Pupusa, cheese-filled",Restaurant Latino pupusas con queso pupusas cheese,Pupusa cheese filled,36409,0.61,,
+"Cereals ready-to-eat, GENERAL MILLS, Multi-Grain CHEERIOS",MultiGrain Cheerios,Cereals ready eat GENERAL MILLS Multi Grain CHEERIOS,MultiGrain Cheerios,8087,0.61,,
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S APPLE JACKS",Kellogg's Nutri-Grain Cereal Bar,Cereals ready eat KELLOGG KELLOGGS APPLE JACKS,Kelloggs Nutri Grain Cereal Bar,8003,0.609,n,57104000
+"Soup, vegetarian vegetable, canned, condensed","Vegetarian vegetable soup, prepared with water",Soup vegetarian vegetable canned condensed,Vegetarian vegetable soup prepared water,6068,0.609,,
+"Cereals ready-to-eat, GENERAL MILLS, TRIX","Sun Crunchers Cereal, General Mills",Cereals ready eat GENERAL MILLS TRIX,Sun Crunchers Cereal General Mills,8078,0.609,n,57407100
+"Thuringer, cervelat, summer sausage, beef, pork",Thuringer,Thuringer cervelat summer sausage beef pork,Thuringer,7078,0.609,,
+"Chicken tenders, breaded, frozen, prepared","Chicken patty, fillet, or tenders, breaded, cooked",Chicken tender breaded frozen prepared,Chicken patty fillet tender breaded cooked,22978,0.608,,
+"Cereals ready-to-eat, GENERAL MILLS, Wheat CHEX","Sun Crunchers Cereal, General Mills",Cereals ready eat GENERAL MILLS Wheat CHEX,Sun Crunchers Cereal General Mills,8082,0.608,n,57411000
+"Luncheon meat, pork, ham, and chicken, minced, canned, reduced sodium, added ascorbic acid, includes SPAM, 25% less sodium","Ham, pork, and chicken, luncheon meat, chopped, minced, pressed, spiced, canned, reduced sodium",Luncheon meat pork ham chicken minced canned reduced sodium ascorbic acid includes SPAM 25 le sodium,Ham pork chicken luncheon meat chopped minced pressed spiced canned reduced sodium,7906,0.608,,
+"Candies, KIT KAT Wafer Bar",Kit Kat,Candies KIT KAT Wafer Bar,Kit Kat,19109,0.607,,
+"Soup, cream of mushroom, canned, prepared with equal volume water","Mushroom soup, cream of, prepared with water",Soup cream of mushroom canned prepared equal volume water,Mushroom soup cream of prepared water,6443,0.607,,
+"Pickles, chowchow, with cauliflower onion mustard, sweet","Cauliflower, pickled",Pickles chowchow cauliflower onion mustard sweet,Cauliflower pickled,11983,0.607,,
+"Candies, REESE's Fast Break, milk chocolate, peanut butter, soft nougats, candy bar",M&M's Peanut Butter Chocolate Candies,Candies REESEs Fast Break milk chocolate peanut butter soft nougat candy bar,MMs Peanut Butter Chocolate Candies,19896,0.607,n,91734400
+"Gravy, chicken, canned or bottled, ready-to-serve","Lime juice, canned or bottled",Gravy chicken canned bottled ready serve,Lime juice canned bottled,6119,0.606,n,28500000
+"Bread sticks, plain","French toast sticks, plain",Bread stick plain,French toast stick plain,18080,0.604,n,51184010
+"Cake, boston cream pie, commercially prepared","Cake, Boston cream pie",Cake boston cream pie commercially prepared,Cake Boston cream pie,18090,0.604,,
+"Fast Food, Pizza Chain, 14"" pizza, sausage topping, thick crust",Topping from meat pizza,Fast Food Pizza Chain 14 pizza sausage topping thick crust,Topping from meat pizza,21482,0.604,n,58106625
+"Beverages, chocolate drink, milk and soy based, ready to drink, fortified","Milk, soy, ready-to-drink, not baby's, chocolate",Beverages chocolate drink milk soy based ready drink fortified,Milk soy ready drink baby chocolate,14163,0.603,,
+"Cereals ready-to-eat, POST, Shredded Wheat n' Bran, spoon-size",Shredded Wheat with Oat Bran,Cereals ready eat POST Shredded Wheat n Bran spoon size,Shredded Wheat Oat Bran,43393,0.603,,
+"Syrups, chocolate, HERSHEY'S Genuine Chocolate Flavored Lite Syrup","Chocolate syrup, thin type",Syrups chocolate HERSHEYS Genuine Chocolate Flavored Lite Syrup,Chocolate syrup thin type,19345,0.603,,
+"Candies, M&M MARS Pretzel Chocolate Candies",M&M's Milk Chocolate Candies (formerly M&M's Plain Chocolate Candies),Candies MM MARS Pretzel Chocolate Candies,MMs Milk Chocolate Candies formerly MMs Plain Chocolate Candies,19917,0.603,n,54408200
+"Fast Foods, crispy chicken filet sandwich, with lettuce and mayonnaise","Chicken fillet, broiled, sandwich, with lettuce, tomato, and non-mayonnaise type spread",Fast Foods crispy chicken filet sandwich lettuce mayonnaise,Chicken fillet broiled sandwich lettuce tomato non mayonnaise type spread,21230,0.602,n,27540190
+"Gravy, beef, canned, ready-to-serve","Tomato soup, canned, low sodium, ready-to-serve",Gravy beef canned ready serve,Tomato soup canned low sodium ready serve,6116,0.602,n,28500040
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S FROOT LOOPS",Kellogg's Nutri-Grain Cereal Bar,Cereals ready eat KELLOGG KELLOGGS FROOT LOOPS,Kelloggs Nutri Grain Cereal Bar,8030,0.601,n,57213000
+"Fast Food, Pizza Chain, 14"" pizza, sausage topping, thin crust",Topping from meat pizza,Fast Food Pizza Chain 14 pizza sausage topping thin crust,Topping from meat pizza,21483,0.601,n,58106620
+"Sauce, salsa, verde, ready-to-serve","Green tomato-chile sauce, cooked (Salsa verde, NFS)",Sauce salsa verde ready serve,Green tomato chile sauce cooked Salsa verde,27047,0.6,,
+"Toppings, nuts in syrup","Syrup, NFS",Toppings nut syrup,Syrup,19367,0.599,,
+"Cake, pudding-type, white, enriched, dry mix","Cake, white, pudding-type mix (oil, egg whites, and water added to dry mix), NS as to icing",Cake pudding type white enriched dry mix,Cake white pudding type mix oil egg white water dry mix icing,18135,0.598,n,53120330
+"Cereals ready-to-eat, GENERAL MILLS, COOKIE CRISP","Ripple Crisp Honey Bran, General Mills",Cereals ready eat GENERAL MILLS COOKIE CRISP,Ripple Crisp Honey Bran General Mills,8017,0.597,n,57130000
+"REDUCED SODIUM: Pepperoni, beef and pork, sliced","Soy sauce, reduced sodium",REDUCED SODIUM Pepperoni beef pork sliced,Soy sauce reduced sodium,907057,0.597,n,25221250
+"Fish, anchovy, european, canned in oil, drained solids","Anchovy, canned",Fish anchovy european canned oil drained solid,Anchovy canned,15002,0.596,,
+"Fast foods, strawberry banana smoothie made with ice and low-fat yogurt",Strawberry-banana-orange juice,Fast food strawberry banana smoothie made ice low fat yogurt,Strawberry banana orange juice,21521,0.596,n,11553000
+"Frostings, vanilla, creamy, ready-to-eat","Pie, vanilla cream",Frostings vanilla creamy ready eat,Pie vanilla cream,19230,0.594,n,91305020
+"Cereals ready-to-eat, GENERAL MILLS, HONEY NUT CLUSTERS","Sun Crunchers Cereal, General Mills",Cereals ready eat GENERAL MILLS HONEY NUT CLUSTERS,Sun Crunchers Cereal General Mills,8243,0.594,n,57125900
+"Shake, fast food, vanilla","Pie, vanilla cream",Shake fast vanilla,Pie vanilla cream,14347,0.592,n,11542200
+"Sauce, oyster, ready-to-serve",Oyster stew,Sauce oyster ready serve,Oyster stew,6176,0.592,n,27150200
+"Cereals ready-to-eat, GENERAL MILLS, BASIC 4","Sun Crunchers Cereal, General Mills",Cereals ready eat GENERAL MILLS BASIC,Sun Crunchers Cereal General Mills,8262,0.592,n,57106100
+"Beverages, coffee, instant, vanilla, sweetened, decaffeinated, with non dairy creamer","Coffee, decaffeinated, NS as to ground or instant",Beverages coffee instant vanilla sweetened decaffeinated non dairy creamer,Coffee decaffeinated ground instant,14270,0.592,,
+"Soup, cream of shrimp, canned, prepared with equal volume water","Shrimp soup, cream of, prepared with water",Soup cream of shrimp canned prepared equal volume water,Shrimp soup cream of prepared water,6456,0.592,,
+"Fast foods, bagel, with egg, sausage patty, cheese, and condiments","Egg, cheese and sausage on bagel",Fast food bagel egg sausage patty cheese condiment,Egg cheese sausage on bagel,21410,0.592,,
+"Soup, cream of vegetable, dry, powder","Vegetable soup, cream of, baby food",Soup cream of vegetable dry powder,Vegetable soup cream of baby,6101,0.591,n,75649060
+"Cereals ready-to-eat, GENERAL MILLS, Chocolate CHEX","Sun Crunchers Cereal, General Mills",Cereals ready eat GENERAL MILLS Chocolate CHEX,Sun Crunchers Cereal General Mills,8594,0.591,n,57240000
+"Beverages, Cocktail mix, non-alcoholic, concentrated, frozen",Nonalcoholic malt beverage,Beverages Cocktail mix non alcoholic concentrated frozen,Nonalcoholic malt beverage,44203,0.59,n,93301000
+"Snacks, popcorn, caramel-coated, without peanuts","Popcorn, sugar syrup or caramel-coated, with nuts",Snacks popcorn caramel coated without peanut,Popcorn sugar syrup caramel coated nut,19039,0.589,n,54403110
+"Fast foods, cheeseburger, double, regular patty and bun, with condiments","Double cheeseburger (2 patties), plain, on bun",Fast food cheeseburger double regular patty bun condiment,Double cheeseburger patty plain on bun,21094,0.589,n,27510280
+"Restaurant, Chinese, kung pao chicken",Kung pao chicken,Restaurant Chinese kung pao chicken,Kung pao chicken,36619,0.589,,
+"Pancakes plain, frozen, ready-to-heat (includes buttermilk)","Pancakes, plain",Pancakes plain frozen ready heat includes buttermilk,Pancakes plain,18288,0.589,,
+"Snacks, granola bars, QUAKER OATMEAL TO GO, all flavors","Snack bar, oatmeal",Snacks granola bar QUAKER OATMEAL TO GO all flavor,Snack bar oatmeal,25039,0.588,,
+"Frozen novelties, juice type, orange","Orange juice, NFS",Frozen novelty juice type orange,Orange juice,43346,0.588,,
+"Candies, MARS SNACKFOOD US, MARS Almond Bar",MARS Almond Bar (formerly MARS bar),Candies MARS SNACKFOOD US MARS Almond Bar,MARS Almond Bar formerly MARS bar,19115,0.587,,
+"Cereals ready-to-eat, GENERAL MILLS, Honey Nut CHEX","Sun Crunchers Cereal, General Mills",Cereals ready eat GENERAL MILLS Honey Nut CHEX,Sun Crunchers Cereal General Mills,8057,0.586,n,57240100
+"Bread, cornbread, dry mix, enriched (includes corn muffin mix)",Cornbread stuffing,Bread cornbread dry mix enriched includes corn muffin mix,Cornbread stuffing,18022,0.586,n,52201000
+"Fruit juice smoothie, NAKED JUICE, GREEN MACHINE","Fruit juice, NFS",Fruit juice smoothie NAKED JUICE GREEN MACHINE,Fruit juice,9508,0.586,n,64134000
+"Snacks, potato chips, barbecue-flavor",Barbecue sauce,Snacks potato chip barbecue flavor,Barbecue sauce,19042,0.586,n,71201010
+"Syrups, chocolate, HERSHEY'S Sugar free, Genuine Chocolate Flavored, Lite Syrup","Chocolate syrup, thin type",Syrups chocolate HERSHEYS Sugar free Genuine Chocolate Flavored Lite Syrup,Chocolate syrup thin type,19916,0.586,n,91301081
+"Frozen novelties, fruit and juice bars","Fruit juice bar with cream, frozen",Frozen novelty fruit juice bar,Fruit juice bar cream frozen,19263,0.585,n,63420100
+"Puddings, vanilla, ready-to-eat, fat free","Pudding, with fruit and vanilla wafers",Puddings vanilla ready eat fat free,Pudding fruit vanilla wafer,19233,0.585,n,13230110
+"Restaurant, Latino, pupusas del cerdo (pupusas, pork)","Pupusa, meat-filled",Restaurant Latino pupusas del cerdo pupusas pork,Pupusa meat filled,36410,0.584,,
+"Cereals ready-to-eat, GENERAL MILLS, BOO BERRY","Sun Crunchers Cereal, General Mills",Cereals ready eat GENERAL MILLS BOO BERRY,Sun Crunchers Cereal General Mills,8273,0.584,n,57211000
+"Pie Crust, Cookie-type, Graham Cracker, Ready Crust","Crackers, graham",Pie Crust Cookie type Graham Cracker Ready Crust,Crackers graham,18942,0.584,n,53391100
+"Soup, tomato beef with noodle, canned, prepared with equal volume water","Tomato beef noodle soup, prepared with water",Soup tomato beef noodle canned prepared equal volume water,Tomato beef noodle soup prepared water,6461,0.584,,
+"Cereals ready-to-eat, GENERAL MILLS, RAISIN NUT BRAN","Sun Crunchers Cereal, General Mills",Cereals ready eat GENERAL MILLS RAISIN NUT BRAN,Sun Crunchers Cereal General Mills,8261,0.583,n,57332100
+"Snacks, taro chips",Taro chips,Snacks taro chip,Taro chip,19524,0.583,,
+"Ice cream cones, sugar, rolled-type","Cookie, cone shell, ice cream type, brown sugar",Ice cream cone sugar rolled type,Cookie cone shell ice cream type brown sugar,18272,0.583,,
+"Soup, stock, chicken, home-prepared",Mexican style chicken broth soup stock,Soup stock chicken home prepared,Mexican style chicken broth soup stock,6172,0.582,,
+"Snacks, bagel chips, plain",Bagel chip,Snacks bagel chip plain,Bagel chip,25046,0.582,,
+"Candies, ROLO Caramels in Milk Chocolate",M&M's Milk Chocolate Candies (formerly M&M's Plain Chocolate Candies),Candies ROLO Caramels Milk Chocolate,MMs Milk Chocolate Candies formerly MMs Plain Chocolate Candies,19152,0.581,n,91703070
+"Citrus fruit juice drink, frozen concentrate","Citrus fruit juice drink, containing 40-50% juice",Citrus fruit juice drink frozen concentrate,Citrus fruit juice drink containing 40 50 juice,14262,0.581,,
+"Rolls, hamburger or hotdog, plain","Hamburger, plain, on bun",Rolls hamburger hotdog plain,Hamburger plain on bun,18350,0.581,n,51150000
+"Corn dogs, frozen, prepared","Corn soup, cream of, prepared with milk",Corn dog frozen prepared,Corn soup cream of prepared milk,22973,0.58,n,27560300
+"Snacks, CLIF BAR, mixed flavors","Snacks, onion-flavored rings",Snacks CLIF BAR mixed flavor,Snacks onion flavored ring,25051,0.579,n,41435500
+"Plums, canned, purple, light syrup pack, solids and liquids","Plum, cooked or canned, in light syrup",Plums canned purple light syrup pack solid liquid,Plum cooked canned light syrup,9283,0.578,,
+"Candies, gumdrops, starch jelly pieces",Gumdrops,Candies gumdrop starch jelly piece,Gumdrops,19106,0.578,,
+"Soup, stock, beef, home-prepared","Fish stock, home recipe",Soup stock beef home prepared,Fish stock home recipe,6170,0.578,n,28310110
+"Snacks, pita chips, salted",Pita chips,Snacks pita chip salted,Pita chip,25037,0.578,,
+"Cereals ready-to-eat, GENERAL MILLS, Honey KIX","Sun Crunchers Cereal, General Mills",Cereals ready eat GENERAL MILLS Honey KIX,Sun Crunchers Cereal General Mills,8643,0.577,n,57303100
+"Noodles, chinese, cellophane or long rice (mung beans), dehydrated","Onion, dehydrated",Noodles chinese cellophane long rice mung bean dehydrated,Onion dehydrated,16082,0.577,n,56116990
+"Cereals ready-to-eat, GENERAL MILLS, CHEERIOS",Cheerios,Cereals ready eat GENERAL MILLS CHEERIOS,Cheerios,8013,0.577,,
+"Snacks, tortilla chips, nacho cheese","Tortilla, NFS",Snacks tortilla chip nacho cheese,Tortilla,19057,0.577,n,54401080
+"Sauce, salsa, ready-to-serve","Salsa, NFS",Sauce salsa ready serve,Salsa,6164,0.576,,
+"Ginger root, pickled, canned, with artificial sweetener","Jelly, dietetic, all flavors, sweetened with artificial sweetener",Ginger root pickled canned artificial sweetener,Jelly dietetic all flavor sweetened artificial sweetener,31033,0.576,,
+"Luncheon meat, pork with ham, minced, canned, includes SPAM (Hormel)","Ham and pork, luncheon meat, chopped, minced, pressed, spiced, canned",Luncheon meat pork ham minced canned includes SPAM Hormel,Ham pork luncheon meat chopped minced pressed spiced canned,7908,0.576,,
+"Cereals ready-to-eat, GENERAL MILLS, OATMEAL CRISP, Hearty Raisin","Oatmeal Crisp, Raisin (formerly Oatmeal Raisin Crisp)",Cereals ready eat GENERAL MILLS OATMEAL CRISP Hearty Raisin,Oatmeal Crisp Raisin formerly Oatmeal Raisin Crisp,8245,0.574,,
+"Cereals, oats, instant, fortified, maple and brown sugar, dry","Oatmeal, fortified, cooked, instant, fat not added in cooking",Cereals oat instant fortified maple brown sugar dry,Oatmeal fortified cooked instant fat,8680,0.574,n,56203110
+"Cereals ready-to-eat, KELLOGG'S FROSTED MINI-WHEATS, Big Bite",Frosted Mini-Wheats,Cereals ready eat KELLOGGS FROSTED MINI WHEATS Big Bite,Frosted Mini Wheats,8031,0.571,,
+"Candies, nougat, with almonds",M&M's Almond Chocolate Candies,Candies nougat almond,MMs Almond Chocolate Candies,43046,0.571,n,91726000
+"Cereals ready-to-eat, GENERAL MILLS, COCOA PUFFS",Cocoa Puffs,Cereals ready eat GENERAL MILLS COCOA PUFFS,Cocoa Puffs,8271,0.571,,
+"Candies, hard",Hard candy,Candies hard,Hard candy,19107,0.571,,
+"Pie, blueberry, commercially prepared","Pie, blueberry, one crust",Pie blueberry commercially prepared,Pie blueberry one crust,18305,0.571,,
+"Soup, cream of shrimp, canned, prepared with equal volume low fat (2%) milk","Shrimp soup, cream of, prepared with milk",Soup cream of shrimp canned prepared equal volume low fat milk,Shrimp soup cream of prepared milk,6256,0.571,,
+"Soup, cheese, canned, condensed","Milk, condensed, sweetened, diluted",Soup cheese canned condensed,Milk condensed sweetened diluted,6011,0.57,n,14710100
+"Cereals ready-to-eat, GENERAL MILLS, WHEATIES","Sun Crunchers Cereal, General Mills",Cereals ready eat GENERAL MILLS WHEATIES,Sun Crunchers Cereal General Mills,8089,0.569,n,57418000
+"Pancakes, gluten-free, frozen, ready-to-heat",Pancakes and sausage (frozen meal),Pancakes gluten free frozen ready heat,Pancakes sausage frozen meal,28347,0.569,n,55105000
+"Gelatin desserts, dry mix, reduced calorie, with aspartame",Gelatin dessert,Gelatin dessert dry mix reduced calorie aspartame,Gelatin dessert,19175,0.569,,
+"Fast foods, submarine sandwich, sweet onion chicken teriyaki on white bread with lettuce, tomato and sweet onion sauce","Chicken submarine sandwich, with lettuce, tomato, and spread",Fast food submarine sandwich sweet onion chicken teriyaki on white bread lettuce tomato sweet onion sauce,Chicken submarine sandwich lettuce tomato spread,21151,0.569,,
+"Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, water pack, solids and liquids","Fruit cocktail, cooked or canned, drained solids",Fruit cocktail peach pineapple pear grape cherry canned water pack solid liquid,Fruit cocktail cooked canned drained solid,9096,0.569,,
+"Beverages, Mixed vegetable and fruit juice drink, with added nutrients","Vegetable and fruit juice drink, with high vitamin C",Beverages Mixed vegetable fruit juice drink nutrient,Vegetable fruit juice drink C,14119,0.569,,
+"Snacks, FRITOLAY, SUNCHIPS, Multigrain Snack, original flavor","Salty snacks, multigrain, chips",Snacks FRITOLAY SUNCHIPS Multigrain Snack original flavor,Salty snack multigrain chip,25013,0.568,,
+"Pasta, gluten-free, corn and rice flour, cooked","Bread, low gluten",Pasta gluten free corn rice flour cooked,Bread low gluten,20657,0.568,n,56140000
+"Fast Foods, Fried Chicken, Breast, meat and skin and breading","Chicken, breast, fried, no coating, NS as to skin eaten",Fast Foods Fried Chicken Breast meat skin breading,Chicken breast fried coating skin eaten,21469,0.568,n,24127110
+"Ice cream bar, stick or nugget, with crunch coating",Chicken nuggets,Ice cream bar stick nugget crunch coating,Chicken nugget,1264,0.567,n,13120110
+"Fast foods, onion rings, breaded and fried","Bread, onion",Fast food onion ring breaded fried,Bread onion,21130,0.566,n,75415020
+"Cereals, QUAKER, corn grits, instant, plain, dry","100% Natural Cereal, plain, Quaker",Cereals QUAKER corn grit instant plain dry,Natural Cereal plain Quaker,8092,0.565,n,56201000
+"Snacks, potato chips, made from dried potatoes (preformed), multigrain","Salty snacks, multigrain, chips",Snacks potato chip made from dried potato preformed multigrain,Salty snack multigrain chip,25063,0.565,n,71201010
+"Fast foods, cheeseburger; double, regular patty; with condiments","Double cheeseburger (2 patties), plain, on bun",Fast food cheeseburger double regular patty condiment,Double cheeseburger patty plain on bun,21395,0.564,n,27510280
+"Restaurant, family style, fried mozzarella sticks","Cheese, Mozzarella, NFS",Restaurant family style fried mozzarella stick,Cheese Mozzarella,36012,0.564,n,14660200
+"Macaroni and cheese dinner with dry sauce mix, boxed, uncooked","Macaroni or noodles with cheese, from boxed mix with already prepared cheese sauce",Macaroni cheese dinner dry sauce mix boxed uncooked,Macaroni noodle cheese from boxed mix already prepared cheese sauce,22959,0.563,n,58145114
+"Tortellini, pasta with cheese filling, fresh-refrigerated, as purchased","Tortellini, cheese-filled, no sauce",Tortellini pasta cheese filling fresh refrigerated purchased,Tortellini cheese filled sauce,22901,0.563,,
+"Cookies, chocolate sandwich, with creme filling, special dietary","Cookie, chocolate, sandwich, with extra filling",Cookies chocolate sandwich creme filling special dietary,Cookie chocolate sandwich extra filling,18199,0.563,n,53260300
+"Cookies, oatmeal, commercially prepared, special dietary",Special K,Cookies oatmeal commercially prepared special dietary,Special K,18200,0.563,n,53260200
+"Soup, tomato, canned, condensed","Milk, condensed, sweetened, diluted",Soup tomato canned condensed,Milk condensed sweetened diluted,6159,0.563,n,74602030
+"Milk, chocolate, fluid, commercial, whole, with added vitamin A and vitamin D","Milk, cow's, fluid, whole",Milk chocolate fluid commercial whole,Milk cow fluid whole,1102,0.562,n,11511100
+"Cereals ready-to-eat, wheat and bran, presweetened with nuts and fruits","Tea, leaf, presweetened, NS as to sweetener",Cereals ready eat wheat bran presweetened nut fruit,Tea leaf presweetened sweetener,43245,0.562,n,57231200
+"Candies, confectioner's coating, butterscotch",Butterscotch hard candy,Candies confectioner coating butterscotch,Butterscotch hard candy,19085,0.561,,
+"Pie Crust, Cookie-type, Chocolate, Ready Crust","Ice cream pie, no crust",Pie Crust Cookie type Chocolate Ready Crust,Ice cream pie crust,18943,0.561,n,53391150
+"Cereals ready-to-eat, GENERAL MILLS, REESE'S PUFFS","Sun Crunchers Cereal, General Mills",Cereals ready eat GENERAL MILLS REESES PUFFS,Sun Crunchers Cereal General Mills,8194,0.561,n,57335550
+"Salad dressing, italian dressing, commercial, regular","Italian dressing, low calorie",Salad dressing italian dressing commercial regular,Italian dressing low calorie,4114,0.56,n,83106000
+"Fast foods, taco with beef, cheese and lettuce, hard shell","Soft taco with beef, cheese, and lettuce",Fast food taco beef cheese lettuce hard shell,Soft taco beef cheese lettuce,21082,0.56,,
+"Pie, chocolate creme, commercially prepared","Meal supplement or replacement, commercially prepared, ready-to-drink",Pie chocolate creme commercially prepared,Meal supplement replacement commercially prepared ready drink,18310,0.558,n,53342000
+"Frozen yogurts, vanilla, soft-serve","Pie, yogurt, frozen",Frozen yogurt vanilla soft serve,Pie yogurt frozen,19293,0.558,n,11460170
+"Puddings, chocolate flavor, low calorie, instant, dry mix","Pie, pudding, flavors other than chocolate",Puddings chocolate flavor low calorie instant dry mix,Pie pudding flavor other than chocolate,44061,0.557,n,13230130
+"Muffins, blueberry, commercially prepared (Includes mini-muffins)","Muffin, NFS",Muffins blueberry commercially prepared Includes mini muffin,Muffin,18274,0.556,n,52302020
+"Snacks, granola bites, mixed flavors","Snacks, onion-flavored rings",Snacks granola bite mixed flavor,Snacks onion flavored ring,25036,0.555,n,53544410
+"Fast foods, nachos, with cheese, beans, ground beef, and tomatoes","Ground beef, 90% - 94% lean, cooked",Fast food nacho cheese bean ground beef tomato,Ground beef 90 94 lean cooked,21080,0.555,n,58104130
+"Peanut butter, smooth style, without salt",Peanut butter,Peanut butter smooth style without salt,Peanut butter,16398,0.555,,
+"Cereals ready-to-eat, GENERAL MILLS, 25% Less Sugar TRIX","Sun Crunchers Cereal, General Mills",Cereals ready eat GENERAL MILLS 25 Less Sugar TRIX,Sun Crunchers Cereal General Mills,8586,0.555,n,57407110
+"Pie, pumpkin, commercially prepared","Pie, pumpkin",Pie pumpkin commercially prepared,Pie pumpkin,18326,0.554,,
+"Ice creams, regular, low carbohydrate, chocolate","Ice cream, regular, chocolate",Ice cream regular low carbohydrate chocolate,Ice cream regular chocolate,19899,0.554,,
+"Plums, canned, purple, juice pack, solids and liquids","Plum, cooked or canned, juice pack",Plums canned purple juice pack solid liquid,Plum cooked canned juice pack,9282,0.554,,
+"Cookies, chocolate chip, commercially prepared, special dietary",Special K,Cookies chocolate chip commercially prepared special dietary,Special K,18198,0.554,n,53260030
+"Soup, onion, canned, condensed","Milk, condensed, sweetened, diluted",Soup onion canned condensed,Milk condensed sweetened diluted,6045,0.553,n,75608100
+"Veggie burgers or soyburgers, unprepared","Soyburger, meatless, no bun",Veggie burger soyburgers unprepared,Soyburger meatless bun,16147,0.553,,
+"Soup, pea, green, canned, condensed","Milk, condensed, sweetened, diluted",Soup pea green canned condensed,Milk condensed sweetened diluted,6049,0.553,n,41602050
+"Frozen novelties, juice type, juice with cream","Fruit juice bar with cream, frozen",Frozen novelty juice type juice cream,Fruit juice bar cream frozen,43450,0.553,,
+"Puddings, vanilla, dry mix, instant","Pudding, with fruit and vanilla wafers",Puddings vanilla dry mix instant,Pudding fruit vanilla wafer,19202,0.552,n,13230110
+"Danish pastry, cinnamon, enriched","Danish pastry, with cheese",Danish pastry cinnamon enriched,Danish pastry cheese,18244,0.552,n,53510000
+"Restaurant, Chinese, general tso's chicken",General Tso (General Gau) chicken,Restaurant Chinese general tsos chicken,General Tso General Gau chicken,36618,0.551,,
+"Fast foods, vanilla, light, soft-serve ice cream, with cone","Light ice cream, soft serve cone, NS as to flavor (formerly ice milk)",Fast food vanilla light soft serve ice cream cone,Light ice cream soft serve cone flavor formerly ice milk,21028,0.55,,
+"Cake, snack cakes, creme-filled, chocolate with frosting","Cake, ice cream and cake roll, chocolate",Cake snack cake creme filled chocolate frosting,Cake ice cream cake roll chocolate,18127,0.55,n,53106500
+"Mayonnaise, reduced fat, with olive oil","Mayonnaise, reduced calorie or diet, cholesterol-free",Mayonnaise reduced fat olive oil,Mayonnaise reduced calorie diet cholesterol free,4708,0.549,,
+"Soup, bean with pork, canned, condensed","Milk, condensed, sweetened, diluted",Soup bean pork canned condensed,Milk condensed sweetened diluted,6004,0.549,n,41601020
+"HOT POCKETS, meatballs & mozzarella stuffed sandwich, frozen","Cheese, Mozzarella, NFS",HOT POCKETS meatball mozzarella stuffed sandwich frozen,Cheese Mozzarella,22961,0.549,n,27510700
+"Candies, crispy bar with peanut butter filling",M&M's Peanut Butter Chocolate Candies,Candies crispy bar peanut butter filling,MMs Peanut Butter Chocolate Candies,19910,0.548,n,91734450
+"Fast foods, cheeseburger; single, large patty; with condiments, vegetables and mayonnaise","Double cheeseburger (2 patties), with mayonnaise or salad dressing, on bun",Fast food cheeseburger single large patty condiment vegetable mayonnaise,Double cheeseburger patty mayonnaise salad dressing on bun,21397,0.548,n,27510230
+"Soup, wonton, Chinese restaurant",Won ton (wonton) soup,Soup wonton Chinese restaurant,Won ton wonton soup,27002,0.548,,
+"Waffles, gluten-free, frozen, ready-to-heat","Bread, low gluten",Waffles gluten free frozen ready heat,Bread low gluten,28346,0.547,n,55204000
+"Rolls, gluten-free, white, made with rice flour, rice starch, and corn starch","Cornstarch, dry",Rolls gluten free white made rice flour rice starch corn starch,Cornstarch dry,28341,0.547,n,51806010
+"Waffle, buttermilk, frozen, ready-to-heat, toasted","Pie, buttermilk",Waffle buttermilk frozen ready heat toasted,Pie buttermilk,18933,0.547,n,55201000
+"Pie, coconut creme, commercially prepared","Meal supplement or replacement, commercially prepared, ready-to-drink",Pie coconut creme commercially prepared,Meal supplement replacement commercially prepared ready drink,18313,0.546,n,53343000
+"Soup, chicken with rice, canned, condensed","Milk, condensed, sweetened, diluted",Soup chicken rice canned condensed,Milk condensed sweetened diluted,6023,0.545,n,28340210
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S MARSHMALLOW FROOT LOOPS",Kellogg's Nutri-Grain Cereal Bar,Cereals ready eat KELLOGG KELLOGGS MARSHMALLOW FROOT LOOPS,Kelloggs Nutri Grain Cereal Bar,8376,0.545,n,57213000
+"Soup, vegetable with beef broth, canned, prepared with equal volume water","Vegetable beef soup, prepared with water",Soup vegetable beef broth canned prepared equal volume water,Vegetable beef soup prepared water,6472,0.545,,
+"School Lunch, pizza, pepperoni topping, thin crust, whole grain, frozen, cooked","Pizza with pepperoni, thin crust",School Lunch pizza pepperoni topping thin crust whole grain frozen cooked,Pizza pepperoni thin crust,21602,0.545,,
+"Bread, pita, white, enriched","Bread, pita",Bread pita white enriched,Bread pita,18041,0.544,,
+"Candies, semisweet chocolate","Chocolate, semi-sweet morsel",Candies semisweet chocolate,Chocolate semi sweet morsel,19080,0.542,,
+"Cereals ready-to-eat, GENERAL MILLS, Whole Grain TOTAL","Sun Crunchers Cereal, General Mills",Cereals ready eat GENERAL MILLS Whole Grain TOTAL,Sun Crunchers Cereal General Mills,8077,0.54,n,57406100
+"Candies, MARS SNACKFOOD US, SNICKERS Bar",SNICKERS Bar,Candies MARS SNACKFOOD US SNICKERS Bar,SNICKERS Bar,19155,0.539,,
+"Soup, cream of potato, canned, condensed","Milk, condensed, sweetened, diluted",Soup cream of potato canned condensed,Milk condensed sweetened diluted,6053,0.539,n,71801010
+"School Lunch, pizza, pepperoni topping, thick crust, whole grain, frozen, cooked","Pizza with pepperoni, thick crust",School Lunch pizza pepperoni topping thick crust whole grain frozen cooked,Pizza pepperoni thick crust,21603,0.539,,
+"Soup, cream of chicken, canned, condensed","Milk, condensed, sweetened, diluted",Soup cream of chicken canned condensed,Milk condensed sweetened diluted,6016,0.538,n,28345010
+"Soup, beef noodle, canned, condensed","Milk, condensed, sweetened, diluted",Soup beef noodle canned condensed,Milk condensed sweetened diluted,6009,0.538,n,58402010
+Fish broth,"Fish cake or patty, NS as to fish",Fish broth,Fish cake patty fish,6963,0.538,n,27150210
+"Soup, cream of mushroom, canned, condensed","Mushroom soup, NFS",Soup cream of mushroom canned condensed,Mushroom soup,6043,0.538,n,75607000
+"Soup, tomato rice, canned, prepared with equal volume water","Tomato rice soup, prepared with water",Soup tomato rice canned prepared equal volume water,Tomato rice soup prepared water,6463,0.538,,
+"Fast Foods, Fried Chicken, Thigh, meat and skin and breading","Chicken, thigh, fried, no coating, NS as to skin eaten",Fast Foods Fried Chicken Thigh meat skin breading,Chicken thigh fried coating skin eaten,21471,0.538,n,24155200
+"Fast foods, hamburger; single, large patty; with condiments, vegetables and mayonnaise","Double hamburger (2 patties), with mayonnaise or salad dressing, on bun",Fast food hamburger single large patty condiment vegetable mayonnaise,Double hamburger patty mayonnaise salad dressing on bun,21390,0.538,n,27510670
+"School Lunch, chicken nuggets, whole grain breaded",Chicken nuggets,School Lunch chicken nugget whole grain breaded,Chicken nugget,21611,0.538,,
+"Soup, egg drop, Chinese restaurant",Egg drop soup,Soup egg drop Chinese restaurant,Egg drop soup,27000,0.537,,
+"Fast foods, chicken fillet sandwich, plain with pickles","Chicken fillet (breaded, fried) sandwich",Fast food chicken fillet sandwich plain pickle,Chicken fillet breaded fried sandwich,21102,0.537,,
+"Cereals, oats, regular and quick, not fortified, dry","Oat flakes, fortified",Cereals oat regular quick fortified dry,Oat flake fortified,8120,0.536,n,56203090
+"Sauce, pasta, spaghetti/marinara, ready-to-serve, low sodium","Spaghetti sauce, meatless, low sodium",Sauce pasta spaghettimarinara ready serve low sodium,Spaghetti sauce meatless low sodium,6976,0.536,,
+"Cereals ready-to-eat, GENERAL MILLS, CHEERIOS, Chocolate",Cheerios,Cereals ready eat GENERAL MILLS CHEERIOS Chocolate,Cheerios,8593,0.535,n,57213850
+"Syrups, grenadine","Syrup, NFS",Syrups grenadine,Syrup,42040,0.535,n,91301050
+"Beverages, nutritional shake mix, high protein, powder","Protein powder, NFS",Beverages nutritional shake mix protein powder,Protein powder,14654,0.535,,
+"Cereals ready-to-eat, GENERAL MILLS, FIBER ONE, HONEY CLUSTERS","Sun Crunchers Cereal, General Mills",Cereals ready eat GENERAL MILLS FIBER ONE HONEY CLUSTERS,Sun Crunchers Cereal General Mills,8598,0.535,n,57206700
+"Pancakes, plain, dry mix, incomplete (includes buttermilk)","Pancakes, plain",Pancakes plain dry mix incomplete includes buttermilk,Pancakes plain,18291,0.532,,
+"Cereals ready-to-eat, GENERAL MILLS, FIBER ONE, RAISIN BRAN CLUSTERS","Sun Crunchers Cereal, General Mills",Cereals ready eat GENERAL MILLS FIBER ONE RAISIN BRAN CLUSTERS,Sun Crunchers Cereal General Mills,8599,0.532,n,57330010
+"Formulated bar, SLIM-FAST OPTIMA meal bar, milk chocolate peanut","Chocolate, milk, with peanuts",Formulated bar SLIM FAST OPTIMA meal bar milk chocolate peanut,Chocolate milk peanut,25020,0.532,n,53541300
+"Soup, chicken mushroom, canned, condensed","Mushroom soup, NFS",Soup chicken mushroom canned condensed,Mushroom soup,6149,0.532,n,75607080
+"Formulated bar, POWER BAR, chocolate","Granola bar, chocolate-coated, NFS",Formulated bar POWER BAR chocolate,Granola bar chocolate coated,25017,0.532,n,53544450
+"Gelatin desserts, dry mix, reduced calorie, with aspartame, prepared with water","Mousse, chocolate, lowfat, reduced calorie, prepared from dry mix, water added",Gelatin dessert dry mix reduced calorie aspartame prepared water,Mousse chocolate lowfat reduced calorie prepared from dry mix water,19176,0.532,n,91510100
+"Fast Foods, Fried Chicken, Drumstick, meat only, skin and breading removed","Chicken, drumstick, fried, no coating, NS as to skin eaten",Fast Foods Fried Chicken Drumstick meat skin breading removed,Chicken drumstick fried coating skin eaten,21465,0.532,,
+"Fast foods, nachos, with cheese",Nachos with beef and cheese,Fast food nacho cheese,Nachos beef cheese,21078,0.532,n,58104100
+"Candies, MARS SNACKFOOD US, MILKY WAY Bar",MILKY WAY Bar,Candies MARS SNACKFOOD US MILKY WAY Bar,MILKY WAY Bar,19135,0.532,,
+"Soup, cream of onion, canned, condensed","Milk, condensed, sweetened, diluted",Soup cream of onion canned condensed,Milk condensed sweetened diluted,6046,0.531,n,75608010
+"Sauce, tomato chili sauce, bottled, with salt",Tomato sauce,Sauce tomato chili sauce bottled salt,Tomato sauce,6972,0.531,n,74402010
+"Pizza rolls, frozen, unprepared","Pizza with meat, prepared from frozen, thick crust",Pizza roll frozen unprepared,Pizza meat prepared from frozen thick crust,32012,0.531,n,58108050
+"Rolls, dinner, wheat","Roll, wheat or cracked wheat",Rolls dinner wheat,Roll wheat cracked wheat,18347,0.531,,
+"Soup, vegetable beef, canned, condensed","Milk, condensed, sweetened, diluted",Soup vegetable beef canned condensed,Milk condensed sweetened diluted,6071,0.53,n,75651020
+"Snacks, Pretzels, gluten- free made with cornstarch and potato flour","Pretzels, NFS",Snacks Pretzels gluten free made cornstarch potato flour,Pretzels,25065,0.529,,
+"Soup, chicken broth, canned, condensed","Milk, condensed, sweetened, diluted",Soup chicken broth canned condensed,Milk condensed sweetened diluted,6013,0.529,n,28340110
+"Candies, HERSHEY, REESESTICKS crispy wafers, peanut butter, milk chocolate",M&M's Peanut Butter Chocolate Candies,Candies HERSHEY REESESTICKS crispy wafer peanut butter milk chocolate,MMs Peanut Butter Chocolate Candies,19249,0.529,n,91734300
+"Frostings, chocolate, creamy, ready-to-eat","Pie, chocolate cream",Frostings chocolate creamy ready eat,Pie chocolate cream,19226,0.528,n,91305010
+"Cake, chocolate, commercially prepared with chocolate frosting, in-store bakery","Cookie, rich, all chocolate, with chocolate filling or chocolate chips",Cake chocolate commercially prepared chocolate frosting store bakery,Cookie rich all chocolate chocolate filling chocolate chip,18096,0.527,n,53105200
+"Soup, chicken noodle, canned, condensed","Milk, condensed, sweetened, diluted",Soup chicken noodle canned condensed,Milk condensed sweetened diluted,6019,0.526,n,58403020
+"Candies, MOUNDS Candy Bar","Candy, NFS",Candies MOUNDS Candy Bar,Candy,19142,0.526,n,91706000
+"Bread, pan dulce, sweet yeast bread","Roll, sweet, no topping, Mexican (Pan Dulce)",Bread pan dulce sweet yeast bread,Roll sweet topping Mexican Pan Dulce,18955,0.526,,
+"Doughnuts, cake-type, plain (includes unsugared, old-fashioned)",Old fashioned,Doughnuts cake type plain includes unsugared old fashioned,Old fashioned,18248,0.525,n,53520110
+"Chicken, nuggets, dark and white meat, precooked, frozen, not reheated",Chicken nuggets,Chicken nugget dark white meat precooked frozen reheated,Chicken nugget,22974,0.525,,
+"Danish pastry, fruit, enriched (includes apple, cinnamon, raisin, lemon, raspberry, strawberry)","Apple-raspberry, baby food, strained",Danish pastry fruit enriched includes apple cinnamon raisin lemon raspberry strawberry,Apple raspberry baby strained,18246,0.524,n,53510100
+"Cookies, peanut butter, commercially prepared, sugar free","Cookie, peanut butter",Cookies peanut butter commercially prepared sugar free,Cookie peanut butter,28301,0.523,n,53260000
+"Snacks, granola bars, hard, plain","Granola, NFS",Snacks granola bar hard plain,Granola,19015,0.523,n,53541000
+"Snacks, brown rice chips","Rice, brown, with beans",Snacks brown rice chip,Rice brown bean,25059,0.522,n,54318500
+"Bread, whole-wheat, commercially prepared","Meal supplement or replacement, commercially prepared, ready-to-drink",Bread whole wheat commercially prepared,Meal supplement replacement commercially prepared ready drink,18075,0.522,n,51201010
+"Pie, cherry, commercially prepared","Meal supplement or replacement, commercially prepared, ready-to-drink",Pie cherry commercially prepared,Meal supplement replacement commercially prepared ready drink,18308,0.522,n,53305000
+"Fast foods, chicken tenders","Chicken patty, fillet, or tenders, breaded, cooked",Fast food chicken tender,Chicken patty fillet tender breaded cooked,21401,0.52,,
+"Restaurant, Italian, lasagna with meat",Italian pie with meat,Restaurant Italian lasagna meat,Italian pie meat,36041,0.519,n,58130010
+"Snacks, potato sticks","White potato, sticks",Snacks potato stick,White potato stick,19415,0.519,,
+"Cookies, brownies, commercially prepared","Cookie, brownie, NS as to icing",Cookies brownie commercially prepared,Cookie brownie icing,18151,0.519,n,53204010
+"Cookies, peanut butter, commercially prepared, regular","Cookie, peanut butter",Cookies peanut butter commercially prepared regular,Cookie peanut butter,18185,0.519,,
+"Pie, pecan, commercially prepared","Meal supplement or replacement, commercially prepared, ready-to-drink",Pie pecan commercially prepared,Meal supplement replacement commercially prepared ready drink,18324,0.518,n,53385000
+"Bread, white, commercially prepared, toasted","Meal supplement or replacement, commercially prepared, ready-to-drink",Bread white commercially prepared toasted,Meal supplement replacement commercially prepared ready drink,18070,0.517,n,51101010
+"Fast Foods, Fried Chicken, Wing, meat and skin and breading","Chicken, wing, fried, no coating, NS as to skin eaten",Fast Foods Fried Chicken Wing meat skin breading,Chicken wing fried coating skin eaten,21472,0.517,n,24165110
+"Peas and carrots, frozen, cooked, boiled, drained, without salt","Peas and carrots, cooked, from frozen, NS as to fat added in cooking",Peas carrot frozen cooked boiled drained without salt,Peas carrot cooked from frozen fat,11323,0.516,n,73111212
+"Cereals ready-to-eat, POST, Shredded Wheat, original big biscuit","Shredded Wheat, 100%",Cereals ready eat POST Shredded Wheat original big biscuit,Shredded Wheat,8147,0.514,,
+"Restaurant, Mexican, refried beans",Refried beans,Restaurant Mexican refried bean,Refried bean,36418,0.514,,
+"Cookies, oatmeal, commercially prepared, regular","Oatmeal, cooked, regular, NS as to fat added in cooking",Cookies oatmeal commercially prepared regular,Oatmeal cooked regular fat,18178,0.513,n,53233000
+"Rice and vermicelli mix, rice pilaf flavor, unprepared",Rice pilaf,Rice vermicelli mix rice pilaf flavor unprepared,Rice pilaf,32002,0.513,,
+"Soup, minestrone, canned, condensed","Minestrone soup, home recipe",Soup minestrone canned condensed,Minestrone soup home recipe,6040,0.513,,
+"Cake, sponge, commercially prepared","Cake, sponge, NS as to icing",Cake sponge commercially prepared,Cake sponge icing,18133,0.512,,
+"Rice mix, cheese flavor, dry mix, unprepared",Flavored rice mixture with cheese,Rice mix cheese flavor dry mix unprepared,Flavored rice mixture cheese,32024,0.511,,
+"Sauce, homemade, white, thick","Granola, homemade",Sauce homemade white thick,Granola homemade,6167,0.511,n,13411000
+"Soup, cream of celery, canned, condensed","Celery soup, cream of, canned, undiluted",Soup cream of celery canned condensed,Celery soup cream of canned undiluted,6010,0.511,,
+"Cereals ready-to-eat, POST, Shredded Wheat, original spoon-size","Shredded Wheat, 100%",Cereals ready eat POST Shredded Wheat original spoon size,Shredded Wheat,8148,0.509,,
+Cheesecake commercially prepared,"Meal supplement or replacement, commercially prepared, ready-to-drink",Cheesecake commercially prepared,Meal supplement replacement commercially prepared ready drink,18147,0.507,n,53104500
+"Cake, pound, commercially prepared, fat-free","Meal supplement or replacement, commercially prepared, ready-to-drink",Cake pound commercially prepared fat free,Meal supplement replacement commercially prepared ready drink,18451,0.506,n,53116280
+"Snack, potato chips, made from dried potatoes, plain","White potato, chips",Snack potato chip made from dried potato plain,White potato chip,19410,0.506,,
+"Tortillas, ready-to-bake or -fry, flour, refrigerated","Tortilla, flour (wheat)",Tortillas ready bake fry flour refrigerated,Tortilla flour wheat,18364,0.505,,
+"English muffins, plain, enriched, with ca prop (includes sourdough)","Muffin, English",English muffin plain enriched ca prop includes sourdough,Muffin English,18258,0.505,,
+"Cereals ready-to-eat, GENERAL MILLS, COCOA PUFFS, 25% Reduced Sugar",Cocoa Puffs,Cereals ready eat GENERAL MILLS COCOA PUFFS 25 Reduced Sugar,Cocoa Puffs,8635,0.505,,
+"Soup, vegetable with beef broth, canned, condensed","Milk, condensed, sweetened, diluted",Soup vegetable beef broth canned condensed,Milk condensed sweetened diluted,6072,0.503,n,75649010
+"Sweet rolls, cinnamon, commercially prepared with raisins","Roll, sweet, cinnamon bun, frosted",Sweet roll cinnamon commercially prepared raisin,Roll sweet cinnamon bun frosted,18356,0.503,n,51161020
+"Restaurant, Chinese, sesame chicken",Sesame oil,Restaurant Chinese sesame chicken,Sesame oil,36633,0.502,n,27445150
+"Candies, NESTLE, 100 GRAND Bar",100 GRAND Bar,Candies NESTLE GRAND Bar,GRAND Bar,19144,0.502,,
+"Restaurant, Mexican, spanish rice",Spanish rice,Restaurant Mexican spanish rice,Spanish rice,36417,0.5,,
+"Pie, egg custard, commercially prepared","Meal supplement or replacement, commercially prepared, ready-to-drink",Pie egg custard commercially prepared,Meal supplement replacement commercially prepared ready drink,18317,0.499,n,53344000
+"Cookies, animal crackers (includes arrowroot, tea biscuits)","Cracker, animal",Cookies animal cracker includes arrowroot tea biscuit,Cracker animal,28399,0.499,,
+"Cake, snack cakes, creme-filled, chocolate with frosting, low-fat, with added fiber","Cake, ice cream and cake roll, chocolate",Cake snack cake creme filled chocolate frosting low fat fiber,Cake ice cream cake roll chocolate,28296,0.497,n,53109270
+"Sauce, fish, ready-to-serve","Vegetable soup, prepared with water or ready-to-serve",Sauce fish ready serve,Vegetable soup prepared water ready serve,6179,0.497,n,27150210
+"Restaurant, Chinese, vegetable lo mein, without meat",Vegetable stew without meat,Restaurant Chinese vegetable lo mein without meat,Vegetable stew without meat,36625,0.497,n,58136110
+"Muffins, corn, commercially prepared","Meal supplement or replacement, commercially prepared, ready-to-drink",Muffins corn commercially prepared,Meal supplement replacement commercially prepared ready drink,18279,0.496,n,52206010
+"Cake, pound, commercially prepared, butter (includes fresh and frozen)","Biscuit, baking powder or buttermilk type, commercially baked",Cake pound commercially prepared butter includes fresh frozen,Biscuit baking powder buttermilk type commercially baked,18120,0.496,n,53116000
+"Fast foods, potato, french fried in vegetable oil","Vegetable oil, NFS",Fast food potato french fried vegetable oil,Vegetable oil,21138,0.496,n,71401000
+"Cereals ready-to-eat, MALT-O-MEAL, COLOSSAL CRUNCH","Cereal, ready-to-eat, NFS",Cereals ready eat MALT O MEAL COLOSSAL CRUNCH,Cereal ready eat,8346,0.495,n,57100100
+"School Lunch, pizza, cheese topping, thick crust, whole grain, frozen, cooked",Topping from cheese pizza,School Lunch pizza cheese topping thick crust whole grain frozen cooked,Topping from cheese pizza,21601,0.495,n,58106205
+"Rice bowl with chicken, frozen entree, prepared (includes fried, teriyaki, and sweet and sour varieties)",Teriyaki chicken with rice and vegetable (diet frozen meal),Rice bowl chicken frozen entree prepared includes fried teriyaki sweet sour variety,Teriyaki chicken rice vegetable diet frozen meal,22958,0.494,,
+"LEAN POCKETS, Ham N Cheddar",Cheddar cheese soup,LEAN POCKETS Ham N Cheddar,Cheddar cheese soup,22962,0.493,n,58126131
+"Cereals ready-to-eat, GENERAL MILLS, CHEERIOS, Banana Nut",Cheerios,Cereals ready eat GENERAL MILLS CHEERIOS Banana Nut,Cheerios,8592,0.493,n,57241000
+"Muffin, blueberry, commercially prepared, low-fat","Pie, blueberry, one crust",Muffin blueberry commercially prepared low fat,Pie blueberry one crust,18940,0.493,n,52301000
+"School Lunch, pizza, cheese topping, thin crust, whole grain, frozen, cooked",Topping from cheese pizza,School Lunch pizza cheese topping thin crust whole grain frozen cooked,Topping from cheese pizza,21600,0.493,n,58106200
+"Puddings, vanilla, dry mix, regular, prepared with whole milk","Pudding, chocolate, prepared from dry mix, milk added",Puddings vanilla dry mix regular prepared whole milk,Pudding chocolate prepared from dry mix milk,19207,0.492,n,13220110
+"Frozen novelties, ice type, lime","Lime juice, frozen",Frozen novelty ice type lime,Lime juice frozen,19280,0.491,,
+"Pasta mix, Italian lasagna, unprepared","Pastry, Italian, with cheese",Pasta mix Italian lasagna unprepared,Pastry Italian cheese,32010,0.491,n,58130310
+"Soup, chicken gumbo, canned, prepared with equal volume water",Chicken gumbo soup,Soup chicken gumbo canned prepared equal volume water,Chicken gumbo soup,6417,0.49,,
+"Snacks, potato chips, plain, salted","White potato, chips, unsalted",Snacks potato chip plain salted,White potato chip unsalted,19411,0.49,,
+"Cookies, butter, commercially prepared, enriched","Biscuit, baking powder or buttermilk type, commercially baked",Cookies butter commercially prepared enriched,Biscuit baking powder buttermilk type commercially baked,18155,0.49,,
+"HOT POCKETS Ham 'N Cheese Stuffed Sandwich, frozen","Hot ham and cheese sandwich, on bun",HOT POCKETS Ham N Cheese Stuffed Sandwich frozen,Hot ham cheese sandwich on bun,22537,0.49,,
+"Cake, white, prepared from recipe with coconut frosting","Cake, coconut, with icing",Cake white prepared from recipe coconut frosting,Cake coconut icing,18102,0.489,,
+"Soup, mushroom with beef stock, canned, condensed","Beef and mushroom soup, canned, low sodium",Soup mushroom beef stock canned condensed,Beef mushroom soup canned low sodium,6044,0.489,n,75607040
+"Restaurant, Latino, tamale, corn",Tamale with meat,Restaurant Latino tamale corn,Tamale meat,36411,0.489,,
+"Ravioli, cheese with tomato sauce, frozen, not prepared, includes regular and light entrees","Ravioli, cheese-filled, with tomato sauce (diet frozen meal)",Ravioli cheese tomato sauce frozen prepared includes regular light entree,Ravioli cheese filled tomato sauce diet frozen meal,22976,0.489,,
+"Cereals ready-to-eat, GENERAL MILLS, FIBER ONE, Caramel Delight","Sun Crunchers Cereal, General Mills",Cereals ready eat GENERAL MILLS FIBER ONE Caramel Delight,Sun Crunchers Cereal General Mills,8596,0.488,n,57206700
+"Candies, hard, dietetic or low calorie (sorbitol)","Dietetic or low calorie candy, chocolate covered",Candies hard dietetic low calorie sorbitol,Dietetic low calorie candy chocolate covered,43058,0.488,n,91770010
+"Macaroni or noodles with cheese, made from reduced fat packaged mix, unprepared","Macaroni or noodles with cheese, made from dry mix",Macaroni noodle cheese made from reduced fat packaged mix unprepared,Macaroni noodle cheese made from dry mix,32014,0.486,,
+"Soup, pea, green, canned, prepared with equal volume water","Pea soup, prepared with water",Soup pea green canned prepared equal volume water,Pea soup prepared water,6449,0.482,,
+"Cereals ready-to-eat, RALSTON CRISP RICE",Crispy Brown Rice Cereal,Cereals ready eat RALSTON CRISP RICE,Crispy Brown Rice Cereal,8025,0.481,,
+"Rice and vermicelli mix, chicken flavor, unprepared","Vermicelli, made from soybeans",Rice vermicelli mix chicken flavor unprepared,Vermicelli made from soybean,22998,0.48,,
+"Beverages, Fruit punch drink, with added nutrients, canned",Rice beverage,Beverages Fruit punch drink nutrient canned,Rice beverage,14267,0.48,n,92510610
+"Beverages, Tropical Punch, ready-to-drink",Rice beverage,Beverages Tropical Punch ready drink,Rice beverage,14276,0.477,n,92510630
+"Onion rings, breaded, par fried, frozen, prepared, heated in oven","Onion soup, cream of, prepared with milk",Onion ring breaded par fried frozen prepared heated oven,Onion soup cream of prepared milk,11296,0.477,n,75415020
+"Pie, apple, commercially prepared, enriched flour","Meal supplement or replacement, commercially prepared, ready-to-drink",Pie apple commercially prepared enriched flour,Meal supplement replacement commercially prepared ready drink,18301,0.476,n,53301000
+"Sauce, pasta, spaghetti/marinara, ready-to-serve",Spaghetti with tomato sauce and meatballs or spaghetti with meat sauce or spaghetti with meat sauce and,Sauce pasta spaghettimarinara ready serve,Spaghetti tomato sauce meatball spaghetti meat sauce spaghetti meat sauce,6931,0.473,n,74404010
+"Cereals ready-to-eat, MALT-O-MEAL, Frosted Mini SPOONERS","Cereal, ready-to-eat, NFS",Cereals ready eat MALT O MEAL Frosted Mini SPOONERS,Cereal ready eat,8500,0.472,n,57214000
+"Snacks, corn-based, extruded, chips, plain","Salty snacks, wheat- and corn-based chips",Snacks corn based extruded chip plain,Salty snack wheat corn based chip,19003,0.472,n,54401080
+"Fast foods, chicken, breaded and fried, boneless pieces, plain","Cheese, nuggets or pieces, breaded, baked, or fried",Fast food chicken breaded fried boneless piece plain,Cheese nugget piece breaded baked fried,21229,0.47,,
+"Egg rolls, pork, refrigerated, heated","Biscuit, baking powder or buttermilk type, made from refrigerated dough",Egg roll pork refrigerated heated,Biscuit baking powder buttermilk type made from refrigerated dough,22953,0.47,n,58110130
+"Cookies, chocolate chip, commercially prepared, regular, lower fat","Cookie, chocolate chip",Cookies chocolate chip commercially prepared regular lower fat,Cookie chocolate chip,18158,0.47,n,53206030
+"HOT POCKETS, CROISSANT POCKETS Chicken, Broccoli, and Cheddar Stuffed Sandwich, frozen","Croissant sandwich, filled with chicken, broccoli, and cheese sauce",HOT POCKETS CROISSANT POCKETS Chicken Broccoli Cheddar Stuffed Sandwich frozen,Croissant sandwich filled chicken broccoli cheese sauce,22535,0.468,,
+"Egg rolls, chicken, refrigerated, heated","Biscuit, baking powder or buttermilk type, made from refrigerated dough",Egg roll chicken refrigerated heated,Biscuit baking powder buttermilk type made from refrigerated dough,22954,0.466,n,58110170
+"Candies, MR. GOODBAR Chocolate Bar",M&M's Milk Chocolate Candies (formerly M&M's Plain Chocolate Candies),Candies MR GOODBAR Chocolate Bar,MMs Milk Chocolate Candies formerly MMs Plain Chocolate Candies,19143,0.465,n,91705070
+"Milk, chocolate, fluid, commercial, reduced fat, with added vitamin A and vitamin D","Milk, cow's, fluid, 2% fat",Milk chocolate fluid commercial reduced fat,Milk cow fluid fat,1103,0.465,n,11511400
+"Doughnuts, yeast-leavened, glazed, enriched (includes honey buns)","Doughnut, NS as to cake or yeast",Doughnuts yeast leavened glazed enriched includes honey bun,Doughnut cake yeast,18255,0.463,,
+"Cookies, animal, with frosting or icing","Cracker, animal",Cookies animal frosting icing,Cracker animal,28291,0.463,n,53244010
+"Peas and onions, frozen, cooked, boiled, drained, without salt","White potato, boiled, without peel, NS as to fat added in cooking",Peas onion frozen cooked boiled drained without salt,White potato boiled without peel fat,11327,0.463,n,75315110
+"Vegetables, mixed, frozen, cooked, boiled, drained, without salt",Vegetable stew without meat,Vegetables mixed frozen cooked boiled drained without salt,Vegetable stew without meat,11584,0.463,n,75311010
+"Restaurant, Chinese, vegetable chow mein, without meat or noodles",Vegetable stew without meat,Restaurant Chinese vegetable chow mein without meat noodle,Vegetable stew without meat,36624,0.463,n,75340020
+Papad,"Papaya, raw",Papad,Papaya raw,42200,0.462,n,41311000
+"Bread, gluten-free, white, made with rice flour, corn starch, and/or tapioca","Pudding, canned, tapioca, fat free",Bread gluten free white made rice flour corn starch andor tapioca,Pudding canned tapioca fat free,28337,0.461,n,51806010
+"Restaurant, Chinese, orange chicken","Orange, raw",Restaurant Chinese orange chicken,Orange raw,36629,0.459,n,28143210
+"Soup, bouillon cubes and granules, low sodium, dry","Beef, broth, bouillon, or consomme, canned, low sodium",Soup bouillon cube granule low sodium dry,Beef broth bouillon consomme canned low sodium,6981,0.459,,
+"Cake, fruitcake, commercially prepared","Biscuit, baking powder or buttermilk type, commercially baked",Cake fruitcake commercially prepared,Biscuit baking powder buttermilk type commercially baked,18110,0.459,n,53110000
+"Fast Foods, Fried Chicken, Breast, meat only, skin and breading removed","Chicken, breast, fried, no coating, NS as to skin eaten",Fast Foods Fried Chicken Breast meat skin breading removed,Chicken breast fried coating skin eaten,21464,0.456,n,24124120
+"Cookies, brownies, commercially prepared, reduced fat, with added fiber","Cookie, brownie, NS as to icing",Cookies brownie commercially prepared reduced fat fiber,Cookie brownie icing,28298,0.455,n,53204840
+"Snacks, vegetable chips, HAIN CELESTIAL GROUP, TERRA CHIPS",Vegetable chips,Snacks vegetable chip HAIN CELESTIAL GROUP TERRA CHIPS,Vegetable chip,25030,0.454,,
+"Bread, paratha, whole wheat, commercially prepared, frozen","Meal supplement or replacement, commercially prepared, ready-to-drink",Bread paratha whole wheat commercially prepared frozen,Meal supplement replacement commercially prepared ready drink,28286,0.454,n,51201010
+"Restaurant, Chinese, sweet and sour chicken",Sweet and sour chicken or turkey,Restaurant Chinese sweet sour chicken,Sweet sour chicken turkey,36621,0.453,,
+"Fast foods, potatoes, hash browns, round pieces or patty","White potato, hash brown, with cheese",Fast food potato hash brown round piece patty,White potato hash brown cheese,21026,0.452,n,71405020
+"Soup, ramen noodle, any flavor, dry","Noodle soup, NFS",Soup ramen noodle any flavor dry,Noodle soup,6583,0.452,n,58407000
+"Sauce, ready-to-serve, pepper, TABASCO",Hot pepper sauce,Sauce ready serve pepper TABASCO,Hot pepper sauce,6169,0.452,,
+"Soup, hot and sour, Chinese restaurant",Hot and sour soup,Soup hot sour Chinese restaurant,Hot sour soup,27001,0.452,,
+"Beef stew, canned entree","Beef, roast, canned",Beef stew canned entree,Beef roast canned,22905,0.45,n,27111300
+"Potatoes, french fried, all types, salt added in processing, frozen, home-prepared, oven heated","White potato, french fries, from frozen, oven baked",Potatoes french fried all type salt processing frozen home prepared oven heated,White potato french fry from frozen oven baked,11403,0.449,,
+"Popcorn, microwave, regular (butter) flavor, made with palm oil","Popcorn, flavored",Popcorn microwave regular butter flavor made palm oil,Popcorn flavored,25026,0.448,,
+"Snacks, M&M MARS, COMBOS Snacks Cheddar Cheese Pretzel","Snacks, onion-flavored rings",Snacks MM MARS COMBOS Snacks Cheddar Cheese Pretzel,Snacks onion flavored ring,19049,0.448,n,54408300
+"Fast Foods, Fried Chicken, Thigh, meat only, skin and breading removed","Cod, dried, salted, salt removed in water",Fast Foods Fried Chicken Thigh meat skin breading removed,Cod dried salted salt removed water,21466,0.445,n,24154220
+"School Lunch, chicken patty, whole grain breaded","Bread, whole grain white",School Lunch chicken patty whole grain breaded,Bread whole grain white,21610,0.444,n,24198700
+"Soup, chicken broth, canned, prepared with equal volume water","Vegetable chicken soup, canned, low sodium, prepared with water",Soup chicken broth canned prepared equal volume water,Vegetable chicken soup canned low sodium prepared water,6413,0.444,n,28340110
+"Snacks, GENERAL MILLS, CHEX MIX, traditional flavor","Snacks, onion-flavored rings",Snacks GENERAL MILLS CHEX MIX traditional flavor,Snacks onion flavored ring,19033,0.443,n,54402200
+"Pie, mince, prepared from recipe","Bean soup, home recipe",Pie mince prepared from recipe,Bean soup home recipe,18322,0.442,n,53306000
+"Bread, white, commercially prepared (includes soft bread crumbs)","Meal supplement or replacement, commercially prepared, ready-to-drink",Bread white commercially prepared includes soft bread crumb,Meal supplement replacement commercially prepared ready drink,18069,0.442,n,51101000
+"Cereals ready-to-eat, NATURE'S PATH, Organic FLAX PLUS, Pumpkin Granola","Bread, pumpkin",Cereals ready eat NATURES PATH Organic FLAX PLUS Pumpkin Granola,Bread pumpkin,8571,0.437,n,57227000
+"Snacks, soy chips or crisps, salted",Malt-O-Meal Crispy Rice,Snacks soy chip crisp salted,Malt O Meal Crispy Rice,25025,0.436,n,41410015
+"Cake, yellow, commercially prepared, with chocolate frosting, in-store bakery","Biscuit, baking powder or buttermilk type, commercially baked",Cake yellow commercially prepared chocolate frosting store bakery,Biscuit baking powder buttermilk type commercially baked,18140,0.436,n,53121200
+"Restaurant, family style, fish fillet, battered or breaded, fried","Fish stick, patty, or fillet, NS as to type, breaded or battered, baked",Restaurant family style fish fillet battered breaded fried,Fish stick patty fillet type breaded battered baked,36033,0.434,,
+"Cake, yellow, commercially prepared, with vanilla frosting","Biscuit, baking powder or buttermilk type, commercially baked",Cake yellow commercially prepared vanilla frosting,Biscuit baking powder buttermilk type commercially baked,18141,0.431,n,53121200
+"School Lunch, pizza, sausage topping, thick crust, whole grain, frozen, cooked",Topping from meat pizza,School Lunch pizza sausage topping thick crust whole grain frozen cooked,Topping from meat pizza,21605,0.431,n,58106630
+"Sauce, homemade, white, medium","Granola, homemade",Sauce homemade white medium,Granola homemade,6166,0.431,n,13411000
+"Snacks, popcorn, microwave, low fat","Popcorn, with cheese",Snacks popcorn microwave low fat,Popcorn cheese,25001,0.429,n,54403000
+"School Lunch, pizza, sausage topping, thin crust, whole grain, frozen, cooked",Topping from meat pizza,School Lunch pizza sausage topping thin crust whole grain frozen cooked,Topping from meat pizza,21604,0.429,n,58106630
+"Soup, tomato, canned, prepared with equal volume water, commercial","Tomato soup, prepared with water",Soup tomato canned prepared equal volume water commercial,Tomato soup prepared water,6559,0.428,,
+"Puddings, all flavors except chocolate, low calorie, instant, dry mix","Pie, pudding, flavors other than chocolate",Puddings all flavor except chocolate low calorie instant dry mix,Pie pudding flavor other than chocolate,44260,0.428,n,13220110
+"Fast foods, cheeseburger; single, large patty; with condiments","Cheeseburger, 1/4 lb meat, with ham, on bun",Fast food cheeseburger single large patty condiment,Cheeseburger 14 lb meat ham on bun,21398,0.428,n,27510350
+"Yellow rice with seasoning, dry packet mix, unprepared",Puerto Rican seasoning with ham,Yellow rice seasoning dry packet mix unprepared,Puerto Rican seasoning ham,32011,0.427,n,56205150
+"Headcheese, pork",Head cheese,Headcheese pork,Head cheese,7034,0.426,,
+"Cake, angelfood, dry mix, prepared","Cake, angel food, NS as to icing",Cake angelfood dry mix prepared,Cake angel icing,18088,0.425,,
+"Soup, black bean, canned, prepared with equal volume water",Black bean soup,Soup black bean canned prepared equal volume water,Black bean soup,6402,0.424,,
+"Potsticker or wonton, pork and vegetable, frozen, unprepared",Won ton (wonton) soup,Potsticker wonton pork vegetable frozen unprepared,Won ton wonton soup,32013,0.424,n,58113110
+"Chili, no beans, canned entree",Chicken and vegetable entree with noodles (frozen meal),Chili bean canned entree,Chicken vegetable entree noodle frozen meal,22911,0.421,n,27162010
+"Candies, 5TH AVENUE Candy Bar","Candy, NFS",Candies 5TH AVENUE Candy Bar,Candy,19098,0.421,n,91705070
+"Cereals ready-to-eat, QUAKER, SWEET CRUNCH/QUISP",Quaker Oat Bran Cereal,Cereals ready eat QUAKER SWEET CRUNCHQUISP,Quaker Oat Bran Cereal,8059,0.42,n,57328000
+"Candies, gum drops, no sugar or low calorie (sorbitol)",Dietetic or low calorie gumdrops,Candies gum drop sugar low calorie sorbitol,Dietetic low calorie gumdrop,43057,0.42,,
+"Cookies, chocolate chip, commercially prepared, regular, higher fat, enriched","Cookie, chocolate chip",Cookies chocolate chip commercially prepared regular higher fat enriched,Cookie chocolate chip,18159,0.419,,
+"Cereals ready-to-eat, RALSTON TASTEEOS","Cereal, ready-to-eat, NFS",Cereals ready eat RALSTON TASTEEOS,Cereal ready eat,8074,0.418,n,57241000
+"Candies, NESTLE, BIT-O'-HONEY Candy Chews","Candy, NFS",Candies NESTLE BIT O HONEY Candy Chews,Candy,19068,0.417,,
+"Ice creams, regular, low carbohydrate, vanilla","Pie, vanilla cream",Ice cream regular low carbohydrate vanilla,Pie vanilla cream,19898,0.415,,
+"Pasta mix, classic cheeseburger macaroni, unprepared","Cheeseburger, 1/4 lb meat, with ham, on bun",Pasta mix classic cheeseburger macaroni unprepared,Cheeseburger 14 lb meat ham on bun,32008,0.414,n,58163380
+"Rolls, dinner, plain, commercially prepared (includes brown-and-serve)","Meal supplement or replacement, commercially prepared, ready-to-drink",Rolls dinner plain commercially prepared includes brown serve,Meal supplement replacement commercially prepared ready drink,18342,0.412,n,51150000
+Yeast extract spread,"Pizza with extra meat and extra vegetables, thick crust",Yeast extract spread,Pizza extra meat extra vegetable thick crust,43406,0.412,,
+"Rolls, hamburger or hotdog, mixed-grain","Hamburger, plain, on bun",Rolls hamburger hotdog mixed grain,Hamburger plain on bun,18351,0.412,n,51000400
+"Bread, chapati or roti, whole wheat, commercially prepared, frozen","Meal supplement or replacement, commercially prepared, ready-to-drink",Bread chapati roti whole wheat commercially prepared frozen,Meal supplement replacement commercially prepared ready drink,28285,0.411,n,51201010
+"Snacks, potato chips, lightly salted","Light butter, stick, salted",Snacks potato chip lightly salted,Light butter stick salted,25064,0.41,n,71201010
+"Restaurant, family style, coleslaw",Coleslaw dressing,Restaurant family style coleslaw,Coleslaw dressing,36035,0.407,n,75141000
+"Turkey, stuffing, mashed potatoes w/gravy, assorted vegetables, frozen, microwaved","Turkey with vegetable, stuffing (diet frozen meal)",Turkey stuffing mashed potato wgravy assorted vegetable frozen microwaved,Turkey vegetable stuffing diet frozen meal,22957,0.406,n,28145210
+"Dessert topping, semi solid, frozen",Gelatin dessert with fruit and whipped topping,Dessert topping semi solid frozen,Gelatin dessert fruit whipped topping,1073,0.406,n,12220200
+"Candies, MARS SNACKFOOD US, SKITTLES Original Bite Size Candies",Skittles,Candies MARS SNACKFOOD US SKITTLES Original Bite Size Candies,Skittles,19370,0.404,,
+"Rolls, hard (includes kaiser)","Roll, white, hard",Rolls hard includes kaiser,Roll white hard,18353,0.404,,
+"Cream puff shell, prepared from recipe",Pie shell,Cream puff shell prepared from recipe,Pie shell,18237,0.4,,
+"Restaurant, Chinese, chicken and vegetables","Lemon chicken, Chinese style",Restaurant Chinese chicken vegetable,Lemon chicken Chinese style,36626,0.399,n,28143030
+"Soup, broccoli cheese, canned, condensed, commercial","Milk, condensed, sweetened, diluted",Soup broccoli cheese canned condensed commercial,Milk condensed sweetened diluted,6584,0.396,n,72302100
+"Fast foods, cheeseburger; single, regular patty, with condiments and vegetables","Pizza, cheese, with vegetables, regular crust",Fast food cheeseburger single regular patty condiment vegetable,Pizza cheese vegetable regular crust,21091,0.394,n,27510230
+"Restaurant, Chinese, fried rice, without meat","Egg, whole, fried without fat",Restaurant Chinese fried rice without meat,Egg whole fried without fat,36602,0.394,n,58150110
+"Candies, MARS SNACKFOOD US, STARBURST Fruit Chews, Original fruits","Fruit snacks candy, with high vitamin C",Candies MARS SNACKFOOD US STARBURST Fruit Chews Original fruit,Fruit snack candy C,19156,0.39,n,91745100
+"Cereals ready-to-eat, NATURE'S PATH, Organic FLAX PLUS flakes","Cereal, ready-to-eat, NFS",Cereals ready eat NATURES PATH Organic FLAX PLUS flake,Cereal ready eat,8656,0.39,,
+"Restaurant, family style, shrimp, breaded and fried","Rice, fried, with shrimp",Restaurant family style shrimp breaded fried,Rice fried shrimp,36016,0.389,n,26319140
+"Candies, jellybeans","Cake, jelly roll",Candies jellybeans,Cake jelly roll,19108,0.387,n,91745010
+"Cake, yellow, enriched, dry mix","Cake, yellow, standard-type mix (eggs and water added to dry mix), NS as to icing",Cake yellow enriched dry mix,Cake yellow standard type mix egg water dry mix icing,18144,0.386,n,53121100
+"Cookies, sugar, commercially prepared, regular (includes vanilla)","Meal supplement or replacement, commercially prepared, ready-to-drink",Cookies sugar commercially prepared regular includes vanilla,Meal supplement replacement commercially prepared ready drink,18204,0.384,n,53241500
+"Bread, naan, whole wheat, commercially prepared, refrigerated","Meal supplement or replacement, commercially prepared, ready-to-drink",Bread naan whole wheat commercially prepared refrigerated,Meal supplement replacement commercially prepared ready drink,28287,0.384,n,51108100
+"Fast foods, cheeseburger; single, regular patty, with condiments","Cheeseburger, 1/4 lb meat, with ham, on bun",Fast food cheeseburger single regular patty condiment,Cheeseburger 14 lb meat ham on bun,21090,0.381,n,27510230
+"Sweet Potatoes, french fried, frozen as packaged, salt added in processing",French dressing,Sweet Potatoes french fried frozen packaged salt processing,French dressing,31023,0.381,n,73410110
+"Macaroni or noodles with cheese, microwaveable, unprepared",Macaroni or noodles with cheese,Macaroni noodle cheese microwaveable unprepared,Macaroni noodle cheese,32016,0.378,,
+"Jellies, no sugar (with sodium saccharin), any flavors","Jelly, reduced sugar, all flavors",Jellies sugar sodium saccharin any flavor,Jelly reduced sugar all flavor,43027,0.378,n,91405000
+"Sandwich spread, with chopped pickle, regular, unspecified oils",Sandwich spread,Sandwich spread chopped pickle regular unspecified oil,Sandwich spread,4030,0.374,,
+"Candies, HERSHEY'S SKOR Toffee Bar","Cookie, toffee bar",Candies HERSHEYS SKOR Toffee Bar,Cookie toffee bar,19136,0.373,n,91760100
+"Frozen novelties, ice type, pop",Ice pop,Frozen novelty ice type pop,Ice pop,19283,0.368,,
+"Fast foods, hamburger, large, single patty, with condiments","Hamburger, plain, on bun",Fast food hamburger large single patty condiment,Hamburger plain on bun,21202,0.367,n,27510510
+"Restaurant, family style, chili with meat and beans",Familia,Restaurant family style chili meat bean,Familia,36037,0.362,n,27111400
+Phyllo dough,"Bread, sour dough",Phyllo dough,Bread sour dough,18338,0.361,n,53452400
+"Bread crumbs, dry, grated, plain","Crepe, plain",Bread crumb dry grated plain,Crepe plain,18079,0.361,n,51101010
+"Pasta mix, classic beef, unprepared","Wheat bran, unprocessed",Pasta mix classic beef unprepared,Wheat bran unprocessed,32009,0.357,n,58163380
+"Candies, chocolate, dark, NFS (45-59% cacao solids 90%; 60-69% cacao solids 5%; 70-85% cacao solids 5%)","Pear, cooked or canned, drained solids",Candies chocolate dark 45 59 cacao solid 90 60 69 cacao solid 70 85 cacao solid,Pear cooked canned drained solid,19905,0.354,n,91705300
+Jellies,"Cake, jelly roll",Jellies,Cake jelly roll,19300,0.347,n,91401000
+"Pie crust, standard-type, frozen, ready-to-bake, enriched, baked","Cake, yellow, standard-type mix (eggs and water added to dry mix), NS as to icing",Pie crust standard type frozen ready bake enriched baked,Cake yellow standard type mix egg water dry mix icing,18335,0.337,n,53391000
+"Restaurant, family style, french fries","White potato, french fries, with cheese",Restaurant family style french fry,White potato french fry cheese,36014,0.334,n,71401000
+"Fast foods, hamburger; single, regular patty; with condiments","Gyro sandwich (pita bread, beef, lamb, onion, condiments), with tomato and spread",Fast food hamburger single regular patty condiment,Gyro sandwich pita bread beef lamb onion condiment tomato spread,21108,0.331,n,27510520
+"Bagels, plain, enriched, with calcium propionate (includes onion, poppy, sesame)",Sesame oil,Bagels plain enriched calcium propionate includes onion poppy sesame,Sesame oil,18001,0.328,n,51180010
+"Restaurant, family style, macaroni & cheese, from kids' menu",Macaroni and cheese with egg,Restaurant family style macaroni cheese from kid menu,Macaroni cheese egg,36017,0.328,n,58145110
+"Pie crust, standard-type, prepared from recipe, unbaked","Pizza with meat, prepared from frozen, thick crust",Pie crust standard type prepared from recipe unbaked,Pizza meat prepared from frozen thick crust,18402,0.327,n,53391000
+"Restaurant, Latino, empanadas, beef, prepared","Empanada, Mexican turnover, fruit-filled",Restaurant Latino empanadas beef prepared,Empanada Mexican turnover fruit filled,36403,0.321,n,58116120
+"Topping, SMUCKER'S MAGIC SHELL","Topping, fruit",Topping SMUCKERS MAGIC SHELL,Topping fruit,19029,0.315,n,91304020
+"Frozen novelties, No Sugar Added, FUDGSICLE pops","Light ice cream, fudgesicle (formerly ice milk)",Frozen novelty No Sugar Added FUDGSICLE pop,Light ice cream fudgesicle formerly ice milk,19871,0.301,,
+"CAMPBELL'S, HEALTHY REQUEST, chicken with rice, condensed","Milk, condensed, sweetened, diluted",CAMPBELLS HEALTHY REQUEST chicken rice condensed,Milk condensed sweetened diluted,6029,0.284,n,28340210
+"Snacks, KRAFT, CORNNUTS, plain","Snacks, onion-flavored rings",Snacks KRAFT CORNNUTS plain,Snacks onion flavored ring,19009,0.269,n,54401010
+"Candies, NESTLE, OH HENRY! Bar",M&M's Milk Chocolate Candies (formerly M&M's Plain Chocolate Candies),Candies NESTLE OH HENRY Bar,MMs Milk Chocolate Candies formerly MMs Plain Chocolate Candies,19118,0.26,n,91703060
+"Candies, HERSHEYS, PAYDAY Bar",M&M's Milk Chocolate Candies (formerly M&M's Plain Chocolate Candies),Candies HERSHEYS PAYDAY Bar,MMs Milk Chocolate Candies formerly MMs Plain Chocolate Candies,19923,0.217,n,91703030
+"Fish, sardine, Pacific, canned in tomato sauce, drained solids with bone","Pear, cooked or canned, drained solids",Fish sardine Pacific canned tomato sauce drained solid bone,Pear cooked canned drained solid,15089,0.551,n,27150350
+"Chili with beans, canned","Chicken, canned, meat only",Chili bean canned,Chicken canned meat,16059,0.54,n,41221020
