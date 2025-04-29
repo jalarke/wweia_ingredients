@@ -1,0 +1,13 @@
+name: wweia_ingredients
+channels:
+  - defaults
+dependencies:
+  - python==3.8.8
+  - pandas
+  - dask
+  - requests
+  - openpyxl
+  - pip
+  - pip:
+    - polyfuzz==0.3.3
+    - nltk==3.7
